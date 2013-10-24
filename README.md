@@ -40,7 +40,9 @@ For sure, corruption and fraud were present. As Naomi Klein lucidly explained in
 
 Here's why. Let's rewind 30 years and see how the banks work. We're in 1980, and banks are the shining cornerstones of modern society. They are large, boring houses for financial machines. The banks arbitrate between those who have money and those who need it, a vital service for which people gladly pay. Critically, this service takes vast amounts of computing power. Simply adding and subtracting and multiplying and dividing all those figures takes industrial-strength brute force. Banks have huge data centers: rows of blinking mainframes and humming disk drives, all adding up to tons of heavy metal in massive air-conditioned halls.
 
-Meanwhile -- silent and unstoppable -- the spread of knowledge drives down the cost of computers. First, smaller and cheaper minicomputers spread into departments. Then the personal computer explodes into the home, university, and business. Large firms like IBM try to keep their prices stable, meaning they give their customers more and more computing power for the same price. The true cost of building a bank-sized data center drops by 50% every two years. The result is that older banks start to face competition from small aggressive competitors, especially as the Internet begins to make the local branches obsolete. The big banks grow by buying smaller local banks, an easy task due to the fact that they possess lots of excess capacity. Then, they cut costs by shutting branches and merge with insurance companies to expand their services.
+Meanwhile -- silent and unstoppable -- the spread of knowledge drives down the cost of computers. First, smaller and cheaper minicomputers spread into departments. Then the personal computer explodes into the home, university, and business. Large firms like IBM try to keep their prices stable, meaning they give their customers more and more computing power for the same price.
+
+The true cost of building a bank-sized data center drops by 50% every two years. The result is that older banks start to face competition from small aggressive competitors, especially as the Internet begins to make the local branches obsolete. The big banks grow by buying smaller local banks, an easy task due to the fact that they possess lots of excess capacity. Then, they cut costs by shutting branches and merge with insurance companies to expand their services.
 
 All the while, competition is driving down profit margins. If your bank asked 5% per year for a mortgage and another bank 1,000 km away offered 4%, you would not hesitate to go with the lower rate. Similarly, if your bank offered 3% interest on savings, and a foreign competitor offered 6%, where would you put your money? For years, in Europe, you could literally earn 2-3% more on deposits than you had to pay on a mortgage. This should have been a clear sign of trouble, yet people just assumed there was some magic at play.
 
@@ -50,7 +52,7 @@ The large banks *must* find ways to continue to make their 6% profit annually. A
 
 Meanwhile, cost gravity never stops. By 2013, the cost of running a 1980's bank had fallen by 128,000 times. If it cost $10 per month to handle one customer in 1980, by 2013 it cost just over $75 per month for 1M customers. And by 2052, it will cost only $1.00 per month to handle the banking needs of every person on Earth.
 
-The collapse happened because those ever-riskier bets didn't pay off. It was predictable, and [some people did predict it](http://www.eupaco.org/report:david-martin), yet there was a huge incentive for those involved to not think it through. You might feel as though it was criminally stupid to make those bets. Certainly, it was immoral to have the public purse pay the debt while still giving bonuses to all involved. In the end, every empire bets on borrowed time. It's always the same, whether the timescale is "next quarter" or "next century." Bank or beggar, life is always "so far, so good."
+The collapse happened because those ever-riskier bets didn't pay off. It was predictable, and [some people did predict it](http://www.eupaco.org/report:david-martin), yet there was a huge incentive for those involved to not think it through. You might feel as though it was criminally stupid to make those bets. Certainly, it was immoral to have the public purse pay the debt while still giving bonuses to all involved. In the end, every empire bets on borrowed time. It's always the same, whether the time scale is "next quarter" or "next century." Bank or beggar, life is always "so far, so good."
 
 When we understand that cost gravity caused the banking crash, we can try to predict the future of banking. Banking is an essential service. However, it cannot be profitable except by rolling back time and banning cheap information technology, or by creating artificial barriers to competition.
 
@@ -62,7 +64,7 @@ In the US, the trend is quite different. Instead of intervening in the running o
 
 When I started studying at the University of York, Computer Science wasn't yet a proper subject; it was an abstract (and mostly tedious) offshoot of mathematics. It was another 10 years before I got my first modem and connected to the embryonic Internet of email, news groups, and bulletin boards of the early 1990's.
 
-We are close to [full planetary connectivity](https://www.google.com/search?q=how+many+phones+in+the+world) by at least mobile phone, and increasingly via smartphones that provide Internet access. Getting online -- even if "only" via a shared mobile phone -- is the surest way to escape poverty, just as moving to a city was previously the best way to escape poverty since the nineteenth century.
+We are close to [full planetary connectivity](https://www.google.com/search?q=how+many+phones+in+the+world) by at least mobile phone, and increasingly via smartphones that provide Internet access. Getting on line -- even if "only" via a shared mobile phone -- is the surest way to escape poverty, just as moving to a city was previously the best way to escape poverty since the nineteenth century.
 
 Powered by steam and coal, the Industrial Revolution of the late eighteenth and early nineteenth century brought people into new cities where they redefined social, economic, and political reality. The new social concentrations of nineteenth century industrial cities allowed an entrepreneurial middle class to emerge, and quite rapidly their economic power turned into political power. In 1848, a political revolution occurred across Europe, leading to the establishment of parliamentary democracy in many countries.
 
@@ -74,7 +76,7 @@ Old money fights back, using whatever weapons are available. Occasionally, they 
 
 In 1815, as the Industrial Revolution peaked, British landowners (the old money) enacted the Corn Laws to block the transfer of power to the new middle classes by taxing industrialization. The historian [David Cody writes](https://en.wikipedia.org/wiki/Corn_Laws#cite_note-2), "After a lengthy campaign, opponents of the law finally got their way in 1846 -- a significant triumph which was indicative of the new political power of the English middle class." By 1850, the Industrial Revolution was over and across Europe, power shifted away from landowners and towards the new urban middle classes.
 
-In the early twenty-first century, the upper classes are business and political elites who accumulated their wealth and power over the last fifty years. The middle classes are all those who "got connected," and the lower classes are those who cannot afford to get online. We will, over the next decades, see similar attempts by this generation of old money to throttle the growing power of the digital middle classes. Such attempts have actually been going on for some time.
+In the early twenty-first century, the upper classes are business and political elites who accumulated their wealth and power over the last fifty years. The middle classes are all those who "got connected," soon to be most of world's population, and the lower classes are the shrinking few who cannot yet get on line. We will, over the next decades, see similar attempts by this generation of old money to throttle the growing power of this global digital middle class.
 
 ## The Counter-Revolution Today
 
@@ -100,7 +102,9 @@ Conflict defines us. It destroys us, or makes us stronger. It's out of conflict 
 
 When we say that the Internet "removes borders," this will one day literally be true. Two generations from now, the political structure of nation-states will be as quaint as medieval city-states, shires, and dukedoms. Just as with the Corn Laws in nineteenth-century Britain, the injustices of the counter-revolution are driving a generation to political activism. Perhaps the first and most significant digital activist was Richard Stallman, who in 1989 nailed the GNU General Public License (GPL) to the church door. I'll come back to Stallman's story in “Going Digital”. Today, activists across the world are occupying the squares and streets of our cities, demanding an end to crony politics.
 
-I started to decrypt and document the dynamics of the digital revolution and counter-revolution in 1999, and then in 2005 took over as president of the [Foundation for a Free Information Infrastructure](http://www.ffii.org) (FFII), a European activist network that fought software patents. We built websites and campaigns, organized conferences, and wrote laws. They called us "anti-business" so we wore suits and brought countless small business owners to speak. We tried to convince emerging Internet giants to support us. We were five years too early. At the time, Google had a single solitary patent lawyer and could not take the patent problem seriously and help us. While we defeated a huge army of lobbyists in the European Parliament in 2005, it was a temporary success. Every committed FFII activist burned out and had to go back to a "normal" life.
+I started to decrypt and document the dynamics of the digital revolution and counter-revolution in 1999, and then in 2005 took over as president of the [Foundation for a Free Information Infrastructure](http://www.ffii.org) (FFII), a European activist network that fought software patents. We built websites and campaigns, organized conferences, and wrote laws. They called us "anti-business" so we wore suits and brought countless small business owners to speak. We tried to convince emerging Internet giants to support us.
+
+We were five years too early. At the time, Google had a single solitary patent lawyer and could not take the patent problem seriously and help us. While we defeated a huge army of lobbyists in the European Parliament in 2005, it was a temporary success. Every committed FFII activist burned out and had to go back to a "normal" life.
 
 The FFII is more or less shuttered now. It spawned successors like [April](http://www.april.org) and imitators like [End Software Patents](http://endsoftpatents.org). Younger minds, unhampered by twentieth century conventions of style and reputation, continue to deconstruct the concept of "organization." They are creating new activist communities capable of challenging entire governments. From FFII to Anonymous, they are the Anti-Corn-Law League of the digital revolution.
 
@@ -118,7 +122,9 @@ In this chapter, I'll examine how the Internet is changing our society. It's hap
 
 During the Industrial Age, many corporations were born and grew large, becoming what we see today as "old money." This established group tends to view the wilder aspects of the digital economy as a threat. In fact, it often directly tries to control, slow, or reverse technological progress. It's a safe bet that despite its best efforts, every product of the human mind that can be digitized, will be digitized. We've already crossed the digital horizon in many industries and the rest will follow. Whether it be the notes of a new symphony, the design of a new pair of jeans, or the frames of a subway surveillance camera, human culture is ultimately going to end up as one very long number: a stream of bits. This is a historic inevitability.
 
-Knowledge has largely moved online, with Google acting as the general index and Wikipedia and Facebook as the aggregates of human knowledge. Who you know is as important as what you know. Business has moved online in many cases: email, VoIP, wikis, mobile phones, video chats, and virtual teams working for virtual companies selling virtual products to virtual customers for virtual money. Digital entertainment products -- music, video, games, social networks, pornography -- are the main attractions of the digital society to many people. Art students in the rich world switched to easier "new media" like video in the late 1990's and early part of the twenty-first century. Analog culture -- typewriters, board games, printed books, handwritten letters -- are becoming antiques. Collect those postcards, because your kids won't ever receive one.
+Knowledge has largely moved on line, with Google acting as the general index and Wikipedia and Facebook as the aggregates of human knowledge. Who you know is as important as what you know. Business has moved on line in many cases: email, VoIP, wikis, mobile phones, video chats, and virtual teams working for virtual companies selling virtual products to virtual customers for virtual money.
+
+Digital entertainment products -- music, video, games, social networks, pornography -- are the main attractions of the digital society to many people. Art students in the rich world switched to easier "new media" like video in the late 1990's and early part of the twenty-first century. Analog culture -- typewriters, board games, printed books, handwritten letters -- are becoming antiques. Collect those postcards, because your kids won't ever receive one.
 
 When culture becomes digital, it's more than just a technological shift. With this shift, we also see new behaviors emerge. Take the music industry as an example. It used to be a top-down, industrial economy in which large firms delivered products to the market and small firms wanted to become large. Today, the avant-garde music industry consists of DJ mix communities centered around a handful of artists. Scale and growth means reaching more people, not hiring staff and buying larger offices. Music has always been language. When that language is digitized, a group of underground DJs with computers are more creative and powerful than the largest music business. Not only are bricks and mortar irrelevant in the digital economy, they are a handicap.
 
@@ -154,9 +160,11 @@ Cost gravity is what keeps the digital world alive: as our digital universe doub
 
 What drives cost gravity? The software industry, which creates purely immaterial products, shows how this process works. Software represents distilled knowledge about how to approach specific types of problems that can be solved using general-purpose computers. Collecting this knowledge is expensive at the start because it means fishing it out of individuals' brains. People need to travel, meet, talk, and think together. Once that's done, it is almost free to distribute, share, and remix the resulting knowledge.
 
-So the digital economy has these rapid cycles where new products move from costly luxury to free commodity within one or two decades. Email was invented around 1980 and was available to very few privileged people. In 1990, my professional email account cost me about EUR 1,200 a year -- more than my rent! By 2000, email was widely and freely available to everyone through web services like Hotmail.
+So the digital economy has these rapid cycles where new products move from costly luxury to free commodity within one or two decades. Email was invented around 1980 and was available to very few privileged people. In 1990, my professional email account cost me about €1,200 a year -- more than my rent! By 2000, email was widely and freely available to everyone through web services like Hotmail.
 
-The digital economy is built around either accepting or distorting this process of cost gravity. There are many ways to make a lot of money in the digital economy. One way is to create a company based on a not-yet-commoditized product and sell it to a larger, less agile firm (Hotmail, Flickr, YouTube and many others followed this model). Another is to make and give away products that other (slower) firms are still trying to sell, and use this to open the market to new services (Google does this very well). A third approach is to create your own captive society and force it to use your products where, without real competition, prices can remain artificially high (Microsoft and more recently Apple are good examples of this). Finally, you could sell luxuries and fashion to people who have lots of disposable income (Apple is a fine example).
+The digital economy is built around either accepting or distorting this process of cost gravity. There are many ways to make a lot of money in the digital economy. One way is to create a company based on a not-yet-commoditized product and sell it to a larger, less agile firm (Hotmail, Flickr, YouTube and many others followed this model). Another is to make and give away products that other (slower) firms are still trying to sell, and use this to open the market to new services (Google does this very well).
+
+A third approach is to create your own captive society and force it to use your products where, without real competition, prices can remain artificially high (Microsoft and more recently Apple are good examples of this). Finally, you could sell luxuries and fashion to people who have lots of disposable income (Apple is a fine example).
 
 Cheaper digital technology also affects the larger economy. Transport gets more efficient, and cheaper. Production becomes automated and cheaper. Administration becomes more efficient, automated, and cheaper. The rapid global spread of digital technology is a principal cause of the growth in global prosperity over the last decade.
 
@@ -168,9 +176,11 @@ The Internet -- the fabric of digital society -- was born on 7 April 1969, a few
 
 Crocker, Carr, and Rulifson are not household names. Steve Crocker and his team invented the Requests for Comments, or RFC series. These documents became the laws of the Internet, specifying every standard in a clear form that was freely usable by all. These were spectacularly successful standards by any measure. They were implemented in hundreds of thousands of products and have survived for forty years with no sign of decay. The RFC system did not only define standards for protocols, it also defined rules for the legislative process itself.
 
-Today, despite this success, it is becoming harder and harder to make new protocols and standards. There are too many billions that depend on controlling, taxing, and corrupting standards. Patents are a major threat. The calculation is simple: imagine if email had been patented -- how much money would the patent holder (let's call him the "inventor" or "job creator" for effect) have earned? If email had been patented -- which happily it was not -- then we would have suffered two decades of stagnation and suspension of cost gravity. This happened before -- following the patenting of James Watt's steam engine by his business partner -- and is behind the apparent immunity of some industries (pharmaceutics and telecommunications, mainly) to cost gravity.
+Today, despite this success, it is becoming harder and harder to make new protocols and standards. There are too many billions that depend on controlling, taxing, and corrupting standards. Patents are a major threat. The calculation is simple: imagine if email had been patented -- how much money would the patent holder (let's call him the "inventor" or "job creator" for effect) have earned? If email had been patented -- which happily it was not -- then we would have suffered two decades of stagnation and suspension of cost gravity.
 
-If silicon is the space in which digital society grows, knowledge is its blood, and software its muscles. Patents make it illegal to reuse knowledge and (despite the old rhetoric of the patent industry) kill the broad incentive to invest. We'll come back to patents later. For now, I'll leave you with that glimpse of how dangerous they are.
+This has happened often in history, notably during the Industrial Revolution, with James Watt's steam engine patents. As Michele Boldrin and David K. Levine wrote, in their book ["Against Intellectual Monopoly"](http://levine.sscnet.ucla.edu/general/intellectual/against.htm), "During the period of Watt's patents the United Kingdom added about 750 horsepower of steam engines per year. In the thirty years following Watt's patents, additional horsepower was added at a rate of more than 4,000 per year."
+
+Any expensive product or service that is widely used, yet immune to cost gravity -- such as medicines or mobile phone calls -- is protected by a patent cartel. If silicon is the space in which digital society grows, knowledge is its blood, and software its muscles. Patents make it illegal to reuse knowledge and (despite the old rhetoric of the patent industry) kill the broad incentive to invest. We'll come back to patents later. For now, I'll leave you with that glimpse of how dangerous they are.
 
 ## A Brief History of the Internet
 
@@ -180,17 +190,19 @@ In the 1960's, mainframes ruled. These were huge expensive machines run like pri
 
 The first Internet was actually built out of smaller networks like Arpanet, which had a whopping 213 hosts in 1981, and Usenet, which had 940 hosts by 1984. The Internet doubled in size every eighteen months. The Internet Protocol (IP) made it possible to route packets between networks (not just inside single networks) and after Big Brother failed to appear in 1984 (except in Apple adverts), the Internet grew into a worldwide research network that reached most places except Africa.
 
-The Internet's dark side as we know and love it -- spam, viruses, porn sites, download sites, credit card fraud, identity theft, malware -- blessed us with a brief preview in 1988, when the first worm flattened the academic Internet. We had to wait until 1990, when commercial restrictions on Internet use were lifted; and then 1991, when Tim-Berners Lee invented the web at CERN, in Geneva; and finally 1993, when Al Gore found funding for the development of a graphical web browser named Mosaic. Suddenly, any fool with a PC and a modem could get online, and The Real Internet was born.
+The Internet's dark side as we know and love it -- spam, viruses, porn sites, download sites, credit card fraud, identity theft, malware -- blessed us with a brief preview in 1988, when the first worm flattened the academic Internet. We had to wait until 1990, when commercial restrictions on Internet use were lifted; and then 1991, when Tim-Berners Lee invented the web at CERN, in Geneva; and finally 1993, when Al Gore found funding for the development of a graphical web browser named Mosaic. Suddenly, any fool with a PC and a modem could get on line, and The Real Internet was born.
 
 It still took Microsoft more than two years to catch on. Rather than recognize the new Internet, it stubbornly rolled out its own "Microsoft Network" that hardly talked to the Internet at all. Windows 95, despite being the most installed software of 1995 after [the game Doom](https://en.wikipedia.org/wiki/Doom_(video_game)#Release), had no Internet functionality whatsoever. When Netscape became the dominant browser, Microsoft realized its mistake, and brought out a patch for Windows 95 and a branded version of Mosaic. It then slowly beat Netscape to death by giving its browser away for free, destroying Netscape's market, and establishing itself as the new bully on the Internet block.
 
 In 1998, the domain name system was privatized and opened to competition. Suddenly, the cost of buying a dot-com name fell to rock bottom. Not surprisingly, lots of people bought dot-com names. Sensing a gold mine, the island kingdom of Tonga started selling .to names, and soon every country was selling its "national" domains to all and sundry. The coolest were probably .tv and .fm, though.
 
-Also in 1998, Google was founded, and soon their revolutionary concept of "it works the way you expect" made them King of the Search Engines. Once upon a time, the list of all websites was twenty pages long. I still have a book that has the entire World Wide Web printed as an appendix. Then the list got too long to print and sites like Yahoo! organized them into categories. Then the category list got too large to keep updated, and Lycos invented the full-text search. This was too slow, so Digital Equipment Corporation built a natty search engine called Altavista to show how to do it properly. The results for any search got too long, so Google invented the ranked search, which pretty much fixed the search issue. Google also threw all the clutter off the main page. Less is more.
+Also in 1998, Google was founded, and soon their revolutionary concept of "it works the way you expect" made them King of the Search Engines. Once upon a time, the list of all websites was twenty pages long. I still have a book that has the entire World Wide Web printed as an appendix. Then the list got too long to print and sites like Yahoo! organized them into categories.
+
+Then the category list got too large to keep updated, and Lycos invented the full-text search. This was too slow, so Digital Equipment Corporation built a natty search engine called Altavista to show how to do it properly. The results for any search got too long, so Google invented the ranked search, which pretty much fixed the search issue. Google also threw all the clutter off the main page. Less is more.
 
 The dot-com boom bubbled in 1999, driven by the dream of cheap access to millions -- no, billions -- of consumers. Investors threw huge amounts of money at firms whose business plan typically went: "*1. Give people something free. 2. ??? 3. Profit!*" In 2000, the dot-com bubble burst, mainly because big firms had spent so much cash on solving the millennium Y2K "crisis" that they had to freeze all new IT spending for two or three years. Big IT firms' profits fell, investors panicked, the stock market collapsed, and so did most dot-com firms. Most of those companies' business plans were empty anyway.
 
-In 1999, Napster started to let people trade songs online. It was blatantly illegal and incredibly popular. Napster was almost immediately sued and shut down by lawsuits in 2001, the same year that Wikipedia, the blatantly legal and incredibly popular shared-knowledge collection website, was launched. After shrugging off many years of contempt and ridicule for allowing anyone to edit pages, Wikipedia made Encyclopedia Britannica redundant by around 2005.
+In 1999, Napster started to let people trade songs on line. It was blatantly illegal and incredibly popular. Napster was almost immediately sued and shut down by lawsuits in 2001, the same year that Wikipedia, the blatantly legal and incredibly popular shared-knowledge collection website, was launched. After shrugging off many years of contempt and ridicule for allowing anyone to edit pages, Wikipedia made Encyclopedia Britannica redundant by around 2005.
 
 Around the Millennium, it was not yet clear that the digital revolution was real. By the late 1990's, the widespread use of computers at work had lowered -- not raised -- productivity. Everyone was playing Solitaire instead of worrying about the coming end of the world. The dot-com crash seemed to prove that brick-and-mortar was still the real world and that "digital mindshare" was a hoax.
 
@@ -198,7 +210,7 @@ From 1999 to 2004, huge swathes of the post-industrial service economy quietly c
 
 Ironically, given their reluctance to innovate and their dependence on captive markets, it was Microsoft that triggered Web 2.0. In 1999 they released a small toolkit called XMLHTTP that let web authors escape the click-driven box of the classic web page. Suddenly pages could update themselves, and started to look like real applications. Google flew with the idea, using it for Gmail and Maps, and "Ajax" was born. Flickr and YouTube, launched in 2004 and 2005, mixed the pretty new Ajax technologies with community and self-created content to create massive hits.
 
-The Internet has continued its explosive takeover of technical, social, economic, and political life. Pretty much every person on the planet is connected -- if not directly, then by immediate proxy. We amplify our lives through Facebook, Twitter, massive multiplayer games, email, chat, Skype. The only people who are not online fairly regularly with a diverse network of contacts are too poor, too old, too young, or (and I'm speculating here) young men who are so socially isolated as to present a "lone wolf" threat.
+The Internet has continued its explosive takeover of technical, social, economic, and political life. Pretty much every person on the planet is connected -- if not directly, then by immediate proxy. We amplify our lives through Facebook, Twitter, massive multiplayer games, email, chat, Skype. The only people who are not on line fairly regularly with a diverse network of contacts are too poor, too old, too young, or (and I'm speculating here) young men who are so socially isolated as to present a "lone wolf" threat.
 
 Digital political activism has never been more aggressive, confident, and successful as it confronts abusive cults, authoritarian governments, and dictators, and spreads its [philosophical anarchist vision of the future](https://en.wikipedia.org/wiki/Philosophical_anarchism). Anonymous, the faceless un-organization that grew from image-sharing forums like 4chan.org, is [arguably](http://news.nationalpost.com/2012/05/12/insider-tells-why-anonymous-might-well-be-the-most-powerful-organization-on-earth/) one of the most powerful organizations on earth.
 
@@ -214,15 +226,19 @@ All of human society depends on communications. When we can reach a hundred time
 
 ### Entertainment
 
-Humans are neotonous animals: we act like kids for most of our lives. It was our own invention of fire that gave us cooked food and freed us from needing the large adult ape jawbone. A smaller jaw and cooked food meant a thinner and lighter skull, which allowed more space for the brain. Since humans learned to make fire, every labor-saving invention has gradually reduced our need to be self-sufficient wild animals and turned us into a self-domesticated species. Like our dogs, which are domesticated and neotonous wolves, we play even as adults. The Internet has always been a fertile space for imaginative ways to have fun. Chatting with friends, online games, porn, aimless surfing, shopping, swapping music and films; the Internet has a powerful pull on our baby ape nature.
+Humans are neotonous animals: we act like kids for most of our lives. It was our own invention of fire that gave us cooked food and freed us from needing the large adult ape jawbone. A smaller jaw and cooked food meant a thinner and lighter skull, which allowed more space for the brain. Since humans learned to make fire, every labor-saving invention has gradually reduced our need to be self-sufficient wild animals and turned us into a self-domesticated species.
+
+Like our dogs, which are domesticated and neotonous wolves, we play even as adults. The Internet has always been a fertile space for imaginative ways to have fun. Chatting with friends, on-line games, porn, aimless surfing, shopping, swapping music and films; the Internet has a powerful pull on our baby ape nature.
 
 ### Communities and Social Networks
 
-Since the earliest bulletin board systems, humans have been drawn to join and hang out in online communities. Since its birth, the Internet has offered a rich world of special interest groups. Whatever your passion, the Internet provides hundreds, even millions, of people who share it, right at your fingertips. Pre-Internet commercial networks like Compuserve and AOL essentially sold "community" as their main product, and today this drives big sites like Facebook, Twitter, Reddit, and YouTube.
+Since the earliest bulletin board systems, humans have been drawn to join and hang out in on-line communities. Since its birth, the Internet has offered a rich world of special interest groups. Whatever your passion, the Internet provides hundreds, even millions, of people who share it, right at your fingertips. Pre-Internet commercial networks like Compuserve and AOL essentially sold "community" as their main product, and today this drives big sites like Facebook, Twitter, Reddit, and YouTube.
 
 ### Business
 
-Even though the Internet opened to commercial use only in the early 1990's, it's become an essential tool for all industries. Obviously, communications is a big driver for business. Email is very cheap. We also adopted the Internet because it became an excellent research tool, a cheap way to handle clients' problems (via forums and wikis), a cheap way to do marketing and sales (websites), a cheap distribution channel for digital goods (especially for the software industry), and a cheap backbone for virtual organizations. In 1996, one of our large clients was shocked when we proposed to make a new application using the web. Their disbelieving response was, roughly, "this could never work." By 1999, everyone was trying to move their business online, and despite a rough start, most US and European businesses were firmly online by 2003 or so.
+Even though the Internet opened to commercial use only in the early 1990's, it's become an essential tool for all industries. Obviously, communications is a big driver for business. Email is very cheap. We also adopted the Internet because it became an excellent research tool, a cheap way to handle clients' problems (via forums and wikis), a cheap way to do marketing and sales (websites), a cheap distribution channel for digital goods (especially for the software industry), and a cheap backbone for virtual organizations.
+
+In 1996, one of our large clients was shocked when we proposed to make a new application using the web. Their disbelieving response was, roughly, "this could never work." By 1999, everyone was trying to move their business on line, and despite a rough start, most US and European businesses were firmly on line by 2003 or so.
 
 ### Politics
 
@@ -250,7 +266,7 @@ Let's look at the practical realities of starting a small business today:
 
 * More of our communications infrastructure (websites, email, archival) can be handled by free or low-cost managed services. This means we don't need dedicated computer systems or support staff.
 
-* Resources and information are available online. This means we don't need staff to do research. For example, we used to need to pay a travel agent to organize travel. Today, we can do it ourselves, so trivially that we forget what a chore this used to be.
+* Resources and information are available on line. This means we don't need staff to do research. For example, we used to need to pay a travel agent to organize travel. Today, we can do it ourselves, so trivially that we forget what a chore this used to be.
 
 * The cost of creating legal entities is falling, driven by a very competitive US market. Europe still lags behind. Some smaller European countries such as Estonia and Macedonia are positioning themselves as the Delawares of Europe (not to be confused with tax havens like Cyprus, which have as their model secrecy and low taxes rather than simple efficiency).
 
@@ -286,7 +302,7 @@ It's instructive to look briefly at the digitization of the music industry, beca
 
 The music industry moved to digital technology for its own production processes in the eighties. Sony and Philips published the CD-ROM audio standard in June 1980, consumer music went digital, and consumers found themselves with a cornucopia of new digital content, albeit at a higher price. Music CDs were typically priced 25% higher than LPs and sold as higher-quality luxury items. The price of producing CDs fell, of course. However even when CDs cost under a dollar to produce and distribute, they still remained very expensive in the shops.
 
-The perceived unfairness of this pricing model gave many people the feeling that Internet music "file swapping" was justified. Later, the online exchange of movies, TV programs, and music simply became so convenient and widespread that it normalized. Audio CDs were not initially "digital goods" because we could only play them in CD players that roughly imitated LP players. However, in the mid-1990's, home computers became powerful enough to "rip" and store these digital goods, squeezing them into more efficient forms (the MP3 format). And by the late 1990's, the Internet was capable of transporting these files, resulting in the birth of mass-market file sharing networks.
+The perceived unfairness of this pricing model gave many people the feeling that Internet music "file swapping" was justified. Later, the on-line exchange of movies, TV programs, and music simply became so convenient and widespread that it normalized. Audio CDs were not initially "digital goods" because we could only play them in CD players that roughly imitated LP players. However, in the mid-1990's, home computers became powerful enough to "rip" and store these digital goods, squeezing them into more efficient forms (the MP3 format). And by the late 1990's, the Internet was capable of transporting these files, resulting in the birth of mass-market file sharing networks.
 
 The first such network, Fanning and Parker's Napster, lasted three years from launch to bankruptcy and liquidation, hitting 26.4 million users and multiple music industry lawsuits in the process. Its successors (FastTrack, Gnutella, Kazaa, WinMX, AudioGalaxy) were also smashed by music industry lawsuits. In a pattern we see many times, stamping down one pirate business created dozens of new ones to take it place. Killing Napster turned a handful of networks into dozens, then hundreds, mostly using the BitTorrent peer-to-peer (P2P) technology.
 
@@ -320,7 +336,9 @@ The first was the relentless pressure of cost gravity, which from 1975 to 1995 b
 
 By 1995, it had become easily possible for individual programmers to buy computers and link them together using email, the file transfer protocol (FTP), and other young protocols like the hypertext transfer protocol (HTTP). So while Fred Brooks's IBM had to bring expert developers together in huge research facilities, the Internet allowed the same developers to work from anywhere, to create flexible ad hoc teams, and solve problems in much more intelligent ways.
 
-The second element is what I consider one of the key technological developments of the twentieth century digital revolution, which was a new private contract for collaborative development called the GNU [General Public License, or GPL](https://en.wikipedia.org/wiki/GPL). It was this document, this license, that finally solved the software crisis. I doubt that Richard Stallman, the man behind it, had such lofty goals. As far as I can tell from his writings at the time, he simply wanted to prevent volunteer efforts -- quite common in the software sector since its first days -- from being converted into closed commercial products, locking out the original contributors. Stallman also inadvertently fixed the software crisis, spelled the end of the classic software industry, and laid the foundations for the twenty-first century software industry.
+The second element is what I consider one of the key technological developments of the twentieth century digital revolution, which was a new private contract for collaborative development called the GNU [General Public License, or GPL](https://en.wikipedia.org/wiki/GPL). It was this document, this license, that finally solved the software crisis.
+
+I doubt that Richard Stallman, the man behind it, had such lofty goals. As far as I can tell from his writings at the time, he simply wanted to prevent volunteer efforts -- quite common in the software sector since its first days -- from being converted into closed commercial products, locking out the original contributors. Stallman also inadvertently fixed the software crisis, spelled the end of the classic software industry, and laid the foundations for the twenty-first century software industry.
 
 The GPL is a model for a broader kind of collaborative innovation that people call "remixing," which we see in other sectors such as music and digital art. Remixing is a surprisingly effective way of producing certain kinds of knowledge goods. It occurs when a group of creative people agrees to allow each other to reuse ("remix") their work into new forms, freely, and under the condition that any new mixes are available to everyone under the same conditions. It is a "share-alike" form of collaboration that feels comfortable to many groups and is widespread in society, once we look beyond the gates of media businesses.
 
@@ -344,7 +362,7 @@ For a large-scale remix to be successful it must be one hundred percent *self-ho
 
 The remix definitely threatens established interests. More broadly, conflict between old and new is a constant, defining part of the history of the digital society. Sometimes this conflict affects hundreds of millions of people. Nowhere is this more dramatic than in Africa, a continent that the Internet almost totally bypassed.
 
-## The Lost Continent Gets Online
+## The Lost Continent Gets On Line
 
 ### Poverty on Purpose
 
@@ -378,15 +396,17 @@ Don't feel complacent as you read this: Africa is just an extreme example of a g
 
 The wired Internet was, until recently, not very different.
 
-As late as 2010, all of sub-Saharan Africa had only four lines to the outside world: the high-capacity fiber-optic cables that criss-cross the world's waters. The first of these was the SAT-3, which ran from Portugal around the West African coast, down to South Africa, then across the Indian Ocean to India. The others -- TEAMs, Seacom, and EASSy -- linked the East African coast to Sudan. EASSy was launched in 2003, and finally came online in 2008. SAT-3 connects to nine African cities: Dakar, Abidjan, Accra, Cotonou, Lagos, Douala, Libreville, Cacuaco, and Melkbosstrand. SAT-3 missed about twelve countries on the way, including both Congos. Still, it worked and in theory, the lucky citizens of those cities should have been able to get cheap access to that vast fiber-optic bandwidth ... except that these links to the outside world were built and owned by the same cartels of crooks that ran the ports: the ruling elites of African nations who had no interest in wealth generation unless it was for themselves and their families. The cost of wired Internet when EASSy came online in 2010 with its 4,720 gigabit capacity was about $5,000 to 10,000 for a 256 kilobit (not kilobyte) link.
+As late as 2010, all of sub-Saharan Africa had only four lines to the outside world: the high-capacity fiber-optic cables that criss-cross the world's waters. The first of these was the SAT-3, which ran from Portugal around the West African coast, down to South Africa, then across the Indian Ocean to India. The others -- TEAMs, Seacom, and EASSy -- linked the East African coast to Sudan. EASSy was launched in 2003, and finally came on line in 2008. SAT-3 connects to nine African cities: Dakar, Abidjan, Accra, Cotonou, Lagos, Douala, Libreville, Cacuaco, and Melkbosstrand.
+
+SAT-3 missed about twelve countries on the way, including both Congos. Still, it worked and in theory, the lucky citizens of those cities should have been able to get cheap access to that vast fiber-optic bandwidth ... except that these links to the outside world were built and owned by the same cartels of crooks that ran the ports: the ruling elites of African nations who had no interest in wealth generation unless it was for themselves and their families. The cost of wired Internet when EASSy came on line in 2010 with its 4,720 gigabit capacity was about $5,000 to 10,000 for a 256 kilobit (not kilobyte) link.
 
 That was about 50 times the price of a similar link in the US, which is not known for its competitive market. In relative terms, if you compare the per-capita gross domestic product (GDP) of Nigeria (one of the SAT-3 countries) against the US, there is a difference of 30 times, so that Internet price ticket is almost *1,500 times higher*.
 
 Think about this for a minute as you surf the Web. Imagine being asked to pay $30,000 per month for an ADSL link that costs you $20 today, and you start to understand what kinds of hurdles ordinary Africans -- who are very aware of what the Internet offers -- have faced as they tried to get hooked into the modern world over the last decade.
 
-Keep this in mind when you see a young black man who has walked and hitched in constant danger from West Africa across the Sahara, and has managed to cross the Mediterranean and make it to safety in Spain or Italy. Before sneering at one more unwanted economic refugee, ask yourself, "*What drives these young men to cross deserts and seas at terrible risk in pursuit of a life of inevitable marginalization in a hostile West?*" Perhaps part of it is simply the desperate need to get online and become a citizen of the new world.
+Keep this in mind when you see a young black man who has walked and hitched in constant danger from West Africa across the Sahara, and has managed to cross the Mediterranean and make it to safety in Spain or Italy. Before sneering at one more unwanted economic refugee, ask yourself, "*What drives these young men to cross deserts and seas at terrible risk in pursuit of a life of inevitable marginalization in a hostile West?*" Perhaps part of it is simply the desperate need to get on line and become a citizen of the new world.
 
-Lacking data, it's impossible to know how important getting online is to young Africans. Speaking from personal experience, I'd place it about as high as getting an education, spouse, house, and family.
+Lacking data, it's impossible to know how important getting on line is to young Africans. Speaking from personal experience, I'd place it about as high as getting an education, spouse, house, and family.
 
 The only competition to expensive fixed Internet used to be the "very small aperture terminal" (VSAT) satellite system. In 2010, the cost of a VSAT package was about $8,500 for setup and equipment, and $5,000 for a 128KB (combined up and down bandwidth) link per month, surprisingly close to the SAT-3 costs. You could get VSAT if you were a government official or wealthy businessman. The common people had cybercafé clusters where several hundred people shared one VSAT link. And these were the lucky ones.
 
@@ -396,7 +416,9 @@ In 2011 and 2012, [the West African Cable System (WACS) and ACE cables](http://w
 
 What happened wasn't just improvements in cable technology. The old shortage wasn't a technical problem so much as a core feature of a centuries-old political system. WACS, ACE, and SAex became possible because the rules changed, and the iron stranglehold maintained by the old elites was broken. It happened during the first decade of this century, and it just took a few years for wired Internet to catch up.
 
-How the monopoly of power in Africa died and freed a billion Africans to come online is largely a hidden story. For outsiders, it was never clear why things were so bad to start with. For insiders, the changes feel inevitable and it's simply a question of catching up with the rest of the world. Yet for me, it makes an interesting and happy story with a strong positive message for the future. A continent of old, cynical, and murderous regimes that made poverty their business is transforming itself. This didn't happen by foreign pressure, nor by the hand of God, nor by the process of democracy, nor by building better institutions, nor by popular uprising. It happened simply thanks to the market and cost gravity, which shifted the balance of power away from the coastal elites and their foreign business partners.
+How the monopoly of power in Africa died and freed a billion Africans to come on line is largely a hidden story. For outsiders, it was never clear why things were so bad to start with. For insiders, the changes feel inevitable and it's simply a question of catching up with the rest of the world.
+
+Yet for me, it makes an interesting and happy story with a strong positive message for the future. A continent of old, cynical, and murderous regimes that made poverty their business is transforming itself. This didn't happen by foreign pressure, nor by the hand of God, nor by the process of democracy, nor by building better institutions, nor by popular uprising. It happened simply thanks to the market and cost gravity, which shifted the balance of power away from the coastal elites and their foreign business partners.
 
 ### The First Wave
 
@@ -412,7 +434,7 @@ Here are some interesting statistics for Africa, [calculated by the Internationa
 
 This is a stunning development with deep social, economic, and political impact.
 
-We can break it into two periods. The First Wave was roughly from 2000 to 2010 and brought a half-billion Africans the freedom to speak to each other across any distance. The Second Wave covers roughly 2010 to 2020, and will bring a billion Africans online and into the global Internet.
+We can break it into two periods. The First Wave was roughly from 2000 to 2010 and brought a half-billion Africans the freedom to speak to each other across any distance. The Second Wave covers roughly 2010 to 2020, and will bring a billion Africans on line and into the global Internet.
 
 I was talking to a trade union organizer in Lomé, Togo during the crest of the First Wave. She explained how now, if there was a strike at one mine, say in Namibia, news would spread to all mines owned by the firm, across the continent, and workers could shut down operations in fifty mines the next day.
 
@@ -450,7 +472,7 @@ I'd argue that the developing world was only able to afford smartphones thanks t
 
 For Africa, the combination of cheap Chinese handsets running a real Internet-capable mobile phone operating system was explosive. As I explained, the First Wave already built out and tested the infrastructure, so it was relatively easy to upgrade this to better and faster technologies. Cost gravity means new mobile broadband equipment is cheaper and better than older 2G equipment ever was.
 
-I predict that by 2020, a billion Africans will be on the Internet thanks to mobile broadband and cheap smartphones running Android. We are heading towards a fully connected planet, in which 99% of those who can spell their own name will be computer-literate, online 24/7, and tied into a global society that never sleeps, never stops thinking, never forgets, and never forgives.
+I predict that by 2020, a billion Africans will be on the Internet thanks to mobile broadband and cheap smartphones running Android. We are heading towards a fully connected planet, in which 99% of those who can spell their own name will be computer-literate, on line 24/7, and tied into a global society that never sleeps, never stops thinking, never forgets, and never forgives.
 
 ### Power to the People
 
@@ -480,7 +502,7 @@ The event-driven lifestyle is so addictive -- because it lets us be much more pr
 
 One surprising and good result of this is that many more people participate actively in society than ever before. It used to be hard to get involved beyond our physical world, that is, people we could meet face-to-face, places we could visit in person. Now it's trivially easy. The costs of publishing a work used to be a barrier to all except the lucky few. Being "published" used to be a sign of success. Today, there is no barrier except willpower and time. It means we have a lot more rubbish then ever before, and also a lot more genius. Overall, the digital society is many orders of magnitude smarter and more interesting than the industrial society ever was.
 
-Society used to be physical, based around where we lived and worked. Today, that is becoming less important, or at least more balanced. Our real cities no longer need to act as hubs of industry or business; they can instead become places to live in. And online, we have created new virtual cities where people spend much of their lives making deep emotional ties that can last a lifetime.
+Society used to be physical, based around where we lived and worked. Today, that is becoming less important, or at least more balanced. Our real cities no longer need to act as hubs of industry or business; they can instead become places to live in. And on line, we have created new virtual cities where people spend much of their lives making deep emotional ties that can last a lifetime.
 
 It used to be very hard to find other people with the same interests as us. Now, a five-minute walk through the Internet finds friendly people around the globe who share our passions, no matter how esoteric. This often lets us turn passions into professions. More and more of us have built our own jobs doing things we deeply enjoy, thanks to the audience and market that the Internet brings us.
 
@@ -490,9 +512,9 @@ There is a whole dark science of turning intelligent individuals into accepting 
 
 Happily, in my experience, this process also works in reverse. When we can construct our own lives, we generally become happier, more productive, and more discerning. The easy dogmas of the past are broken down and a form of wisdom based on uncovering objective truths takes their place. Like planting a forest tree by tree, it's a slow and almost invisible process and one that is, for me, absolutely key to understanding the digital society. Freedom -- which I define as the capacity to do interesting and useful things with other people -- makes us better people. And the digital society is truly a society of freedom.
 
-When we spend a lot of time online, we can know many more people than ever before. Our social networks used to be small, limited by our memories for names and faces. Today, our mobile phone and email contact lists are vast, and we can get to know hundreds -- even thousands -- of people on a first name basis.
+When we spend a lot of time on line, we can know many more people than ever before. Our social networks used to be small, limited by our memories for names and faces. Today, our mobile phone and email contact lists are vast, and we can get to know hundreds -- even thousands -- of people on a first name basis.
 
-So digital society is more connected than the old industrial society, and its members are more mobile, more interested, better informed, more critical and independent, and more able to react quickly to new events and opportunities. Planning and habit are redundant; instead, we keep our phones switched on, which beep when we get mail. Our social reaction time has dropped from weeks and days to minutes and seconds. This happens both online, with new communities springing up rapidly around new challenges and opportunities, and in the real world, with mobile crowds responding rapidly to events in the streets.
+So digital society is more connected than the old industrial society, and its members are more mobile, more interested, better informed, more critical and independent, and more able to react quickly to new events and opportunities. Planning and habit are redundant; instead, we keep our phones switched on, which beep when we get mail. Our social reaction time has dropped from weeks and days to minutes and seconds. This happens both on-line, with new communities springing up rapidly around new challenges and opportunities, and in the real world, with mobile crowds responding rapidly to events in the streets.
 
 ## The Economic Quickening
 
@@ -518,7 +540,9 @@ The employee who is working for a large static firm is a zombie concept. The fut
 
 The reason is very simple: an employee who can work on one project at once is an order of magnitude less productive than a contractor who can share bandwidth with half a dozen projects. Not only can the contractor specialize and thus be more efficient, he can also reuse his knowledge and skills over and over in different contexts. And the cost of creating a new project has fallen to almost zero. The result is that the most skilled people are no longer content to work for established firms. It's so easy, fun, and potentially lucrative to work in small meritocracies that this lifestyle is today seen as a badge of success.
 
-With flatter playing fields, more competition, and larger markets, we've seen a dramatic fall in the prices of all goods that have a significant digital aspect, and in their development, production, or distribution. Adam Smith wrote, one cold Scottish night in 1776 at the dawn of the Industrial Revolution: "*the wealth of nations comes from the division of labour, the pursuit of self-interest, and freedom of trade*." He explained that economies and wealth are not cakes to be divided among the available hands and mouths. Instead, they are a product of how many of us there are, and how we organize ourselves. The cake fallacy is an error that even experienced economists sometimes make, equating, for instance, increased population with poverty, making the obvious -- and wrong -- reasoning that more people means less to go around.
+With flatter playing fields, more competition, and larger markets, we've seen a dramatic fall in the prices of all goods that have a significant digital aspect, and in their development, production, or distribution. Adam Smith wrote, one cold Scottish night in 1776 at the dawn of the Industrial Revolution: "*the wealth of nations comes from the division of labour, the pursuit of self-interest, and freedom of trade*."
+
+He explained that economies and wealth are not cakes to be divided among the available hands and mouths. Instead, they are a product of how many of us there are, and how we organize ourselves. The cake fallacy is an error that even experienced economists sometimes make, equating, for instance, increased population with poverty, making the obvious -- and wrong -- reasoning that more people means less to go around.
 
 Smith's ideal merit-driven free-trade markets have rarely appeared, because most politicians don't really care about prosperity except as a side effect of their drive to get and retain power. The digital society seems to come very close, at least until governments intervene with taxes, barriers, and censorship. There is a great temptation and a strong economic incentive for people with power to see markets as opportunities for self-enrichment. Markets organize themselves and fight back. And thus we get the start of political structures emerging from economic ones.
 
@@ -528,7 +552,7 @@ Some decades after social and economic changes, and no less disturbing to the ol
 
 Like many visions of the future, these early attempts were not inaccurate so much as set to a totally unrealistic time scale. The digital society, if it wanted freedom, would have to wrest it by force from the clenched claws of old power, just as every new society has had to do since the dawn of time. Those who set up virtual countries, complete with embassies and passports, were making a poetic statement, not trying seriously to get a seat at the UN (unless they were mad). People *were* naive enough in 1999 to invest real money in businesses like Napster that traded copyrighted materials in broad daylight, so to speak, under the assumption that the laws of the land did not apply to the Internet.
 
-Around 2000, global content businesses -- music, TV, cinema, news -- looked at the Internet and saw a vast new world to conquer, sadly already squatted by pirates and hippies. The large and growing digital economy was consuming entire sections of the traditional economy. Some firms moved online; very few got it right. Most firms just sent in the lobbyists and the lawyers.
+Around 2000, global content businesses -- music, TV, cinema, news -- looked at the Internet and saw a vast new world to conquer, sadly already squatted by pirates and hippies. The large and growing digital economy was consuming entire sections of the traditional economy. Some firms moved on line; very few got it right. Most firms just sent in the lobbyists and the lawyers.
 
 Two great clashes perhaps define the digital society's passing into adulthood. The first of these was the copyright debate, most notably the total lack of respect for conventional copyright law that people demonstrated by exchanging music, TV programs, and films in great numbers. The second was the patent debate, in which the industrial-age patent industry tried to move into software, successfully in the US and with partial success in Europe.
 
@@ -536,7 +560,9 @@ Both of these fights -- which are widespread and ongoing -- involve the basic de
 
 There are other fights as well, related to these. One is over the way the state is using digital technology to censor the Internet, to spy on its citizens, and to build up databases of every aspect of our lives. Somehow, we don't mind too much if Google records every search we make and every site we visit. However, when our government records every phone call, email, search, and download, we get annoyed.
 
-Unlike previous historical clashes between revolutionaries and reactionaries, the digital society is highly knowledgeable, independently minded, and unafraid of confrontation and risk. It's also well connected and able to organize rapidly around new challenges. As business has started to lobby and litigate to try to keep control over the digital economy, digital society has reacted by organizing itself into more or less formal movements. And like its businesses, digital society's political organizations are ferocious and can be exceptionally effective. In some of the civil society campaigns in which I used to be involved, we estimated that the professional lobbyists we were fighting had to spend as much as 1,000 times more money than we did to win. Well-organized volunteer activists are much more creative and accurate than professional lobbyists.
+Unlike previous historical clashes between revolutionaries and reactionaries, the digital society is highly knowledgeable, independently minded, and unafraid of confrontation and risk. It's also well connected and able to organize rapidly around new challenges. As business has started to lobby and litigate to try to keep control over the digital economy, digital society has reacted by organizing itself into more or less formal movements.
+
+And like its businesses, digital society's political organizations are ferocious and can be exceptionally effective. In some of the civil society campaigns in which I used to be involved, we estimated that the professional lobbyists we were fighting had to spend as much as 1,000 times more money than we did to win. Well-organized volunteer activists are much more creative and accurate than professional lobbyists.
 
 These are the main factors I see that affect political organization in the digital society:
 
@@ -558,9 +584,9 @@ In some countries, digital society activism seems tied to certain political view
 
 In “Going Digital”, I described how the world has changed during recent decades. I explained how these changes threaten the economic and political structures that emerged from the Industrial Revolution and consolidated their hold over the world of the twentieth century. While society used to be based around cities built by steam and coal, it is now based around communities built by software and silicon. These communities are not passive. They are powerful and dynamic, and they challenge the economic and political structures of the old industrial world. We have witnessed Facebook and Twitter acting as platforms for real-world revolutions.
 
-These online communities are largely self-organizing around problems of the day. They analyze information, share knowledge, debate strategies and tactics, and take decisions without explicit top-down leadership. They are "collective intelligences." It's not a new pattern in human society; indeed, the necessary instincts are deeply coded in our minds. Human society has always been a network of collective intelligences. It has never been so fluid, so large scale, so effective.
+These on-line communities are largely self-organizing around problems of the day. They analyze information, share knowledge, debate strategies and tactics, and take decisions without explicit top-down leadership. They are "collective intelligences." It's not a new pattern in human society; indeed, the necessary instincts are deeply coded in our minds. Human society has always been a network of collective intelligences. It has never been so fluid, so large scale, so effective.
 
-In this chapter, I'll explore how successful online communities work. More than that, I'll show how to build them, the shining digital cities of our future.
+In this chapter, I'll explore how successful on-line communities work. More than that, I'll show how to build them, the shining digital cities of our future.
 
 ## The Wisdom of Crowds
 
@@ -574,13 +600,13 @@ To put it another way, a group of random people will on average be smarter than 
 
 I discovered Surowiecki when I started working on a reproducible recipe for building communities. His work immediately resonated with what I'd experienced, and it seemed testable. I had both the opportunity to apply it, and to experiment with enough communities to try to disprove it: the basis, thus, for real science.
 
-Out of that work came a process for building smart, self-guiding, successful online communities that could beat expert groups every time. It is a discipline I named *Social Architecture*, which for a while let me call myself a "Social Architect." (Today, I'm a struggling writer, which sounds more romantic.)
+Out of that work came a process for building smart, self-guiding, successful on-line communities that could beat expert groups every time. It is a discipline I named *Social Architecture*, which for a while let me call myself a "Social Architect." (Today, I'm a struggling writer, which sounds more romantic.)
 
-Social Architecture, by analogy with conventional architecture, is the process and the product of planning, designing, and growing an online community. Social Architectures in the form of online communities are the cultural and political symbols and works of art of digital society. The twenty-first century will be identified with its surviving Social Architectures.
+Social Architecture, by analogy with conventional architecture, is the process and the product of planning, designing, and growing an on-line community. Social Architectures in the form of on-line communities are the cultural and political symbols and works of art of digital society. The twenty-first century will be identified with its surviving Social Architectures.
 
-As Social Architects, we participate in communities, we identify successful naturally occurring patterns or develop new patterns (which I call "tools"), and we apply these deliberately to our own projects. We apply psychology (our social instincts), economics (how we create common wealth through specialization and trade), politics (how we collect and share power), and technology (how we communicate). We continually adapt our toolkit based on new knowledge and experience. Our goal is to create online communities that can and do accurately solve the problems we identify, grow healthily, and survive on their own.
+As Social Architects, we participate in communities, we identify successful naturally occurring patterns or develop new patterns (which I call "tools"), and we apply these deliberately to our own projects. We apply psychology (our social instincts), economics (how we create common wealth through specialization and trade), politics (how we collect and share power), and technology (how we communicate). We continually adapt our toolkit based on new knowledge and experience. Our goal is to create on-line communities that can and do accurately solve the problems we identify, grow healthily, and survive on their own.
 
-Successful online communities tend to be based on the contract of mutual benefit, whether implicit or explicit. That is, it is possible to build a billion dollar business based on volunteer labor, with every participant contributing for selfish reasons. Often, participants do not realize or care that they are part of a community. However, every action we take is economic. "Crowd sourcing" is the exploitation for profit of volunteer labor. And it only works when the crowd really wants to solve the problems you throw at it, or the ones it discovers.
+Successful on-line communities tend to be based on the contract of mutual benefit, whether implicit or explicit. That is, it is possible to build a billion dollar business based on volunteer labor, with every participant contributing for selfish reasons. Often, participants do not realize or care that they are part of a community. However, every action we take is economic. "Crowd sourcing" is the exploitation for profit of volunteer labor. And it only works when the crowd really wants to solve the problems you throw at it, or the ones it discovers.
 
 ## Wiser and More Constant than a Prince
 
@@ -592,7 +618,7 @@ According to Surowiecki, the wise crowd makes fast and accurate judgments, organ
 
 There are good explanations for the stupidity of many crowds, and I'll explore this later, in “Broken Societies”. Few people have tried to explain group stupidity in terms of collective wisdom. And without a clear understanding of function, how can we hope to understand dysfunction?
 
-So the apparent failure of collective intelligence convinces many that this is just a fancy theory that fails in practice. And yet if we look at online communities, for example those that form around popular open source software projects like my company [ZeroMQ](http://zeromq.org), we see groups that look a lot like Surowiecki's wise crowds. While it may be hard to spot wise crowds in the physical world, they seem to be the dominant model online. Through trial and error, digital society has rediscovered the principles of wise crowds and adopted them as its core operating principles.
+So the apparent failure of collective intelligence convinces many that this is just a fancy theory that fails in practice. And yet if we look at on-line communities, for example those that form around popular open source software projects like my company [ZeroMQ](http://zeromq.org), we see groups that look a lot like Surowiecki's wise crowds. While it may be hard to spot wise crowds in the physical world, they seem to be the dominant model on line. Through trial and error, digital society has rediscovered the principles of wise crowds and adopted them as its core operating principles.
 
 Digital society's solution to the ancient problem of corrupt authority is elegant and successful. There are literally millions of communities, each backed by the authority of its founders. Citizens of the digital society choose freely which authorities to respect and which to ignore. The core trick is to accept authority without giving it the "right to command."
 
@@ -624,7 +650,7 @@ We learned two broad things. First, a cult is the flipside of a wise crowd. The 
 
 The second thing is that just reversing the cult techniques isn't enough. It does make a good start to promote individual strength and creativity, yet that is not the same as building a solid community. For that, you need more explicit patterns. Define a powerful mission to attract newcomers. Make it really easy for people to get involved. Embrace argument and conflict; it's where good ideas come from. Delegate systematically, and create competition. Work with volunteers more than employees. Get diversity and scale. Make people own the work; don't let the work own the people.
 
-It is of course much cheaper and faster to do large-scale experiments with people online than in the real world. To prove or disprove a recipe for building a community, all you have to do is create a space, define some rules for play, announce it to the world, and sit back and watch.
+It is of course much cheaper and faster to do large-scale experiments with people on line than in the real world. To prove or disprove a recipe for building a community, all you have to do is create a space, define some rules for play, announce it to the world, and sit back and watch.
 
 My largest and most successful experiment to date, which I'll refer to often in this chapter, is the [ZeroMQ software community](http://zeromq.org). It has grown from a team in a Slovak cellar to a global community, and is used by thousands of organizations. Above all, ZeroMQ is entirely built and steered by its community: over a hundred contributors to the core library, and a hundred other projects around that.
 
@@ -673,7 +699,7 @@ The starting point for any community is a stated mission. The mission defines th
 
 *TIP:* Use your mission as a slogan, on your website, marketing, presentations, and so on. If you are investing money in your community, you may want to trademark the mission statement.
 
-Without a clear mission, an online community won't grow. A group of friends who start a project may agree what they want to do, yet anyone new coming on board has to guess what they had in mind. People will guess wrong, and will change their minds over time. This leads to confusion, disagreement, and disappointment as people find that their hard work was wasted because the rest of the group headed off in a different direction.
+Without a clear mission, an on-line community won't grow. A group of friends who start a project may agree what they want to do, yet anyone new coming on board has to guess what they had in mind. People will guess wrong, and will change their minds over time. This leads to confusion, disagreement, and disappointment as people find that their hard work was wasted because the rest of the group headed off in a different direction.
 
 A good mission saunters past "sane" and steps into "you cannot be serious!" Wikipedia's mission, ["the free encyclopedia that anyone can edit"](https://en.wikipedia.org/wiki/Main_Page) is a good example. It was, initially, a goal that everyone, except a few idealists, found impossible and crazy. Those idealists were precisely who Wikipedia needed to get on board on day one. Impossible missions attract the right kind of people for a young project.
 
@@ -755,7 +781,7 @@ Communities, however, work better with the third model because it converts users
 
 ### Strong Protocols
 
-Good protocols let strangers collaborate without upfront agreement. They resolve destructive conflict, and turn it into valuable competition. The insight that lets anarchists join wise crowds as happily as anyone is that the crowd can develop its own rules. Typically, these rules govern remixing, identity, ranking, and so on. No matter what their form, good rules are simple, clear, explicitly written down, and agreed upon by all.
+Good protocols let strangers collaborate without up-front agreement. They resolve destructive conflict, and turn it into valuable competition. The insight that lets anarchists join wise crowds as happily as anyone is that the crowd can develop its own rules. Typically, these rules govern remixing, identity, ranking, and so on. No matter what their form, good rules are simple, clear, explicitly written down, and agreed upon by all.
 
 If you're building a software project, you might take an existing rulebook, like the [C4.1 protocol](http://rfc.zeromq.org/spec:22) we built for ZeroMQ. Otherwise, you can start with a minimal rulebook and grow it over time as you see what problems hit the community. This is, for example, how [the Wikipedia rulebook](http://simple.wikipedia.org/wiki/Wikipedia:Rules) grew up.
 
@@ -815,7 +841,7 @@ In software, we do this by making standards that teams can build on. Take for ex
 
 It's all very well to try to turn conflict into competition. However, you also need to provide teams with a way to know how well they are doing. The best tools, like GitHub, show you precisely how many people are watching or have "starred" or "forked" a particular project (revealing different levels of interest and commitment).
 
-The Web, of course, has always been obsessed with "hits" and traffic analysis, which show exactly how popular a specific site or page is. This makes it very easy to measure success of online projects. In the old industrial-era business, teams get their feedback from their bosses. This turns into an exercise in power: you'll be scored higher for compliance than for accuracy. Making your boss happy so he gives you a pay raise is not healthy.
+The Web, of course, has always been obsessed with "hits" and traffic analysis, which show exactly how popular a specific site or page is. This makes it very easy to measure success of on-line projects. In the old industrial-era business, teams get their feedback from their bosses. This turns into an exercise in power: you'll be scored higher for compliance than for accuracy. Making your boss happy so he gives you a pay raise is not healthy.
 
 *TIP:* If your platform does not support it directly, find ways to tell contributors how well their projects are doing.
 
@@ -859,7 +885,7 @@ As a community grows larger, it can become harder to navigate. If you make a sin
 
 Complexity turns people away because it's so difficult to learn. The solution is to use very regular structures that you can learn once and then predict many times. Not any structure will do. We seem bad at learning structures deeper than three or four levels. However, we're happy to explore very wide structures with thousands or millions of boxes if those boxes correspond to separate units of work, or projects. Think of a city.
 
-The successful online communities are cities, not castles. Wikipedia consists of a few language-specific wikis, each broken into millions of pages (the projects), each structured into sections, discussion, history, footnotes, and so on. Several people may be working on a page at once, and one person may be slowly editing or caring for dozens or hundreds of pages.
+The successful on-line communities are cities, not castles. Wikipedia consists of a few language-specific wikis, each broken into millions of pages (the projects), each structured into sections, discussion, history, footnotes, and so on. Several people may be working on a page at once, and one person may be slowly editing or caring for dozens or hundreds of pages.
 
 GitHub manages millions of software repositories or "repos," grouped under user profiles or organizations, and each broken into some further structure (source files, documentation, etc.) that usually depends on the language (Java repos use one style, C repos use another, and so on). One repo may have a handful of contributors, and people will work on a few to a dozen repos. The ZeroMQ community consists of an organization that contains a growing number of projects.
 
@@ -913,13 +939,13 @@ One of my communities, [Digistan](http://www.digistan.org), was designed, grown,
 
 If there's not enough money, a community will starve. If there's too much, it will, as I've said, rot. It is a delicate balance. We can motivate people with money up to a certain degree. After that, only sociopaths respond proportionally. This is a flaw in the naive "more money is always good" theory of capitalism. In my business, it's always been those I paid best who turned out to be the most treacherous.
 
-The first thing is to reduce your costs by not setting up legal entities, offices, and staff unless you really need them. Not only will these eat any funding you might have, they will work against you as you try to build a pure online community. Secondly, invest your time and money in the community minimally when you see that there's no choice. It could be taking a trademark, paying for hosting services, or doing some particularly difficult work no one else is able to undertake. Finally, watch out for individuals who take on too much risk without adequate reward -- they can be vulnerable to burnout, something I'll talk about in the next section.
+The first thing is to reduce your costs by not setting up legal entities, offices, and staff unless you really need them. Not only will these eat any funding you might have, they will work against you as you try to build a pure on-line community. Secondly, invest your time and money in the community minimally when you see that there's no choice. It could be taking a trademark, paying for hosting services, or doing some particularly difficult work no one else is able to undertake. Finally, watch out for individuals who take on too much risk without adequate reward -- they can be vulnerable to burnout, something I'll talk about in the next section.
 
 *TIP:* Every time you find it necessary to spend money on the community, ask if you could have found a way to get others to help instead.
 
 ## Sidebars
 
-In the previous section, I examined my toolbox for building online communities. Now I'll look at few other key ideas that are worth knowing about.
+In the previous section, I examined my toolbox for building on-line communities. Now I'll look at few other key ideas that are worth knowing about.
 
 ### The Market Curve
 
@@ -983,7 +1009,9 @@ In this myth, brilliant individuals think about important problems, and then by 
 
 Look more closely, however, and one discovers that this story does not match the facts. History doesn't show lone inventors. It shows lucky people who steal or claim ownership of ideas that are being worked on by many. It shows brilliant people striking lucky, and then spending decades on fruitless and pointless quests. The best-known large-scale inventors like Thomas Edison were good at systematic broad research done by large teams. It's like claiming that Steve Jobs invented every tool made by Apple. It is a nice myth, good for marketing, and utterly untrue.
 
-Recent history, better recorded and less easy to manipulate, shows this well. The Internet is surely one of the most innovative and fast-moving areas of technology, and one of the best documented. It has no inventor. Instead, it has a massive economy of people who have carefully and progressively solved a long series of immediate problems, documented their answers, and made those available to all. The innovative nature of the Internet comes not from a small, select band of Einsteins. It comes from RFCs anyone can use and improve, made by hundreds and thousands of smart, though not uniquely smart, individuals. It comes from open source software that anyone can use and improve. It comes from sharing, remixing, and scale of community. It comes from the continuous accretion of good solutions, and the disposal of bad ones.
+Recent history, better recorded and less easy to manipulate, shows this well. The Internet is surely one of the most innovative and fast-moving areas of technology, and one of the best documented. It has no inventor. Instead, it has a massive economy of people who have carefully and progressively solved a long series of immediate problems, documented their answers, and made those available to all.
+
+The innovative nature of the Internet comes not from a small, select band of Einsteins. It comes from RFCs anyone can use and improve, made by hundreds and thousands of smart, though not uniquely smart, individuals. It comes from open source software that anyone can use and improve. It comes from sharing, remixing, and scale of community. It comes from the continuous accretion of good solutions, and the disposal of bad ones.
 
 Here thus is an alternative theory of innovation:
 
@@ -1013,7 +1041,7 @@ So when we trust the solitary experts, they make classic mistakes. They focus on
 
 I'm going to propose a tool to measure the intelligence of a community, in other words, how accurately and efficiently the community is working at any given time. It also measures how enjoyable it will be to participate in the community.
 
-To demonstrate, I'm going to rank a few networks, organizations, websites, and online communities. It's not science; it's more like creative abuse of numbers. As everyone knows, 87% of statistics are invented on the spot and 91% of people accept them without question. I've chosen the following victims:
+To demonstrate, I'm going to rank a few networks, organizations, websites, and on-line communities. It's not science; it's more like creative abuse of numbers. As everyone knows, 87% of statistics are invented on the spot and 91% of people accept them without question. I've chosen the following victims:
 
 * Wikipedia
 * Twitter
@@ -1026,7 +1054,7 @@ To demonstrate, I'm going to rank a few networks, organizations, websites, and o
 * Lawyers, as a profession
 * The Hollywood movie industry
 
-I'm not going to make any judgment about the value of any specific community. It's impossible, and would be deceptive. Twitter's implied mission is "collect the most followers," which sounds weak when compared to Wikipedia's "assemble the world's knowledge." Once formed, a smart and agile crowd can just as easily create new missions like "bring down the dictator." Arguably, the value (to society) of an online community is not their products, rather it is the community itself. With Wikipedia or ZeroMQ, it's hard to separate the crowd from the content. With Twitter, it's really obvious. The content is transient and mostly worthless, the crowd is not.
+I'm not going to make any judgment about the value of any specific community. It's impossible, and would be deceptive. Twitter's implied mission is "collect the most followers," which sounds weak when compared to Wikipedia's "assemble the world's knowledge." Once formed, a smart and agile crowd can just as easily create new missions like "bring down the dictator." Arguably, the value (to society) of an on-line community is not their products, rather it is the community itself. With Wikipedia or ZeroMQ, it's hard to separate the crowd from the content. With Twitter, it's really obvious. The content is transient and mostly worthless, the crowd is not.
 
 Here's the scorecard I came up with:
 
@@ -1057,7 +1085,7 @@ Once we can measure the CII of a community or organization, we can increase it b
 
 ## Final Thoughts
 
-This chapter was a handbook for building online communities out of little more than insane ambition, using the pop science of Social Architecture. If there's one thing we learned, it's that *how we organize* matters much more than *who we are*.
+This chapter was a handbook for building on-line communities out of little more than insane ambition, using the pop science of Social Architecture. If there's one thing we learned, it's that *how we organize* matters much more than *who we are*.
 
 We looked at 20 tools that I've learned are helpful in designing and growing large, healthy wise crowds. These tools came from years of work in politics and free software development.
 
@@ -1078,13 +1106,15 @@ Human culture seems to have evolved to mine truths. Like the ancient bacterial c
 
 Collective intelligence operates as a social network that collects interesting problems. It then solves these by casting around for as many solutions as possible -- even insane ones. It filters and remixes these solutions, testing them against known facts. It tries them out in as many diverse situations as possible. It finally reduces the set of possible answers down to minimal packages that can be traded and carried across generations. The better the collective intelligence, the faster it works and the more accurate and useful its results. The more these results approach general truths, the more useful they are, to more people.
 
-Collective intelligence needs ways to shift information around. Importantly, it must assign the right value to everything because otherwise it cannot filter out the rare and valuably accurate pieces of information from the vast majority of junk. The best mechanism appears to be that each peer in the network places a value on the information they share or are offered and work accordingly. It's not as simple as placing a monetary cost on a whispered secret. Rather, peers value other peers for their ability to deliver useful information over time, and peers will maintain notions of information credit and debt with respect to others. We can try to model collective intelligences as economies of information that operate according to the principles of specialization and trade in a free market.
+Collective intelligence needs ways to shift information around. Importantly, it must assign the right value to everything because otherwise it cannot filter out the rare and valuably accurate pieces of information from the vast majority of junk. The best mechanism appears to be that each peer in the network places a value on the information they share or are offered and work accordingly. It's not as simple as placing a monetary cost on a whispered secret.
+
+Rather, peers value other peers for their ability to deliver useful information over time, and peers will maintain notions of information credit and debt with respect to others. We can try to model collective intelligences as economies of information that operate according to the principles of specialization and trade in a free market.
 
 The basic rules for moving information around human society are economics. We specialize in our favored areas, and we trade information about those areas in what is ideally a free market. The ability to properly value and trade information with other people is a sign of adulthood. A teenager is mature when he or she can take part "in adult conversation," which essentially means entering the information market.
 
 And so the jet I am flying in is more "accurate" than the planes of a century ago. It is faster, carries more people, is safer, travels further, and consumes less fuel per passenger mile. It is *a truth*: the result of vast numbers of information exchanges between individuals and groups.
 
-Looking at successful online communities from a distance, we see human society in its most general form. Our history, over millions of years, is a long story of meeting stark challenges with radical cultural and technological innovation. Obviously, our species is the descendants of tough and smart survivors who found an answer for every single problem facing the family for over 3.5 billion years, the dawn of life. High five! For all its many inefficiencies and dark aspects, post-ape human culture has been remarkably adaptable and successful. It seems fair to assume that the earliest roots of our particularly human culture grew from our ability to think collectively as well as reason individually.
+Looking at successful on-line communities from a distance, we see human society in its most general form. Our history, over millions of years, is a long story of meeting stark challenges with radical cultural and technological innovation. Obviously, our species is the descendants of tough and smart survivors who found an answer for every single problem facing the family for over 3.5 billion years, the dawn of life. High five! For all its many inefficiencies and dark aspects, post-ape human culture has been remarkably adaptable and successful. It seems fair to assume that the earliest roots of our particularly human culture grew from our ability to think collectively as well as reason individually.
 
 How can I make such a broad statement? Well, it seems clear that the mental tools we need in order to construct wise crowds are built into our minds; they have evolved and were not learned. I'm not just thinking of the language instinct, though this is clearly fundamental. I'm also thinking of what I consider the social instincts, such as respect for authority and rules, willingness to collaborate, intolerance of cheaters, strength of identity, pride of accomplishment, memory of others' accomplishments, ability to calculate collective rankings, and so on. These are instinctive -- visible in young children without prompting, consistent across all human societies, and irrepressible no matter what pressure is applied.
 
@@ -1094,7 +1124,9 @@ Yet one nagging question comes back: Why is there so much stupidity in the world
 
 I remember the warm, late Brussels summer of 2000. Belgium was hosting the "Euro 2000" football tournament. Every day for several weeks, a match was played between two national teams, and every evening, two tribes of opposing fans would fill the Brussels city center -- the winning team parading for hours in open cars, honking and cheering, the losing team scowling in the shadows and drinking, and thousands of participants joining the raucous unplanned street parties.
 
-After about two weeks of increasingly noisy nights, which began to turn to violence, the police moved in with riot gear. Surprised and confused tourists taking the wrong turn through the historic heart of Brussels found themselves trapped between crowds of noisy beer-sodden youths throwing cans and dropping their trousers, and baton-waving riot police. As the police resorted to dogs and tear gas, the rioters began pulling up Brussels' famous cobblestones and using them to demolish restaurants and bars in the old center. I watched as the shocked patrons, lips still wet from after-dinner cognac, upturned tables to use as shields against incoming rocks. Then groups of plain-clothed policemen arrived and grabbed the rioters, using plastic cable ties to stop them from running away.
+After about two weeks of increasingly noisy nights, which began to turn to violence, the police moved in with riot gear. Surprised and confused tourists taking the wrong turn through the historic heart of Brussels found themselves trapped between crowds of noisy beer-sodden youths throwing cans and dropping their trousers, and baton-waving riot police.
+
+As the police resorted to dogs and tear gas, the rioters began pulling up Brussels' famous cobblestones and using them to demolish restaurants and bars in the old center. I watched as the shocked patrons, lips still wet from after-dinner cognac, upturned tables to use as shields against incoming rocks. Then groups of plain-clothed policemen arrived and grabbed the rioters, using plastic cable ties to stop them from running away.
 
 The riots turned from simple national vanity to full-on battles between Brussels' disaffected unemployed youth and the State. Groups of masked youths ran up and down Brussels' alleyways looking for fights, while TV camera crews looking for footage tried to keep up. Heavily protected policewomen, followed later by much tougher policemen with shields and batons and dogs, tried to keep control. The police blocked off entire sections of the city center, squads of them chasing off or arresting the rioters. Despite that, the scene got more and more ugly, and violent running battles started to erupt.
 
@@ -1108,7 +1140,9 @@ Listen to the cry of a crazy crowd speaking about a social minority or otherwise
 
 In 2011, Anders Behring Breivik calmly tried to start a civil war in Europe by murdering what he called "category B and C traitors" in a series of sequential shootings and bombings in Oslo, Norway. His 1,518-page manifesto is the brain dump of an intelligent, educated, highly conscious, and utterly insane individual. It is not political any more than it is religious. He compiles a world of mostly mythological or false material, taking only that which confirms his biases and insecurities, turns that into a painfully detailed rationalization and plan, and then uses that to commit acts of pure horror.
 
-Breivik's internal fractures turn into catastrophic mental failure as he reaches adulthood. Instead of getting help, he finds his life's cause in the politics of hate that are sweeping Europe, and in cult-like far-right groups. Immigration often provokes resentment, and politicians can play on that. We hope that everyone understands it's a game. Most do, except minds like Breivik, who use the "Islamic threat" as a mental life jacket. The more he can blame Marxists, feminists, and Muslims, the more he can frame his mental fracture as enlightenment, and his isolationist and psychopathic tendencies as a warrior spirit. So while politicians play with fire, Breivik's very mental survival depends on his burning down the house. The more time and money he invests in his delusion, the more it becomes his reality. And then his reality collides with ours, children die, and he sits calmly in prison waiting for his time at the microphone.
+Breivik's internal fractures turn into catastrophic mental failure as he reaches adulthood. Instead of getting help, he finds his life's cause in the politics of hate that are sweeping Europe, and in cult-like far-right groups. Immigration often provokes resentment, and politicians can play on that. We hope that everyone understands it's a game. Most do, except minds like Breivik, who use the "Islamic threat" as a mental life jacket. The more he can blame Marxists, feminists, and Muslims, the more he can frame his mental fracture as enlightenment, and his isolationist and psychopathic tendencies as a warrior spirit.
+
+So while politicians play with fire, Breivik's very mental survival depends on his burning down the house. The more time and money he invests in his delusion, the more it becomes his reality. And then his reality collides with ours, children die, and he sits calmly in prison waiting for his time at the microphone.
 
 Because collective psychology is an expression of individual psychology, and this book is essentially about how we are working together to build a new world, let's put on the psychologist's hat and examine mental disorders. If we can understand how individual mental disorders can be "rational," perhaps we can apply the same approach to collective madness.
 
@@ -1116,7 +1150,9 @@ Mental disorders range from caffeine addiction (yes, seriously, it is in the boo
 
 ## The Borgia Hypothesis
 
-The [Diagnostic and Statistical Manual of Mental Disorders](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders), aka DSM, is the bible of Psychiatry, and lists about 300 mental disorders. The disorders are categorized in various dimensions. DSM makes [interesting reading](http://www.psychiatryonline.com/DSMPDF/dsm-iv.pdf). What's particularly striking is how many symptoms of personality disorders are present in general society, people we know, and even ourselves if we look carefully. For example, [in business executives](https://en.wikipedia.org/wiki/Personality_disorder#In_executives), histrionic personality disorder, narcissistic personality disorder, and obsessive-compulsive personality disorder scores were as high or higher than that of disturbed criminals.
+The [Diagnostic and Statistical Manual of Mental Disorders](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders), aka DSM, is the bible of Psychiatry, and lists about 300 mental disorders. The disorders are categorized in various dimensions. DSM makes [interesting reading](http://www.psychiatryonline.com/DSMPDF/dsm-iv.pdf). What's particularly striking is how many symptoms of personality disorders are present in general society, people we know, and even ourselves if we look carefully.
+
+For example, [in business executives](https://en.wikipedia.org/wiki/Personality_disorder#In_executives), histrionic personality disorder, narcissistic personality disorder, and obsessive-compulsive personality disorder scores were as high or higher than that of disturbed criminals.
 
 The dominant explanation for personality disorders is poor parenting and/or abuse. If your daughter has borderline personality disorder, the assumption is she had bad or abusive parents. It seems a double punishment for those with troubled children. It also raises disturbing questions about how to intervene if, for instance, tests show a young child starting to show symptoms of a personality disorder. Do we remove them from their (failing, according to mental health professionals) family and put them into foster care? Or do we leave them in place, and administer drugs?
 
@@ -1138,7 +1174,9 @@ So taking the theory of a biological basis for personality disorders and adding 
 
 The Borgia Hypothesis says that personality disorders are evolved aspects of social behavior, and that they have a biological basis. Further, these aspects are not diseases, they are indeed powerful assets in certain situations. However, they can become dysfunctional in societies that have no use for them. In a violent and unstable society, being manipulative, charming, egocentric, and lacking all empathy for others is a winning strategy. In a peaceful and stable society, it is a dangerous mental disorder. In some circumstances, the ability to instantly project powerful emotions is a key to survival. In others, it is disruptive and antisocial.
 
-Any inherited talent needs culture to grow in. Our innate talents will often shrivel and die without opportunity to learn from others, and practice. Genes need culture, and culture needs genes. To argue between genes and upbringing is to entirely miss the point. Further, genes will express themselves in different ways and degrees, over time and according to circumstances. Gene expression is an incredibly complex aspect of biology that we're just beginning to understand. Genes can stay inactive for decades, then switch on, triggered by a cascade of other genes suddenly doing something a little differently. And it's specific to every type of cell in our bodies. This, together with the evidence that there are many genes involved explains the "spectrum." A person may have more of fewer of the responsible genes, copies from one parent, or both, and the genes may switch on and off during their lifetime depending on factors such as being in abusive situations.
+Any inherited talent needs culture to grow in. Our innate talents will often shrivel and die without opportunity to learn from others, and practice. Genes need culture, and culture needs genes. To argue between genes and upbringing is to entirely miss the point. Further, genes will express themselves in different ways and degrees, over time and according to circumstances. Gene expression is an incredibly complex aspect of biology that we're just beginning to understand.
+
+Genes can stay inactive for decades, then switch on, triggered by a cascade of other genes suddenly doing something a little differently. And it's specific to every type of cell in our bodies. This, together with the evidence that there are many genes involved explains the "spectrum." A person may have more of fewer of the responsible genes, copies from one parent, or both, and the genes may switch on and off during their lifetime depending on factors such as being in abusive situations.
 
 The hypothesis is therefore that the genetic infrastructure for personality disorders is present in different degrees in most people, and is there because it has real survival benefits and bearable costs. It's like sickle-cell disease, which protects most carriers (one in four in equatorial Africa) from the deadly malaria parasite at a fatal cost to the one in four of carriers who get two copies. If these genes were really uneconomic (if their costs outweighed their benefits), they would gradually disappear, like the genes for tails or full body hair.
 
@@ -1164,7 +1202,9 @@ Let's go back to violence. The majority of male-on-male violence is and always h
 
 It makes sense to assume that instincts for attachment to and violent defense of the tribe and tribal territory are deeply embedded in the human psyche and genome. The human story has often played out in pockets of valuable territory -- refuges of fertility, security, food and water -- embedded in wastelands of semi-desert or forest. Until about 500 years ago, most of humanity lived where their ancestors first settled, having pushed out any previous owners. The main migrations as we walked away from or through Africa were either into empty territory made accessible by lower sea levels and retreating ice caps, or away from encroaching deserts and ice caps.
 
-Over millions of years, groups of our ancestors repeatedly clashed over water, food, and above all, territory. Any group that split and ran would be exterminated. Individual preservation means nothing. Survival when attacked lies in loyalty to the group, following others, and the ability to react violently and emotionally to defend the tribal turf. He who runs away may live to fight another day, yet we are like gazelles. Lone survivors tend to be picked off quickly. We don't generally scatter and flee when confronted; we gather together, and we fight. This is deeply embedded in our ethos and mythos. The hero is not the one who escapes; he's the one who prevails. This is worth repeating because if cowardice were a successful strategy, it'd be sexy. The market is brutal about how it values genes with survival value. The hero in the zombie movie either stays and fights, or runs to save his family.
+Over millions of years, groups of our ancestors repeatedly clashed over water, food, and above all, territory. Any group that split and ran would be exterminated. Individual preservation means nothing. Survival when attacked lies in loyalty to the group, following others, and the ability to react violently and emotionally to defend the tribal turf. He who runs away may live to fight another day, yet we are like gazelles. Lone survivors tend to be picked off quickly. We don't generally scatter and flee when confronted; we gather together, and we fight.
+
+This is deeply embedded in our ethos and mythos. The hero is not the one who escapes; he's the one who prevails. This is worth repeating because if cowardice were a successful strategy, it'd be sexy. The market is brutal about how it values genes with survival value. The hero in the zombie movie either stays and fights, or runs to save his family.
 
 Of course in most times and locations, life is not confrontational. Though we notice the wars, they are spaced with long periods of peace, and Steven Pinker has argued convincingly that over time [society has become progressively more peaceful](http://stevenpinker.com/publications/better-angels-our-nature). The thing about violent confrontation is that it takes just one mistake to lose one's life. Peace is not risky, yet being too nice in a time of violence is the kind of mistake that wipes out entire genetic lines. I'd expect our genetic heritage to keep a knife-edge balance between too much and too little capacity for aggressive tribalism.
 
@@ -1172,11 +1212,13 @@ History shows that most of us carry the instinct for murder -- or at least for p
 
 As human society has gotten more sophisticated and less dependent on raw natural resources, it has also devalued the need for strong tribal emotions, particularly male aggression. We can achieve much more today by dialogue and trade than by simple force. Still, our instincts for tribalism are deep and old, and only superficially controlled. They come out easily when provoked. Ask someone where "they are from," then say something less than polite about that country, and watch the reaction.
 
-One can draw two male caricatures: the "jocks" and the "nerds." The jocks tend to sports; the nerds to intellectual pursuits. Speaking as an intellectual, I can vouch shamelessly that nerds are more intelligent, have better looks and genes, and are more likely to thrive in the digital society. However, I've never met a male -- jock or nerd -- that was immune to tribalism. The main difference is that the jocks do it without comment, as if it were obvious. The nerds, on the other hand, back their tribalism with endless self-justification that can turn into formalized dogmatic collective insanity in the worst cases. The jocks may be the ones shouting and wielding the sticks. However, it's the nerds who invent the slogans and ideologies and build the political machines behind the genocides.
+One can draw two male caricatures: the "jocks" and the "nerds." The jocks tend to sports; the nerds to intellectual pursuits. Speaking as an intellectual, I can vouch shamelessly that nerds are more intelligent, have better looks and genes, and are more likely to thrive in the digital society. However, I've never met a male -- jock or nerd -- that was immune to tribalism. The main difference is that the jocks do it without comment, as if it were obvious.
+
+The nerds, on the other hand, back their tribalism with endless self-justification that can turn into formalized dogmatic collective insanity in the worst cases. The jocks may be the ones shouting and wielding the sticks. However, it's the nerds who invent the slogans and ideologies and build the political machines behind the genocides.
 
 ## Stupid, Mad, or Bad
 
-A Serbian soldier in Bosnia, when asked by a journalist why they had not opposed NATO, after so many years of swearing they would die to build a Greater Serbia said, "We may be mad, but we're not stupid." I speak sometimes of madness, sometimes of stupidity. When we speak of an individual, the two properties are quite different, as the Serbian soldier tried to explain. When we speak of a large group of people, madness and stupidity look almost the same.
+A Serbian soldier in Bosnia, when asked by a journalist why they had not opposed NATO, after so many years of swearing they would die to build a Greater Serbia said, "We may be mad. We're not stupid." I speak sometimes of madness, sometimes of stupidity. When we speak of an individual, the two properties are quite different, as the Serbian soldier tried to explain. When we speak of a large group of people, madness and stupidity look almost the same.
 
 In general, collective stupidity is a precursor to collective madness. When someone asks me to explain Nazi Germany -- this happens almost daily on the street, I swear -- I give this explanation:
 
@@ -1222,11 +1264,17 @@ I've looked at some main causes for mad mobs: territory, tribalism, religion, sp
 
 * *Team sports*. Beach volleyball, granted, can make good viewing. Team sports, however, express the essence of tribalism, sometimes violently. You don't hear of chess riots or origami hooligans. Many mass activities, like pop festivals, even with the addition of lots of drugs and alcohol, do not end in running street fights. Team sports [often do end in chaos](https://www.google.com/search?q=hockey+football+riots).
 
-* *Belief in the supernatural*. This is my story, take it or leave it. Religion has its uses, like all our social instincts. It lets us delegate responsibility for disasters that have no logical explanation, so we can keep our logic safe for things we do understand. Without the capacity to believe in imaginary supernatural beings, we'd have to try to analyze and solve every single flood, drought, illness, accident, and social injustice. And because the world is full of disasters beyond our control, we'd go crazy. Normally, as science explains more of the world around us and technology makes our world more predictable, religion should decrease. This seems to be the way it works. Whatever the reason, religion definitely makes individuals more stupid and groups extraordinarily stupid. Organized religion seems designed to grab an absolute zero score on the Collective Intelligence Index.
+* *Belief in the supernatural*. Religion has its uses, like all our social instincts (this is my story, take it or leave it). It lets us delegate responsibility for disasters that have no logical explanation, so we can keep our logic safe for things we do understand. Without the fusebox of belief in an imaginary supernatural, we'd have to analyze and solve every single flood, drought, illness, accident, and social injustice. And since the world is full of disasters beyond our control, we'd go crazy.
 
-* *Tribalism*. All modern humans descended from about 10,000 individuals who lived about 300,000 years ago, and all non-African humans from a far smaller selection. Anyone who thinks their particular family tree makes them special is as crazy as a Cardinal. True, some genes seem more fit than others, and some family trees have more of these genes. However, there is zero correspondence between good genes and "ethnic origin," except in reverse: the more isolated and homogeneous a gene pool is, the more likely it is to be filled with bugs. The evolutionary justification for tribalism ended perhaps 5,000 years ago when the technologies of agriculture, portable trade goods, and currencies made it more profitable to work collectively than to fight over patches of hunting ground, watering holes, or trade routes.
+Normally, as science explains more of the world around us and technology makes our world more predictable, religion should decrease. This seems to be the way it works. Religion definitely makes individuals more dull witted, and groups stupid. Organized religion scores very low on the Collective Intelligence Index.
 
-* *Language identity*. Not for nothing does digital society label some of its most intense and useless fights as "language wars." When we get attached to languages, this attachment makes us stupid. All languages are good for something. French for arguments, because you can shout for ten minutes and say nothing. English for business, because it's so easy to pick up and so hard to master. German for poetry, because... well, just because. Japanese for secrets, because it is actually four languages depending on who you're talking to. Italian for traffic directions, because it always involves much hand-waving. Spanish for stories, because of the wine. A language is like a social credit card, and a pragmatic person learns as many languages as he or she can afford. One should never *belong* to a language.
+* *Tribalism*. All modern humans descended from about 10,000 individuals who lived about 300,000 years ago, and all non-African humans from a far smaller selection. Anyone who thinks their particular family tree makes them special is as crazy as a Cardinal. True, some genes seem more fit than others, and some family trees have more of these genes. However, there is zero correspondence between good genes and "ethnic origin," except in reverse: the more isolated and homogeneous a gene pool is, the more likely it is to be filled with bugs.
+
+The evolutionary justification for tribalism ended perhaps 5,000 years ago when the technologies of agriculture, portable trade goods, and currencies made it more profitable to work collectively than to fight over patches of hunting ground, watering holes, or trade routes.
+
+* *Language identity*. Digital society specializes in intense and useless fights called "language wars." When we get attached to languages, that makes us dim witted. All languages are good for something. French for arguments: you can shout for ten minutes and say nothing. English for business: it's easy to pick up yet hard to master. German for poetry... well, just because. Japanese for secrets: it is really four languages depending on who you're talking to. Italian for traffic directions: it involves much hand-waving. Spanish for stories, because of the wine.
+
+A language is like a social credit card, and a pragmatic person learns as many languages as he or she can afford. One should never *belong* to a language.
 
 * *Anything that homogenizes our lives*. This is a long list, because industrial society is so good at producing endless identical products: same cars, houses, clothes, food, music, gadgets, and culture. There is a direct causal relationship between the cookie-cutter sprawl of US life, and the inability of most of American society to develop sophisticated answers to elemental questions such as "How free should a person be?" Europe is sometimes mocked for having too many languages and too many borders, yet it is Europe's diversity that has kept this continent more or less sane since the end of WWII and European empires.
 
@@ -1255,11 +1303,11 @@ Just as a Social Architect can create a wise crowd by deliberate design, a bandi
 > Brian: I'm not the Messiah!
 > Arthur: I say you are, lord, and I should know... I've followed a few.
 
-Let's start with the overall process. It is very similar to how we built an online community, except we take the tools from “New Digital Cities” and turn the dials down to absolute zero: insane rules, arbitrary authority, no freedom, and so on.
+Let's start with the overall process. It is very similar to how we built an on-line community, except we take the tools from “New Digital Cities” and turn the dials down to absolute zero: insane rules, arbitrary authority, no freedom, and so on.
 
 Every gang starts with a charismatic founder and some promise of salvation. The founder is a middle-aged, decent looking bandit who has been playing ping-pong with people since he could hold a bat. By the time he is forty, he has collected a small cloud of dedicated followers, and more importantly, he has attracted one or two fellow bandits -- less handsome, and harder-working -- who smell an opportunity. These are the ones who will build the cloud up to something big.
 
-The market curve applies to the bandit's gang just as it does for online communities, and indeed the two are hard to distinguish at the start. The first to join the cloud are the fanatics, who know the Messiah when they see him. Then come the pioneers, the early adopters, the mass market, the late adopters, and finally, the stragglers. Let's face it: if you're converting to Catholicism today, you are a straggler.
+The market curve applies to the bandit's gang just as it does for on-line communities, and indeed the two are hard to distinguish at the start. The first to join the cloud are the fanatics, who know the Messiah when they see him. Then come the pioneers, the early adopters, the mass market, the late adopters, and finally, the stragglers. Let's face it: if you're converting to Catholicism today, you are a straggler.
 
 The first marketing wave goes out to people who are somewhat disconnected already. They have some issues. The bandits whisper stories about imaginary enemies and conspiracies and this draws in the low-hanging fruit, those with paranoia and other vulnerabilities. Then the bandits create a dichotomy between "them versus us" that targets the next slice of the market. Then they switch to the "Everyone is doing it, you should, too" argument to catch the mass market. Finally, they use "If you aren't with us, you are against us" to catch the late adopters.
 
@@ -1376,7 +1424,11 @@ On the other hand, a jungle-covered country with no big cities and little in the
 
 As we look at the world, we see that the better the natural transport systems and hinterlands, the larger the population concentrations and the wealthier the society, and the more the bakers and bureaucrats dominate society. In [Asia](http://www.zum.de/whkmla/histatlas/asia/haxasia.html), Europe, America, and Africa, the most "developed" societies have always grown up around water, and the most "primitive" societies have always been the most distant from water. Compare Uzbekistan to Sweden, Texas to San Francisco, Chad to Uganda, Tibet to Taiwan.
 
-The apparent exceptions prove the general rule. Switzerland is land-locked, nonetheless it derived great wealth from its position on the Rhine, its internal lakes, and as a crossing point for Alpine trade. In fourteenth century Africa, the empire of Mali controlled cross-Saharan trade in salt and gold carried on camels, or "ships of the desert." It became so wealthy that when its king, Mansa Musa, traveled to Mecca, he spent so much gold that [the price of the metal was depressed for a decade](https://en.wikipedia.org/wiki/Musa_I_of_Mali). Post-genocide Rwanda has a booming middle class and economy. There, it seems to be driven by the determination of the elites to never again allow such a horror to occur, with help from China and the US, and pillage from Congo-Kinshasa.
+The apparent exceptions prove the general rule. Switzerland is land-locked, nonetheless it derived great wealth from its position on the Rhine, its internal lakes, and as a crossing point for Alpine trade.
+
+In fourteenth century Africa, the Manden Kurufaba empire of Mali controlled cross-Saharan trade in salt and gold carried on camels, or "ships of the desert." The Manden Kurufaba became so wealthy that when its king, Mansa Musa, traveled to Mecca, he spent so much gold that [the price of the metal was depressed for a decade](https://en.wikipedia.org/wiki/Musa_I_of_Mali).
+
+Post-genocide Rwanda, another exception, has a booming middle class and economy. There, it seems to be driven by the determination of the elites to never again allow such a horror to occur, with help from China and the US, and pillage from Congo-Kinshasa.
 
 Northern civilization started in what is now Syria and Iraq, and spread east out to India, and west to [the Mediterranean basin](https://en.wikipedia.org/wiki/History_of_the_Mediterranean_region). Without exception, the Mediterranean states, from prehistory until modern times, were based on maritime trade fed by major rivers and based around major cities.
 
@@ -1504,7 +1556,7 @@ However, while wealth and freedom correlate, full fridges and streaming TV shows
 
 It seems to me, observing this closely for more than a decade, that our governments are indeed working overtime to remove bricks in the freedom pillar. The process is slow, careful, and international. I think I've got a good explanation as to why they feel they have to do this, as told in my story at the start of the chapter, and I think that by now, the mechanisms are becoming clear to many other people too. A significant part of the process is to convince people that everything is normal. This plays on our desire to be relaxed and calm about things. When a person in authority tells us, "It's all OK," we want to believe them. When he's an out-and-out psychopath, it's even harder to resist that sincere smile and firm handshake.
 
-In 2003, the US invaded Iraq, again, and [between January 3 and April 12](https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War), 2003, 36 million people across the globe took part in almost 3,000 anti-war protests. In the US, however, the country actually sending soldiers to kill and be killed, protests were muted and small by comparison. This was, perhaps, at the height of power of the US propaganda machine personified by Fox News. That TV station has gotten quieter since Obama's second term, when it bet so publicly on the wrong psychopath. However, that doesn't mean the propaganda went away. Instead it went underground, spread wider, and infiltrated our new digital media.
+In 2003, the US invaded Iraq, again, and [between January 3 and April 12](https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War), 2003, 36 million people across the globe took part in almost 3,000 anti-war protests. In the US, however, the country actually sending soldiers to kill and be killed, protests were muted and small by comparison. This was, perhaps, at the height of power of the US propaganda machine personified by Fox News. That TV station has gotten quieter since Barack Obama's second term, when it bet so publicly on the wrong psychopath. However, that doesn't mean the propaganda went away. Instead it went underground, spread wider, and infiltrated our new digital media.
 
 I don't know how many government employees and contractors have fake accounts on sites like Reddit so they can try to influence what stories get reported, and how people respond to them. The sock puppets are there, that's a certainty, and it's something I'll return to later in this chapter. For now, let's examine how the classic propaganda media operated. These patterns seem to repeat fairly often, so I expect we'll see them come back in new clothes over and over:
 
@@ -1522,7 +1574,7 @@ I don't know how many government employees and contractors have fake accounts on
 
 * *Flood with useless data*. Wife of footballer confesses sex addiction, love affair with lesbian gardener. Now, back to the banking takeovers of this week.
 
-* *Stir fear, uncertainty, and doubt*. Teenager arrested for anti-social online comments, facing terrorism charges and life imprisonment. Congress debates new security powers.
+* *Stir fear, uncertainty, and doubt*. Teenager arrested for anti-social on-line comments, facing terrorism charges and life imprisonment. Congress debates new security powers.
 
 * *Debate empty emotional issues*. Should Muslims be allowed to write books about Christ? More coming up on this hot story after the news!
 
@@ -1530,11 +1582,11 @@ I don't know how many government employees and contractors have fake accounts on
 
 Of course, journalists and editors don't need to invent and insert these messages deliberately. They are as just gullible as anyone and can be manipulated in exactly the same ways. It just takes a few clever, well-placed people close to the top of the food chain, crafting wedge issues, talking points, and other propaganda elements. Feed these into the hierarchy, and they spread to the whole system.
 
-As a note, I'm shocked that my "teenager arrested for antisocial online comments, facing terrorism charges" line actually came true in 2013, multiple times. I wrote it several years ago as an absurd caricature.
+As a note, I'm shocked that my "teenager arrested for antisocial on-line comments, facing terrorism charges" line actually came true in 2013, multiple times. I wrote it several years ago as an absurd caricature.
 
 ## Kisses in the Park
 
-> "According to a Sydney Morning Herald article, the Australia government has decided to take the controversial step of having Internet service providers filter web content at the request of parents, in a crackdown on online bad language, pornography and child sex predators."--Slashdot front page, 9 August 2007
+> "According to a Sydney Morning Herald article, the Australia government has decided to take the controversial step of having Internet service providers filter web content at the request of parents, in a crackdown on on-line bad language, pornography and child sex predators."--Slashdot front page, 9 August 2007
 
 Having our thoughts held captive under the influence of propaganda only lasts for so long. We eventually clear our minds and realize that things are not quite right. For longer-lasting results, the men in charge have a more solid argument against freedom. I'm not talking about terrorism. I'm talking about simple morality. When people have too much freedom, the argument goes, they do bad things. Therefore, we will make laws For Everyone's Own Good that make those bad things illegal.
 
@@ -1560,9 +1612,11 @@ In the West, we escape the type of virulent moral legislation that infects count
 
 The claims that such prohibition laws exist to help the people do not really hold water. When politicians pass moral legislation, they do it for because they think it will help to keep them in a position of privilege and power for a little while longer. These laws act as political tools with a common purpose to reduce and diminish our social freedoms whilst protecting those in power from responsibility for social problems. They turn us into a potential criminal majority, all possibly guilty, all the time, of various crimes, and all potentially targeted for arrest and sentencing on the grounds of our moral lack.
 
-Once the State claims the right to suppress social freedoms for our own sake, the side effects can be dramatic. We don't have to look at the Persian Gulf states to see examples. In 2013, for instance, Florida abruptly shut down all Internet cafés under legislation to stop online gambling. Was the goal to stop people betting, or to experiment with how people would respond to a ban on anonymous Internet access? If it was the latter, we may soon see other states across the US enact similar bans.
+Once the State claims the right to suppress social freedoms for our own sake, the side effects can be dramatic. We don't have to look at the Persian Gulf states to see examples. In 2013, for instance, Florida abruptly shut down all Internet cafés under legislation to stop on-line gambling. Was the goal to stop people betting, or to experiment with how people would respond to a ban on anonymous Internet access? If it was the latter, we may soon see other states across the US enact similar bans.
 
-The War on Drugs created a boom for the security industry, and provided cover for a huge program of militarizing the police. It gave them the tools for citywide surveillance and rapid armed response. The story that the police exist to protect good people from criminals sounds more and more like a fairy tale. For a long time, perhaps since the United States was founded, minorities have understood the police's role is to bully the poor on behalf of the wealthy. This view is now mainstream, particularly when [civil seizures of land and property](http://www.businessinsider.com/how-scary-drug-raids-became-a-cash-cow-for-americas-police-2013-7) started to supplement police department budgets. The differences between Kinshasa and downtown Los Angeles are not always as hard and fast as they may appear.
+The War on Drugs created a boom for the security industry, and provided cover for a huge program of militarizing the police. It gave them the tools for citywide surveillance and rapid armed response. The story that the police exist to protect good people from criminals sounds more and more like a fairy tale.
+
+For a long time, perhaps since the United States was founded, minorities have understood the police's role is to bully the poor on behalf of the wealthy. This view is now mainstream, particularly when [civil seizures of land and property](http://www.businessinsider.com/how-scary-drug-raids-became-a-cash-cow-for-americas-police-2013-7) started to supplement police department budgets. The differences between Kinshasa and downtown Los Angeles are not always as hard and fast as they may appear.
 
 ## The Modern Police State
 
@@ -1605,7 +1659,7 @@ The freedom to know defines our relationship with wider reality. More accurate k
 
 And the freedom to share defines how efficiently our collective intelligence works. The greatest threat to the Internet, and the pet hate of most of its users, which moves them to action no matter the cost, is censorship.
 
-You may recognize that these four freedoms as the core of the Social Architecture toolkit, and this is no coincidence. Online communities have distilled the fermenting old world societies into a purer, more potent, and addictive form. If you look at successful online communities like Wikipedia, Twitter, or Facebook, they express precisely these four freedoms. To some, these distilled digital societies may seem artificial and unrealistic -- even antisocial. However, they are actually hyperreal and hypersocial.
+You may recognize that these four freedoms as the core of the Social Architecture toolkit, and this is no coincidence. On-line communities have distilled the fermenting old world societies into a purer, more potent, and addictive form. If you look at successful on-line communities like Wikipedia, Twitter, or Facebook, they express precisely these four freedoms. To some, these distilled digital societies may seem artificial and unrealistic -- even antisocial. However, they are actually hyperreal and hypersocial.
 
 Next I'll examine each of the elementary freedoms in detail.
 
@@ -1613,7 +1667,9 @@ Next I'll examine each of the elementary freedoms in detail.
 
 After narrowly not escaping military service in Belgium in 1984, I lived for 15 years in the city of Antwerp, and then moved, quite randomly, to Brussels. That turns out to be a very different city and culture, tolerant of diversity and relaxed in its attitudes to the unknown. By contrast, Antwerp epitomizes the small-minded fear and hate of the poor by the wealthy. The city suffered massive flight of the middle classes in the last century to suburban homes and malls, and its downtown resembles urban blight covered with multiple layers of cheap, peeling paint.
 
-Brussels, on the other hand, consists of 90% or more of immigrants, who have filled every corner of the city with life and noise. It's also dirty and poor, yet new activity springs up everywhere. No part of the downtown is safe from the hipster designers and art galleries and little shops, above all, bars and cafés and restaurants of every color and style. Not only is it a very mixed city, its population fuses together with an in-your-face glee. It's a people that has largely agreed to discard its culture and mixing taboos. Flemish nationalism and Islam still hold strong in some districts, yet they are both losing to the sheer pleasures of multicultural life. In no other city have I seen young North African women wearing full head scarfs, along with tight jeans and high heels, speaking Dutch to each other and French to their parents.
+Brussels, on the other hand, consists of 90% or more of immigrants, who have filled every corner of the city with life and noise. It's also dirty and poor, yet new activity springs up everywhere. No part of the downtown is safe from the hipster designers and art galleries and little shops, above all, bars and cafés and restaurants of every color and style.
+
+Not only is it a very mixed city, its population fuses together with an in-your-face glee. It's a people that has largely agreed to discard its culture and mixing taboos. Flemish nationalism and Islam still hold strong in some districts, yet they are both losing to the sheer pleasures of multicultural life. In no other city have I seen young North African women wearing full head scarfs, along with tight jeans and high heels, speaking Dutch to each other and French to their parents.
 
 While I like a lot about Brussels, that isn't the point of this book. The point is that I felt free as a young man to move to this city, and to build a life here despite having no job, and knowing no one. The freedom to move to Brussels is one I took utterly for granted. It wasn't always so. Belgium used to be a cluster of city-states in which the right to live within a city wall, to be a free man of the city, and to enjoy the security and prosperity that living in town allowed, was restricted to elites.
 
@@ -1625,7 +1681,9 @@ The walls didn't all come down in the seventeenth and eighteenth centuries, of c
 
 The reason for the walls around our old cities was to protect the privilege of the few against the many. Also, yes, for defense against bandits and raiders and the random foreign army. Yet how much of that history is true, and how much was just repeated as the excuse for taxing the burghers in order to raise the walls?
 
-By the old definition, anyone who really wants power is going to be in trouble when they get it. Rulers in every time and place have started with the best intentions and end up shooting for Dictator for Life. It's just how it goes. However, there are checks and balances: crazy rulers are bad for business, so they tend to come to colorful ends. Still, sometimes you just can't fix a place and the only solution for the smart middle class is to leave for somewhere else. In the sixteenth century, the Spanish found themselves in Flanders with a wide rebellion -- Spanish classes sucked, presumably -- and tried to fix that by [looting and burning every city](https://en.wikipedia.org/wiki/Spanish_Fury) in the region. The Sacking of Antwerp in 1567 was particularly destructive, with over 7,000 citizens of the city killed along with uncounted refugees.
+By the old definition, anyone who really wants power is going to be in trouble when they get it. Rulers in every time and place have started with the best intentions and end up shooting for Dictator for Life. It's just how it goes. However, there are checks and balances: crazy rulers are bad for business, so they tend to come to colorful ends. Still, sometimes you just can't fix a place and the only solution for the smart middle class is to leave for somewhere else.
+
+In the sixteenth century, the Spanish found themselves in Flanders with a wide rebellion -- Spanish classes sucked, presumably -- and tried to fix that by [looting and burning every city](https://en.wikipedia.org/wiki/Spanish_Fury) in the region. The Sacking of Antwerp in 1567 was particularly destructive, with over 7,000 citizens of the city killed along with uncounted refugees.
 
 Perhaps this is why Antwerp is still so miserable today. It's a fair excuse. The other cities that were burned by the Spanish -- Aalst, Mechelen, Maastricht -- all have that similar things-were-so-good-in-the-early-sixteenth-century whiff about them. Yet Antwerp used to be the center of the Netherlands in every way: rich, powerful, cultured. What happened? Possibly, as the Spanish worked their way across the landscape over several years, every smart and mobile Dutch speaker moved north, out of the way. It was literally just a matter of hopping into a boat and floating downstream on the Schelde River. You don't even need to row or steer. By the time they came to Antwerp, only the immobile or suicidally stubborn were left.
 
@@ -1643,7 +1701,7 @@ One of the happy things about the Internet is the freedom to walk away. If our f
 
 Here are some predictions:
 
-* An increasing global competition for talent. Simply put, as people come online, the competition between talented people increases in volume and effect. Today, already, we think nothing of recruiting designers from Malaysia, engineers from South Africa, project managers from Germany, and then bringing them together with a team based in Israel. So for at least a section of global society, business will demand -- and get -- easier migration.
+* An increasing global competition for talent. Simply put, as people come on-line, the competition between talented people increases in volume and effect. Today, already, we think nothing of recruiting designers from Malaysia, engineers from South Africa, project managers from Germany, and then bringing them together with a team based in Israel. So for at least a section of global society, business will demand -- and get -- easier migration.
 
 * The need to attract young blood as the population of a country starts to age. It's the elephant in every developed country's living room. As more women go to higher education and full-time careers, they delay their fertility and so there are fewer babies. It's pretty simple math: 2 + 0 = 2. Most societies won't tolerate the Taliban solution: namely, banning education for girls. The other two options are industrial-scale cloning, and allowing more immigrants.
 
@@ -1667,13 +1725,13 @@ We extract truths by filtering, like whale sharks, interesting nuggets from the 
 
 Our social networks are just such tools, despite early notions that they mapped our "relationships." We'll talk to anyone who will listen, and listen to anyone who sounds interesting. When a "relationship" exists simply because someone clicked *Follow* or *Like*, it's really not the same type of "relationship" we were talking about. It's something else.
 
-So it was quite predictable that Facebook and Twitter would become the first platforms for protests and then for outright revolutions. When this first started in the 2009-2010 Iranian elections, it took governments by surprise. Perhaps until then, they'd believed that people were just sharing photos of their kids and pets. More likely, the old men who hold power around the world simply had not started using these tools, and had a slower learning curve than most other people. Obama’s election campaign heightened politicians' awareness worldwide of the potential benefits of using social media, though not everyone caught the bug.
+So it was quite predictable that Facebook and Twitter would become the first platforms for protests and then for outright revolutions. When this first started in the 2009-2010 Iranian elections, it took governments by surprise. Perhaps until then, they'd believed that people were just sharing photos of their kids and pets. More likely, the old men who hold power around the world simply had not started using these tools, and had a slower learning curve than most other people. Barack Obama’s election campaign heightened politicians' awareness worldwide of the potential benefits of using social media, though not everyone caught the bug.
 
-Facebook and Twitter are a little passé today. For one thing, they are vulnerable to censorship and worse. Post a threatening tweet, even jokingly, and you will be arrested, [as many people have learned](https://www.google.com/search?q=arrested+for+posting+tweet). The state security services are rich in everything -- except a sense of humor. Today, the state of the art for online organization is Anonymous, with its (still somewhat naive) "You don't know who I am, so you can't arrest me" attitude.
+Facebook and Twitter are a little passé today. For one thing, they are vulnerable to censorship and worse. Post a threatening tweet, even jokingly, and you will be arrested, [as many people have learned](https://www.google.com/search?q=arrested+for+posting+tweet). The state security services are rich in everything -- except a sense of humor. Today, the state of the art for on-line organization is Anonymous, with its (still somewhat naive) "You don't know who I am, so you can't arrest me" attitude.
 
-Real communities spread far wider than the websites we visit. It was not a Facebook revolution, it was an Internet revolution. It is becoming clear to all sides that the primary challenge to the naked villainy of traditional politics is this new online society and its activist communities being able to arrange for ‘real time’ events through on-line communications; in other words, being able to organize themselves..
+Real communities spread far wider than the websites we visit. It was not a Facebook revolution, it was an Internet revolution. It is becoming clear to all sides that the primary challenge to the naked villainy of traditional politics is this new on-line society and its activist communities being able to arrange for ‘real time’ events through on-line communications; in other words, being able to organize themselves..
 
-The real-world protests we see emerging in cities around the world are not random. In Rio today and tomorrow in Glasgow, these are not chaotic events driven by local crises or city politics. They are the fruits of an unseen global network, like mushrooms emerging through the forest floor. For every individual who went to an Occupy Wall Street event, tens of thousands took part online, even if their involvement was limited to sharing photos of some event.
+The real-world protests we see emerging in cities around the world are not random. In Rio today and tomorrow in Glasgow, these are not chaotic events driven by local crises or city politics. They are the fruits of an unseen global network, like mushrooms emerging through the forest floor. For every individual who went to an Occupy Wall Street event, tens of thousands took part on line, even if their involvement was limited to sharing photos of some event.
 
 So the challenge for the industrial political elite is how to map and understand these networks, and how to control them or break them. Some dream of banning the Internet, yet that would be like switching off the power grid. When the Egyptian regime in fact [tried this in 2011](http://gizmodo.com/5746121/how-egypt-turned-off-the-internet), it only intensified protests. It did not stop them.
 
@@ -1681,7 +1739,7 @@ Nationwide firewalls are another "cut off your nose to spite your face" strategy
 
 China has censored its Internet access for a long time, however that filter is leaky, and has to be. If you actually cut your citizens off from the outside world, they can't do business, and your economy will suffer. This is the North Korea option, which only really works in an already poor country. Any interference in the smooth running of the global Internet would bring the wrath of big money down on the hapless idiot who tried it.
 
-Let's look at some other strategies that [different authorities are using](https://en.wikipedia.org/wiki/Internet_censorship_by_country) to weaken or reduce our freedom to organize online without being too obvious about it:
+Let's look at some other strategies that [different authorities are using](https://en.wikipedia.org/wiki/Internet_censorship_by_country) to weaken or reduce our freedom to organize on line without being too obvious about it:
 
 * *An emerging censorship*, usually on the basis of child pornography, obscenity, terrorism, or copyright and trademark violations. There are different approaches. Among developed countries, Australia and South Korea (to my knowledge) maintain blacklists of websites that Internet users cannot access. These were pushed to "save the children": an easy sell to certain kinds of adults. In both cases, the blacklists grew wider and wider.
 
@@ -1689,15 +1747,19 @@ Let's look at some other strategies that [different authorities are using](https
 
 * *Fear and uncertainty*, where individuals are arrested for specific activities that may be more or less innocent. Laws originally designed to protect children from sexual predators now mark children as "sex offenders" for sending each other nude "selfies."
 
-* *Removal of privacy*, where the State makes it clear that it is listening to our conversations, and takes them very seriously. The arrest of [more than one teenager](http://dailycaller.com/2013/07/02/second-teen-spends-months-in-jail-for-video-game-threat/) for making sarcastic threats inside an online video game sends a clear message: we're watching, so behave.
+* *Removal of privacy*, where the State makes it clear that it is listening to our conversations, and takes them very seriously. The arrest of [more than one teenager](http://dailycaller.com/2013/07/02/second-teen-spends-months-in-jail-for-video-game-threat/) for making sarcastic threats inside an on-line video game sends a clear message: we're watching, so behave.
 
 * *Agents provocateurs*, where specific communities or projects are infiltrated by agents who try to push participants towards violent acts or words, so they can be arrested or subverted. This happens in many real-world protests, as police forces have an economic incentive in more, not less, disturbances.
 
-Any experienced activist will assume that most large Internet firms, indeed most large technology firms, are tied into the surveillance networks, and collaborate with the alphabet agencies in varying degrees. That includes phone companies like Verizon, broadband providers like Comcast, major commercial websites like Facebook, Twitter, and Ebay, software firms like Microsoft and Oracle, network equipment providers like Cisco, and so on. Large Internet firms claim to resist pressure to collaborate with the alphabet agencies. It would, however, be naive to assume that statements such as, "We do not give the National Security Agency access to our servers" are not lies by omission. If an agency has full access to the networks, it doesn't need access to servers. If the NSA isn't listening, perhaps others are.
+Any experienced activist will assume that most large Internet firms, indeed most large technology firms, are tied into the surveillance networks, and collaborate with the alphabet agencies in varying degrees. That includes phone companies like Verizon, broadband providers like Comcast, major commercial websites like Facebook, Twitter, and Ebay, software firms like Microsoft and Oracle, network equipment providers like Cisco, and so on.
 
-Power must use a delicate hand when interfering with our ability to organize via the Internet. The Thai military has squadrons of soldiers whose job it is to write flattering comments about the country's monarchy, and down-vote criticism. The Chinese army does the same with political discussion on forums. It's a little comedic because of course no one going to such a forum will be swayed by thousands of obviously insincere comments (or even sincere ones); they go to argue. I assume that western spies are a little more sophisticated than the Thai military, and aren't simply spamming the Web with comments about how great the US political system is. What the spy state wants is to know everything about everyone, now, and provide this to the security services so that they can suppress or divert political dissent.
+Large Internet firms claim to resist pressure to collaborate with the alphabet agencies. It would, however, be naive to assume that statements such as, "We do not give the National Security Agency access to our servers" are not lies by omission. If an agency has full access to the networks, it doesn't need access to servers. If the NSA isn't listening, perhaps others are.
 
-To reach this goal of "Total Information Awareness", society must use the Internet more, not less. We have to trust the web sites we visit and trust our personal lives to, otherwise it becomes too hard to spy on us. We have to feel safe enough to expose ourselves, otherwise we'll find ways to hide. The cat, hunting a mouse, must wait silently until the mouse feels confident enough to leave its hole. Only then can it pounce. The spy state is the cat and we are, in its eyes, the mice.
+Power must use a delicate hand when interfering with our ability to organize via the Internet. The Thai military has squadrons of soldiers whose job it is to write flattering comments about the country's monarchy, and down-vote criticism. The Chinese army does the same with political discussion on forums. It's a little comedic because of course no one going to such a forum will be swayed by thousands of obviously insincere comments (or even sincere ones); they go to argue.
+
+I assume that western spies are a little more sophisticated than the Thai military, and aren't simply spamming the Web with comments about how great the US political system is. What the spy state wants is to know everything about everyone, now, and provide this to the security services so that they can suppress or divert political dissent.
+
+To reach this goal of "Total Information Awareness", society must use the Internet more, not less. We have to trust the websites we visit and trust our personal lives to, otherwise it becomes too hard to spy on us. We have to feel safe enough to expose ourselves, otherwise we'll find ways to hide. The cat, hunting a mouse, must wait silently until the mouse feels confident enough to leave its hole. Only then can it pounce. The spy state is the cat and we are, in its eyes, the mice.
 
 If enough people feel annoyed by state surveillance, it's quite plausible that the leading edge of digital society will move to fully private forums running on private darknets. If this were to get any kind of weight and the mass market were to follow, it would present a real problem for the state security services.
 
@@ -1705,7 +1767,7 @@ Here is how I think this game will play out:
 
 * As whistleblowers leak information about illegal spying by the alphabet agencies, we'll see denials by business and promises by governments to roll back such activities or limit them to extreme cases. Those denials and promises will be empty.
 
-* In order to build more accurate online profiles, we'll see "real name" policies by websites and legislation by countries that make it illegal to use aliases in online communities or communicate anonymously.
+* In order to build more accurate on-line profiles, we'll see "real name" policies by websites and legislation by countries that make it illegal to use aliases in on-line communities or communicate anonymously.
 
 * We'll see various forms of attack on anonymous communities, covering the gamut of negative media reports, planting illicit material, claims of infiltration by security agents, and so on.
 
@@ -1805,7 +1867,7 @@ In technology, the free software sector, which effectively regulates a free-shar
 
 While copyright and patent law can be very profitable for the owners, those profits are always taken at a larger cost to society. Economists have difficulty showing this, yet it's not for lack of data. Rather, working on this topic is a dangerous career move. Economists, like most ordinary people, have to feed their families and pay their mortgages. Very few have done extensive research into the real costs of the copyright and patent systems. The European Patent Office makes a habit of buying up economists who start to look at the economics of the patent system.
 
-I'll explore patent and copyright in more detail in “Wealth of Nations”. For now, I want to look at how they affect our freedom to share knowledge online, why that matters, and what I think the outcome will be.
+I'll explore patent and copyright in more detail in “Wealth of Nations”. For now, I want to look at how they affect our freedom to share knowledge on line, why that matters, and what I think the outcome will be.
 
 Thanks to the music and movie industries, "sharing" has been turned into an accusation and even a criminal offense in many countries. Among the hip and leading-edge, the "Would you steal a car?" propaganda clip is a joke. "Would you download a car to your 3D printer?" they ask, mocking the bookseller's claim that copying culture is a form of theft. Yet for the majority of people, the threat of disconnection, prison, or massive fines because someone shared a few songs by accident on the family WiFi is real and frightening. The outcome of this is that, while people are confident in sharing photos of their cats and kids, they're less keen on stepping outside the walled gardens that Facebook and its ilk provide.
 
@@ -1815,21 +1877,23 @@ Why does this matter? Who cares if the bulk of Internet users never venture beyo
 
 Bread and circuses. The criminals inside the ring, fighting the wild animals, and the spectators outside, passively watching. That was the way the establishment hoped the Internet would develop. Except that the crowd jumped the barriers and joined the fracas in the ring.
 
-In 2008, the Church of Scientology tried to use copyright law to censor the video interview of a prominent Scientologist, Tom Cruise. YouTube complied. Other websites refused, and the loose communities calling themselves "Anonymous" decided this censorship was a casus belli. It wasn't the first time Scientology hit the Internet. In 1995, they sued a Dutch writer and Internet service providers for the leak of secret "church teachings," losing after ten long years in the courts. However, while the previous fight took place in the courtroom where Scientology's money could work effectively, this new fight took place on the Internet, where, curiously, all of Scientology's money was worthless. This raises a side question, which I'll return to somewhat later, of exactly what currencies operate in this strange world.
+In 2008, the Church of Scientology tried to use copyright law to censor the video interview of a prominent Scientologist, Tom Cruise. YouTube complied. Other websites refused, and the loose communities calling themselves "Anonymous" decided this censorship was a casus belli. It wasn't the first time Scientology hit the Internet.
+
+In 1995, they sued a Dutch writer and Internet service providers for the leak of secret "church teachings," losing after ten long years in the courts. However, while the previous fight took place in the courtroom where Scientology's money could work effectively, this new fight took place on the Internet, where, curiously, all of Scientology's money was worthless. This raises a side question, which I'll return to somewhat later, of exactly what currencies operate in this strange world.
 
 Wikipedia [tells the story](https://en.wikipedia.org/wiki/Project_Chanology) thus, "Project Chanology was formulated by users of the English-speaking imageboards 711chan.org and 4chan, the associated partyvan.info wiki, and several Internet Relay Chat channels, all part of a group collectively known as Anonymous, on January 16, 2008 after the Church of Scientology issued a copyright violation claim against YouTube for hosting material from the Cruise video."
 
 Before this, Anonymous was best known for ordering lots of pizzas for people they didn't like. Chanology was their first real fight, and out of that conflict emerged something surprising in its scale, and breathtaking in ambition. Up until this point, Scientology was a very powerful international organization. They had subverted the US Internal Revenue Service (IRS) and paid no taxes. They were able to make people disappear without consequence. They had friends in high places, and their lawyers scared the most defiant of websites into silence.
 
-What Chanology became was the focal point for thousands upon thousands of people who hated Scientology for strong personal reasons. Either they were ex-members, or they had lost family or friends to the cult. These were ordinary people, not youthful hackers with nothing to lose. They went to Scientology offices and protested. They went to online forums and talked.
+What Chanology became was the focal point for thousands upon thousands of people who hated Scientology for strong personal reasons. Either they were ex-members, or they had lost family or friends to the cult. These were ordinary people, not youthful hackers with nothing to lose. They went to Scientology offices and protested. They went to on-line forums and talked.
 
 Anonymous [told Scientology](http://www.youtube.com/watch?v=JCbKv9yiLiQ), they had "decided that your organization should be destroyed." And this is pretty much what has happened. They tore through the blanket of acquiescence, as Scientology's feared lawyers found themselves unable to stop the leaks and discussions. They spread those secret "church teachings" far and wide, and mocked them for being poorly-written sci-fi trash. They exposed Scientology's most precious internal secrets -- documents, money, names, and dates. The aura of success that people like Tom Cruise had cultivated through their membership of Scientology became a badge of pity, even in the mainstream press.
 
 Scientology was just the first real fight for Anonymous, which has become the armed wing of the Internet, despite not even being an organization at all. They have started to take on the State itself.
 
-Project Chanology showed what a large, diverse, angry, but highly sane crowd could do, when they ignored the lawyers and the copyright claims, and focused on a real political objective, and a Bad Guy. I recall an elderly woman in France telling me there was an online vote on whether Scientology should be banned. Apparently the Scientologists had been voting *en-masse* for a "Non," which was at 60%. She was furious, in her firm, grandmotherly way. So I set up a few cloud servers and we downloaded a voting script some anon had made. After a few hours, the Oui vote was at 90%.
+Project Chanology showed what a large, diverse, angry, yet highly sane crowd could do, when they ignored the lawyers and the copyright claims, and focused on a real political objective, and a Bad Guy. I recall an elderly woman in France telling me there was an on-line vote on whether Scientology should be banned. Apparently the Scientologists had been voting *en-masse* for a "Non," which was at 60%. She was furious, in her firm, grandmotherly way. So I set up a few cloud servers and we downloaded a voting script some anon had made. After a few hours, the Oui vote was at 90%.
 
-It is sometimes harder to convince the crowd to jump over the barrier and get involved. There are real risks and the benefits can seem faint or unpredictable. The Piratebay torrent site tried to provoke a fight over copyright, but most people are content to use Spotify and Netflix. Apparent civil obedience, breaking the rules when we can get away with it, is still easier for most of us than open confrontation, anonymous or not.
+It is sometimes harder to convince the crowd to jump over the barrier and get involved. There are real risks and the benefits can seem faint or unpredictable. Though the Piratebay torrent site tried to provoke a fight over copyright, most people are content to use Spotify and Netflix. Apparent civil obedience, breaking the rules when we can get away with it, is still easier for most of us than open confrontation, anonymous or not.
 
 ## Summing Up
 
@@ -1841,9 +1905,9 @@ In this chapter, we looked at freedom as "being able to do interesting things wi
 
 Privacy isn't totally dead yet, although we are very close. It's happened rapidly, over the last fifteen years or so, as the political and technical barriers that stop others from monitoring us have fallen away.
 
-Every credit card purchase we make is recorded. Where, when, what, how much. So is everything we buy at the supermarket using our loyalty card. So is every trip we make by air, or by train and bus, if we use an electronic card to travel, or to pay. So are details of every film we watch or rent, if plastic comes into the picture somewhere. Every book we check out from a library, or buy online, is recorded and stored in a database somewhere.
+Every credit card purchase we make is recorded. Where, when, what, how much. So is everything we buy at the supermarket using our loyalty card. So is every trip we make by air, or by train and bus, if we use an electronic card to travel, or to pay. So are details of every film we watch or rent, if plastic comes into the picture somewhere. Every book we check out from a library, or buy on line, is recorded and stored in a database somewhere.
 
-Every web site and page we visit, when, for how long, and where we came from. What emails we send, to whom, and what we say. Every search we make, every post and comment on Facebook, Twitter, Google+. In online games, every chat we send, every button we press. On Skype, who we call or chat with, when, and what we say.
+Every website and page we visit, when, for how long, and where we came from. What emails we send, to whom, and what we say. Every search we make, every post and comment on Facebook, Twitter, Google+. In on-line games, every chat we send, every button we press. On Skype, who we call or chat with, when, and what we say.
 
 Our own mobile phones track us like pigeon collars: where we are, to the closest 50 yards, across almost the entire habitable globe. Every call we make, who we call, and what we say. Our fixed phone lines were already bugged decades ago. When we're on foot or in our cars, where we go, whom we meet, how long we stay: it's tracked by cameras posted in public and corporate spaces, and recorded, and stored.
 
@@ -1853,7 +1917,7 @@ This is the story I'll tell in this chapter: the death of privacy. I'll try to e
 
 ## Enter the Spider
 
-There is an alphabet soup of agencies that spy on us. Perhaps the NSA makes the news today, but tomorrow the headlines may be about the British General Communications Headquarters (GCHQ), the US Federal Bureau of Investigation (FBI), Office of Naval Intelligence (ONI), or Department of Homeland Security (DHS), or Israel's Mossad. It would be naive to assume there is one single agency that has all the software taps and hard disks. Rather, it's a network of agencies and programs and databases that reaches around the globe, penetrating and corrupting business and politics.
+There is an alphabet soup of agencies that spy on us. Today the NSA makes the news, tomorrow the headlines may be about the British General Communications Headquarters (GCHQ), the US Federal Bureau of Investigation (FBI), Office of Naval Intelligence (ONI), or Department of Homeland Security (DHS), or Israel's Mossad. It would be naive to assume there is one single agency that has all the software taps and hard disks. Rather, it's a network of agencies and programs and databases that reaches around the globe, penetrating and corrupting business and politics.
 
 Furthermore, it seems implausible that this network operate independently, outside of any political structure. Where there is power and money, there are always political structures. The political structure behind the spy state is simply not the one we vote on, or exert any real control over, as governed.
 
@@ -1865,7 +1929,7 @@ Yet despite the obvious face-in-palm insanity of global apartheid, it seems to b
 
 So Silvia Swinden's "Para-state" is the term I will use, to describe the old power structures that the Digital Society is laying bare, and confronting, and will eventually overcome. Whereas the State derives its power from the governed, the Para-state feeds off the State and treats the governed as the enemy.
 
-As for the NSA and its fellow alphabet agencies, and including without prejudice all businesses and criminals involved in spying on us, I'm going to use the term "Spider", which is what early Internet geeks called the computer programs that "crawled the world wide web". It wasn't a great joke then either, but I rather like the notion of a massive thing with eight legs, eight eyes, sharp venomous teeth, and no brain to speak of, implacably stalking us as we struggle with our pathetic little lives.
+As for the NSA and its fellow alphabet agencies, and including without prejudice all businesses and criminals involved in spying on us, I'm going to use the term "Spider", which is what early Internet geeks called the computer programs that "crawled the world wide web". It wasn't a great joke then either. However, I rather like the notion of a massive thing with eight legs, eight eyes, sharp venomous teeth, and no brain to speak of, implacably stalking us as we struggle with our pathetic little lives.
 
 The Spider is no joke, however. It is a militarized force, armed and willing to shoot, that takes its orders from the Para-state, outside the control of any democratic framework.
 
@@ -1879,7 +1943,7 @@ Since politics said "yes" to the spies years ago, the limiting factor has been t
 
 How much data are we talking about?
 
-Over time our use of communications has shifted significantly. In 2000, it was mainly mobile phone calls. In 2013, it's far fewer phone calls, and a lot more chats and text messages. We also produce and consume a lot more content in the form of photos, videos, documents, and so on. There are also more of us online.
+Over time our use of communications has shifted significantly. In 2000, it was mainly mobile phone calls. In 2013, it's far fewer phone calls, and a lot more chats and text messages. We also produce and consume a lot more content in the form of photos, videos, documents, and so on. There are also more of us on line.
 
 The vast majority of Internet traffic is, however, irrelevant to the spies, or already stored by cloud services. For example when you watch a YouTube video, does the Spider need to store the video stream? It only needs the YouTube URL, and metadata such as when you watched, when you pressed play and pause, what site you came from, and so on. Similarly for those photos you upload to Flickr. All the Spider needs is a guarantee from Yahoo! that it will store them forever.
 
@@ -1944,7 +2008,7 @@ Though these figures are just estimates, they show the overall trend. There's a 
 
 ## The Drying Lake
 
-Because of cost gravity and politics, privacy is dying in the 21st century like a lake in a drying desert. This is a one-way and unstoppable process, caused simply by the asymmetric nature of information. It is much cheaper to spy on someone than it is to prevent people from spying on you. As Cost Gravity pushes down the cost of cameras, networks, hard disks, and CPUs, the cost of maintaining privacy grows higher and higher. In the end it comes down just to politeness and ethics and restraint, things we can expect of other individuals, just not of businesses, nor of governments.
+Because of cost gravity and politics, privacy is dying in the twenty-first century like a lake in a drying desert. This is a one-way and unstoppable process, caused simply by the asymmetric nature of information. It is much cheaper to spy on someone than it is to prevent people from spying on you. As Cost Gravity pushes down the cost of cameras, networks, hard disks, and CPUs, the cost of maintaining privacy grows higher and higher. In the end it comes down just to politeness and ethics and restraint, things we can expect of other individuals, just not of businesses, nor of governments.
 
 The death of privacy has costs, and benefits, depending on the situation. Our secrets are our property, and losing them devalues us. Those same secrets may benefit many more people, when they become public knowledge. When the cost of secrets held by one person or group outweighs the benefits to society, then it's right that those secrets be leaked. Health research based on population-wide data can help, for instance, to pinpoint causes of illness and disease.
 
@@ -1990,13 +2054,17 @@ CALEA was the FBI's wiretap system at the time. That "unknown hacker" turned out
 
 The NSA, formally responsible for spying on foreigners, runs what is perhaps [the world's largest hard disk array](https://en.wikipedia.org/wiki/Utah_Data_Center), in Utah. Responding to allegations that this facility was being used to collect data on US citizens, the NSA denied they were "unlawfully listening in on, or reading emails of, US citizens."
 
-That critical "lawfulness" of the NSA's surveillance is governed by the Foreign Intelligence Surveillance Act (FISA) and decided by a [secret court, FISC](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court). FISC judges are appointed without oversight, and their rulings are made in the dark and locked up forever. Until, that is, someone leaks them. One of Snowden's juicier leaks was a top secret court order issued by FISA that required Verizon, a US phone company, to provide a live feed of phone calls -- including those for domestic calls -- to the NSA. In 2012, the government presented 1,856 applications to the FISC, [which approved 100% of them](http://www.npr.org/2013/06/13/191226106/fisa-court-appears-to-be-rubberstamp-for-government-requests).
+That critical "lawfulness" of the NSA's surveillance is governed by the Foreign Intelligence Surveillance Act (FISA) and decided by a [secret court, FISC](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court). FISC judges are appointed without oversight, and their rulings are made in the dark and locked up forever. Until, that is, someone leaks them.
+
+One of Snowden's juicier leaks was a top secret court order issued by FISA that required Verizon, a US phone company, to provide a live feed of phone calls -- including those for domestic calls -- to the NSA. In 2012, the government presented 1,856 applications to the FISC, [which approved 100% of them](http://www.npr.org/2013/06/13/191226106/fisa-court-appears-to-be-rubberstamp-for-government-requests).
 
 Let's skip around the obvious and massive loopholes such as "we only spy on foreigners". Presumably Americans count as "foreigners" to [the UK's GCHQ](http://www.spiegel.de/international/world/snowden-reveals-how-gchq-in-britain-soaks-up-mass-internet-data-a-909852.html), which captures every single Internet packet it sees, and merrily exchanges data with the NSA. And presumably the NSA doesn't speak for the other alphabet agencies when it says "we".
 
 More interestingly, [there are claims](http://www.wired.com/threatlevel/2007/10/nsa-asked-for-p/) that the NSA's surveillance program started some time *before* September 11th. In February 2001, a full seven months before the War on Terror officially started, the NSA asked four US phone companies to turn over call records to an NSA database, offering secret contracts as an incentive. The request was illegal and a violation of federal privacy laws. AT&T, Verizon, and BellSouth turned over their records nonetheless. Just one firm, Qwest, stated publicly that they would not take part until served with a valid court order.
 
-The court order never came. Qwest didn't get the NSA contracts or money either, and by 2002, overwhelmed by debt, was being sold off in chunks to private equity firms. Its ex-CEO, Joseph Nacchio, was charged with fraud, convicted, and went to prison in 2009. Its Chief Operating Officer Afshin Mohebbi was cleared of all fraud charges in 2011. The Electronic Frontier Foundation (EFF) wrote in December 2007 that, "after months of pressure from the Bush Administration, the full Senate is poised to grant retroactive immunity to these companies, which would effectively ensure that the full extent of their complicity will never be known." The collaborating phone companies were given retroactive immunity in July 2008. Nacchio was released in October 2013, to somewhat of a hero's welcome, given Snowden's revelations.
+The court order never came. Qwest didn't get the NSA contracts or money either, and by 2002, overwhelmed by debt, was being sold off in chunks to private equity firms. Its ex-CEO, Joseph Nacchio, was charged with fraud, convicted, and went to prison in 2009. Its Chief Operating Officer Afshin Mohebbi was cleared of all fraud charges in 2011.
+
+The Electronic Frontier Foundation (EFF) wrote in December 2007 that, "after months of pressure from the Bush Administration, the full Senate is poised to grant retroactive immunity to these companies, which would effectively ensure that the full extent of their complicity will never be known." The collaborating phone companies were given retroactive immunity in July 2008. Nacchio was released in October 2013, to somewhat of a hero's welcome, given Snowden's revelations.
 
 As a side note, all anti-trust actions against these mobile phone companies stopped in 2000, and the US government allowed them to merge and [reform the phone cartel](http://technologizer.com/2011/03/20/att-buys-t-mobile/) that the regulators had broken up in 1984. In 2006, AT&T merged with Bellsouth, leaving it and Verizon with two-thirds of the 300 million mobile phone subscribers in the US.
 
@@ -2026,7 +2094,7 @@ The UK government then took the new European legislation back to London. They pr
 
 In Germany, the DRD was ruled unconstitutional and was not implemented. Other countries embraced the legislation. Here's how Wikipedia [describes Italy's enthusiastic implementation](https://en.wikipedia.org/wiki/Telecommunications_data_retention#European_Union):
 
-> Internet cafes and public telephone shops with at least three terminals must seek a license permit within 30 days from the Ministry of Home Affairs. They must also store traffic data for a period which may be determined later by administrative decree. WiFi hotspots and locations that do not store traffic data have to secure ID information from users before allowing them to log on. For example, users may be required to enter a number from an ID card or driving license. It is not clear how this information is validated. Mobile telephony users must identify themselves before service activation, or before a SIM may be obtained. Resellers of mobile subscriptions or prepaid cards must verify the identity of purchasers and retain a photocopy of identity cards.
+> Internet cafés and public telephone shops with at least three terminals must seek a license permit within 30 days from the Ministry of Home Affairs. They must also store traffic data for a period which may be determined later by administrative decree. WiFi hotspots and locations that do not store traffic data have to secure ID information from users before allowing them to log on. For example, users may be required to enter a number from an ID card or driving license. It is not clear how this information is validated. Mobile telephony users must identify themselves before service activation, or before a SIM may be obtained. Resellers of mobile subscriptions or prepaid cards must verify the identity of purchasers and retain a photocopy of identity cards.
 
 Britain was then, and still is, creating what must be the most dense surveillance state in the known universe. In London there are approximately 2,031 cameras per head of population. OK, that figure is a joke. The real figure is somewhere between "a lot" and "you *cannot* be serious"). So the DRD, with its shifting of the burden to private industry and the bulldozing of data protection, came at an opportune time.
 
@@ -2074,7 +2142,7 @@ The second red flag is the use of "parallel construction" to fake the evidence t
 
 The slippery slope goes one way. From drug dealers to growers, and small time dealers. From gangs to anyone who has been in prison or lives in a poor neighborhood. From terrorists to political activists and campaigners, and eventually anyone who threatens the establishment.
 
-Society has largely tolerated wire-tapping because the security services only targeted "foreign terror threats". Parallel construction (aka, "intelligence washing") tries to maintain that pretense. However, as "anti-terrorist" intelligence is used more and more in straight-forward criminal cases, we'll see the term "domestic terrorism" expand, but eventually the pretense will collapse.
+Society has largely tolerated wire-tapping because the security services only targeted "foreign terror threats". Parallel construction (aka, "intelligence washing") tries to maintain that pretense. However, as "anti-terrorist" intelligence is used more and more in straight-forward criminal cases, we'll see the term "domestic terrorism" expand. Eventually the pretense will collapse and it will be clear that the security services are focused on political dissidence above all.
 
 ## The Bogeyman Cometh
 
@@ -2086,7 +2154,7 @@ The question no one seems to be asking is, "Why?" Why would the UK government wa
 
 It is true that the EU Parliament passed the DRD in February 2006, six months after the London bombings. However in June of 2005, one month *before* the London bombings, the European Parliament had already [rejected the draft proposal](http://www.zdnet.com/eu-parliament-rejects-data-retention-plans-3039203034/). It was finally passed only by force; the European Commission threatening much worse legislation if Parliament rejected it again.
 
-The digital revolution does present a real, existential challenge to the Para-state. However this challenge is like an off-shore tsunami, taking place deep beneath the surface, and almost invisible until it is very close by. That makes it all the more dangerous, but also too subtle to have registered on the radars of our leaders, before the Facebook revolutions of 2011 and later.
+The digital revolution does present a real, existential challenge to the Para-state. However this challenge is like an off-shore tsunami, taking place deep beneath the surface, and almost invisible until it is very close by. That makes it all the more dangerous, yet also too subtle to have registered on the radars of our leaders, before the Facebook revolutions of 2011 and later.
 
 Something else happened. It must have been around the turn of the century, and whatever it was, it created enough paranoia and fear to drive major world governments to do some pretty extreme stuff. We're not just talking about good statesmanship and careful preventive action. We're talking about a broad international agreement to disregard the rule of law in the name of maintaining order; specifically, to undermine laws that protect privacy and the freedom to assemble.
 
@@ -2114,19 +2182,21 @@ It struck me as sinister that in the conflict in ex-Yugoslavia, the three main s
 
 Myths do of course create their own reality over time. Today there are thousands of young men who have been trained in killing in the name of Jihad, in camps and wars around the world. And whenever there is a violent conflict that figures Islam anywhere in it, it draws these men in. This is not, however, an international organization or movement, just a large bandit gang. And to be honest, it is hard to distinguish this gang from one of the Spider's teeth.
 
-I grew up 300 km from the troubles in Northern Ireland, which were portrayed for decades as an intractable religious conflict between Protestants and Catholics. And yet, when people stopped talking about religions, and instead looked at the politics, we found solutions. This is a consistent pattern. Conflict is always political, yet leaders often invoke religion to bolster their followers, and create more tribalism. Outsiders, searching for simplistic explanations, and possibly arms sales, embrace this rhetoric as reality. As the conflict increases, the religious arguments will definitely increase. However, it's correlation, not causation. And in the end, the solution comes from addressing the original political issues. Until then, and as long as possible, the beneficiaries (war can be incredibly profitable!) will pump up the "irreconcilable ancient hatreds" angle.
+I grew up 300 km from the troubles in Northern Ireland, which were portrayed for decades as an intractable religious conflict between Protestants and Catholics. And yet, when people stopped talking about religions, and instead looked at the politics, we found solutions. This is a consistent pattern.
+
+Conflict is always political, yet leaders often invoke religion to bolster their followers, and create more tribalism. Outsiders, searching for simplistic explanations, and possibly arms sales, embrace this rhetoric as reality. As the conflict increases, the religious arguments will definitely increase. However, it's correlation, not causation. And in the end, the solution comes from addressing the original political issues. Until then, and as long as possible, the beneficiaries (war can be incredibly profitable!) will pump up the "irreconcilable ancient hatreds" angle.
 
 And so it goes with the Global Extremist Islamic Threat to Modern Civilization. It appeals to atheists and Christians alike, and provides convenient cover, both for unprecedented profit-taking, and for creating the spy networks. However, a pumped-up threat of crazy foreign religious nuts doesn't explain the breathless alacrity with which the Spider was assembled, starting in 2000 or so. It doesn't explain why the US government threw away its own rule book on spying on its citizens, why the UK wanted that DRD so badly. As for why the rest of Europe went along without hesitation, perhaps the timing of the London bombings had something to do with it.
 
 ## The Unmentionable Canary
 
-Child porn is the unmentionable canary in the coal mine of privacy. As much as we may detest child porn, and I do, the crusade against it smoothly morphs into a [general crusade against obscenity](http://www.telegraph.co.uk/technology/internet/10194641/Camerons-crackdown-on-illegal-pornography-criticised.html). This brings us back to censorship, regulation of morality, and the expansion of criminalization. It's easy for the authorities to claim, as UK Prime Minister Cameron did, that "online pornography is eroding childhood," but this is frankly an appeal to laziness and the most negative emotional responses to a serious social problem.
+Child porn is the unmentionable canary in the coal mine of privacy. As much as we may detest child porn, and I do, the crusade against it smoothly morphs into a [general crusade against obscenity](http://www.telegraph.co.uk/technology/internet/10194641/Camerons-crackdown-on-illegal-pornography-criticised.html). This brings us back to censorship, regulation of morality, and the expansion of criminalization. It's easy for the authorities to claim, as UK Prime Minister Cameron did, that "on-line pornography is eroding childhood," but this is frankly an appeal to laziness and the most negative emotional responses to a serious social problem.
 
 My three children have ranged free on the Web since they could click a mouse, at the age of two or three. We have no Internet filters at home. There are many noxious places on the web, not least inane Flash games that somehow always end up asking for credit card details. My children, even young, have learned that there are dangers out there. It's no different than the dangers of the real world. Strong children are not those who grow up in safety helmets.
 
 The right approach for parents and schools is to actively guide children away from dangerous places -- and to explain why -- and towards safe places. It doesn't take a genius to realize that if pornography is banned or hidden, it simply boosts its appeal and makes it harder for parents to take control. I'd much rather my son stumbled across a porn site while using the PC in the living room than while at a friend's house.
 
-The creation of the "family-friendly Internet" is a slippery slope, with the obvious, and I assume intentional, outcome of creating an Internet too feeble to hurt the Para-state. First, it's the child porn networks. Then, it's obscenity in general. Then it's unmoderated forums, since adults might meet and groom children there. Then the use of online aliases, since that's how child abusers hide. Then it's a ban on anti-establishment forums, because terrorists. Then encryption, because that allows discussions to happen secretly, because pedophiles. Then unsanctioned software and devices. And so on.
+The creation of the "family-friendly Internet" is a slippery slope, with the obvious, and I assume intentional, outcome of creating an Internet too feeble to hurt the Para-state. First, it's the child porn networks. Then, it's obscenity in general. Then it's unmoderated forums, since adults might meet and groom children there. Then the use of on-line aliases, since that's how child abusers hide. Then it's a ban on anti-establishment forums, because terrorists. Then encryption, because that allows discussions to happen secretly, because pedophiles. Then unsanctioned software and devices. And so on.
 
 Meanwhile, children won't be protected in any concrete way. Rather, they will be cut off from anything that might teach them important facts about the dangers of the real world. Worse, it will create a generation of criminals who learn how to circumvent the blacklists and break the law to get access to porn. But above all it would throttle the essential freedoms to speak out and organize against the abuses of the Para-state.
 
@@ -2136,7 +2206,7 @@ There is no dividing line between "protecting the children" and removing free sp
 
 ## Zombie Conspiracies
 
-There is one other global existential threat to our way of life, and I'm not talking about Hello Kitty. I am however talking about peak oil, and the risks it brings for our comfortable holiday society. Bear with me, I'm not a catastrophe fan (we made it through Y2K, so how bad can the future be, right?), but that doesn't mean other people are as optimistic as me.
+There is one other global existential threat to our way of life, and I'm not talking about Hello Kitty. I am however talking about peak oil, and the risks it brings for our comfortable holiday society. Bear with me, I'm not a catastrophe fan (we made it through Y2K, so how bad can the future be, right?). However, that doesn't mean that other people are as optimistic as me.
 
 Though the industrial revolution started with coal, today's global economy owes its very existence to long-chain liquid hydrocarbons, aka "oil". Of the [seven largest global businesses](https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue), six are oil and gas -- Exxon Mobil, Shell, Sinopec, BP, CNPC, Aramco -- plus Walmart in position three. Eighteen of the top 50 businesses are oil and gas.
 
@@ -2180,7 +2250,7 @@ Meanwhile, the political elite needed something solid to justify their plan to p
 
 I find it remarkable how the march of Islamic terrorism seems directly linked to the price of a barrel of oil.
 
-The 21st century recycled the term "terrorism" into something quite new. Before 2000, "terrorists" were always groups of angry and violent fighters representing suppressed minorities fighting for a homeland or change of government. We had terrorism in Northern Ireland, the Basque region, Palestine, Sri Lanka, Kashmir, Algeria, Indonesia, and so on. They were always heroic figures, if you liked that kind of thing, though murderous, so you could support either side and still feel good about it. Viva Che!
+The twenty-first century recycled the term "terrorism" into something quite new. Before 2000, "terrorists" were always groups of angry and violent fighters representing suppressed minorities fighting for a homeland or change of government. We had terrorism in Northern Ireland, the Basque region, Palestine, Sri Lanka, Kashmir, Algeria, Indonesia, and so on. They were always heroic figures, if you liked that kind of thing, though murderous, so you could support either side and still feel good about it. Viva Che!
 
 In September 1999, a series of explosions [hit apartment blocks in Moscow](https://en.wikipedia.org/wiki/Russian_apartment_bombings). Journalist [Alexander Litvinenko](https://en.wikipedia.org/wiki/Alexander_Litvinenko) was an officer of the Russian FSB secret service (ex-KGB) who first fell out of favor for accusing his superiors of assassinating the oligarch Boris Berezovsky. Litvinenko claimed the FSB carried out the Moscow bombings, which were the excuse for the second Chechen War. He was murdered in London by an unusual radioactive isotope. [Anna Politkovskaya](https://en.wikipedia.org/wiki/Anna_Politkovskaya), another Russian journalist who made the same claims, was murdered in Moscow in 2006.
 
@@ -2192,7 +2262,9 @@ Graham [went further](http://www.rawstory.com/rawreplay/2011/09/former-sen-bob-g
 
 Unfortunately, any suggestion that 9/11 was predictable, or [allowed to happen](http://www.washingtonsblog.com/2011/08/bush-and-clinton-counter-terrorism-czar-alleges-massive-911-cover-up.html) by negligence, or even made to happen, is to be [branded a conspiracy nut](https://en.wikipedia.org/wiki/Richard_A._Clarke). The mainstream media did not then, and still does not, look at any details that contradict the official story. To question the mythos of the War on Terror is literally to risk [indefinite detention in a psychiatric ward](http://www.washingtonsblog.com/2012/08/former-locked-in-psychiatric-ward-over-his-911-facebook-posts.html).
 
-The line of evidence connecting 9/11 to the Spider's growth may be thin, yet is one of the clearer trails in a chaotic mass of lies, omissions, bluffs, and misdirections. As [the Raw Story reported in 2009](http://rawstory.com/news/2008/PBS_NSA_tracked_911_hijackers_but_0127.html), "Author James Bamford looked into the performance of the NSA in his 2008 book, The Shadow Factory, and found that it had been closely monitoring the 9/11 hijackers as they moved freely around the United States and communicated with Osama bin Laden's operations center in Yemen. The NSA had even tapped bin Laden's satellite phone, starting in 1996. Not only was then-Director Michael Hayden never held accountable for the NSA's alleged failure, but he went on to oversee the Bush administration's vast expansion of domestic surveillance. In 2006, he was appointed as director of the CIA."
+The line of evidence connecting 9/11 to the Spider's growth may be thin, yet is one of the clearer trails in a chaotic mass of lies, omissions, bluffs, and misdirections. As [the Raw Story reported in 2009](http://rawstory.com/news/2008/PBS_NSA_tracked_911_hijackers_but_0127.html),
+
+> Author James Bamford looked into the performance of the NSA in his 2008 book, The Shadow Factory, and found that it had been closely monitoring the 9/11 hijackers as they moved freely around the United States and communicated with Osama bin Laden's operations center in Yemen. The NSA had even tapped bin Laden's satellite phone, starting in 1996. Not only was then-Director Michael Hayden never held accountable for the NSA's alleged failure, but he went on to oversee the Bush administration's vast expansion of domestic surveillance. In 2006, he was appointed as director of the CIA.
 
 For the sake of argument, imagine the most powerful men on the planet coming out of the post-Cold War security services. Vladimir Putin was in the Russian KGB [for 16 years](https://en.wikipedia.org/wiki/Vladimir_Putin) before retiring to move into politics. Though George H. W. Bush was director of the CIA for just over a year, Russ Baker claims in [Family of Secrets](https://en.wikipedia.org/wiki/Family_of_Secrets), with much research, that the Bush family played a central part in US politics and secret services for half a century.
 
@@ -2204,7 +2276,7 @@ We had at least [$600 million](https://en.wikipedia.org/wiki/Al-Qaeda#Jihad_in_A
 
 Oil, Saudi Arabia, Afghanistan, intractable religious conflicts, NSA, CIA, KGB, exploding tower blocks, ex-secret service men becoming presidents, terrorists-for-hire, and a new War on Terror. It works very well as a story arc. Whether it's true or not, history will discover. What is certain is that a lot of tax and oil money went to building up a credible Islamic threat in Afghanistan. And then a whole lot more was spent on fighting it. And during that fight, we slipped and broke our civil liberties.
 
-In the late 1990's, we were expecting the "peace dividend" and the downsizing of our armies and secret services. However, the security money train did not stop or slow down. Instead, it almost [doubled in size](https://www.cfr.org/defense-budget/trends-us-military-spending/p28855) during the first decade of this century. We thought we had left the destructive wars of the 20th century behind us, and instead we find that in this century, we were always at war with Eurasia.
+In the late 1990's, we were expecting the "peace dividend" and the downsizing of our armies and secret services. However, the security money train did not stop or slow down. Instead, it almost [doubled in size](https://www.cfr.org/defense-budget/trends-us-military-spending/p28855) during the first decade of this century. We thought we had left the destructive wars of the twentieth century behind us, and instead we find that in this century, we were always at war with Eurasia.
 
 The defining feature of the Para-state, apart from their belief that B-movies are honest-to-god documentaries, is their inability to connect with the majority. Spend a weekend in a luxury hotel, all costs paid, and you will feel superior to the bellhop. Be born into a life of privilege, where luxury hotels are for the poor and outcast, and you will know to the core of your being that you are a god walking among mortals. And gods answer to no one, except perhaps higher gods.
 
@@ -2228,19 +2300,25 @@ In the US, terrorism and crime are used as the plausible explanations. A [2007 C
 
 Yet except for a small section of alarmists, and perhaps anthropologists studying inner city diversity, the public does not seem worried. According to CNN again: "a majority of Americans said they approved of the use of surveillance cameras by nearly a 3 to 1 margin in a recently published ABC News/Washington Post poll." Security does not just trump Liberty, he takes her into a dark back alley, violates her repeatedly, and then beats her senseless with a heavy stick.
 
-How effective is the surveillance? The CNN article quotes Steve Swain, who was a Detective Chief Superintendent with the London Met Police Counter Terror Unit (PICTU) during the time of the September 11th attacks, as saying, "I don't know of a single incident where CCTV has actually been used to spot, apprehend, or detain offenders in the act. The presence of CCTV is irrelevant for those who want to sacrifice their lives to carry out a terrorist act." That's a fairly damning critique, yet it only applies if the goal really is to stop terrorism. If the goal is simply the removal of privacy so we feel intimidated and less secure about engaging in political protest, then the cameras and car tracking are working precisely as planned. Hence the cultural death of Matonge, which was a center for political protest about Europe's policies in Central Africa.
+How effective is the surveillance? The CNN article quotes Steve Swain, who was a Detective Chief Superintendent with the London Met Police Counter Terror Unit (PICTU) during the time of the September 11th attacks, as saying, "I don't know of a single incident where CCTV has actually been used to spot, apprehend, or detain offenders in the act. The presence of CCTV is irrelevant for those who want to sacrifice their lives to carry out a terrorist act."
+
+That's a fairly damning critique, yet it only applies if the goal really is to stop terrorism. If the goal is simply the removal of privacy so we feel intimidated and less secure about engaging in political protest, then the cameras and car tracking are working precisely as planned. Hence the cultural death of Matonge, which was a center for political protest about Europe's policies in Central Africa.
 
 Surveillance in the real world keeps track with its digital counterpart. The only restraining factor in both cases, as far as we can tell, is cost -- not legality, ethics, public opinion, or benefits. The cost will continue to fall, and the number of eyes will continue to double every two years. Fixed cameras will give way to smart cameras that move and zoom to track pedestrians and car occupants. The eyes will shrink to just millimeters across and find their way into the very infrastructure of the city -- street lamps, traffic lights, stop signs. They will grow legs and scuttle around in corners, get wings, and fly around like little insects, tracking interesting people and cars.
 
 Every new train, bus, and taxi already has surveillance in the name of security. The cameras now have microphones, so what you say in the back of the taxi can be recorded. Vast amounts of data are processed by private firms, shared between agencies, and tied into the digital surveillance network. When your Facebook profile meets a suspect, the Spider sees it. And of course to offset the huge cost of this surveillance, it makes sense to sell the data to private firms or give them the contract to collect and resell it for sales and marketing purposes.
 
-Today, we're still safe inside our homes and offices. I think it's just a matter of time until that changes, unless there is a dramatic change in public attitudes towards being watched by the gray men, which I think is unlikely. I'm not sure what the arguments or events will be that convince us to invite the gray men over our doorsteps and into our homes. Maybe they won't even ask. They  will just silently turn on the microphones and cameras in our laptops, or hack into the "always on" cameras on our entertainment systems and smart TVs. As Sean Hollister [asks in the Verge](http://www.theverge.com/2013/7/16/4526770/will-the-nsa-use-the-xbox-one-to-spy-on-your-family), "Will the NSA use the Xbox One to spy on your family?", noting that despite denying it was even technically possible, "Microsoft gave government agencies access to private Skype video and audio calls, perhaps even going so far as to integrate Skype into the NSA's controversial PRISM surveillance system."
+Today, we're still safe inside our homes and offices. I think it's just a matter of time until that changes, unless there is a dramatic change in public attitudes towards being watched by the gray men, which I think is unlikely. I'm not sure what the arguments or events will be that convince us to invite the gray men over our doorsteps and into our homes. Maybe they won't even ask. They  will just silently turn on the microphones and cameras in our laptops, or hack into the "always on" cameras on our entertainment systems and smart TVs.
+
+As Sean Hollister [asks in the Verge](http://www.theverge.com/2013/7/16/4526770/will-the-nsa-use-the-xbox-one-to-spy-on-your-family), "Will the NSA use the Xbox One to spy on your family?", noting that despite denying it was even technically possible, "Microsoft gave government agencies access to private Skype video and audio calls, perhaps even going so far as to integrate Skype into the NSA's controversial PRISM surveillance system."
 
 The change could come when they convince us that they need to "protect the children" or "provide security services to the elderly." It could start with some vulnerable section of the population such as criminals who are on parole, or drug users in rehabilitation. It could be drones that fly down streets, looking inside windows and through curtains. It's only cost and technical difficulty, both rapidly eroding, that stop the ring of steel around us from growing faster than it does.
 
 ## The Price of Privacy
 
-In a telling YouTube video, a young man takes a video camera and [simply records people in public](http://www.youtube.com/watch?v=cPr2SKf2fX0). He walks up to people, starts filming, and when they complain, he points out that the streets are filled with CCTVs already. He gets some very angry responses. We certainly do care when individuals invade our privacy. However, when it comes to the destruction of our privacy by the alphabet agencies, business, or criminals, digital society has mostly responded with resounding silence. It has been over a dozen years since the Qwest incident, and yet it's only in 2013 with the Snowden leaks that the Spider is making headlines. The shock is not that the Spider is tracking our every word and deed. The shock is that people were surprised by this.
+In a telling YouTube video, a young man takes a video camera and [simply records people in public](http://www.youtube.com/watch?v=cPr2SKf2fX0). He walks up to people, starts filming, and when they complain, he points out that the streets are filled with CCTVs already. He gets some very angry responses. We certainly do care when individuals invade our privacy.
+
+However, when it comes to the destruction of our privacy by the alphabet agencies, business, or criminals, digital society has mostly responded with resounding silence. It has been over a dozen years since the Qwest incident, and yet it's only in 2013 with the Snowden leaks that the Spider is making headlines. The shock is not that the Spider is tracking our every word and deed. The shock is that people were surprised by this.
 
 I'm going to try to understand why. I think a number of factors explain why we tolerate the spying eyes:
 
@@ -2248,7 +2326,7 @@ I'm going to try to understand why. I think a number of factors explain why we t
 
 * *The young man was just being rude.* You can film people in public if you're polite and convincing about it. He should have said, "I want to record you for this series I'm making about privacy, do you mind? If you don't like it, I'll go ask that other guy."
 
-* *We feel we're getting a good trade.* Sure, Facebook knows a lot about us, yet we also learn a lot about other people. Sure, web sites track us with cookies. Oh look, pretty pictures!
+* *We feel we're getting a good trade.* Sure, Facebook knows a lot about us, yet we also learn a lot about other people. Sure, websites track us with cookies. Oh look, pretty pictures!
 
 * *We enjoy the attention.* Most people are pretty lonely, and the idea that someone is watching isn't half as scary as the alternative -- that no one cares. This is why many people enjoy getting some spam. It may be junk, yet at least it's coming to us, personally.
 
@@ -2268,7 +2346,7 @@ I think when we lived small lives, our secrets were more precious. At some level
 
 In this chapter, I've documented how the Spider, those faceless alphabet agencies of the state, is spying on us. Our current web architecture, built on centralized servers, accessed through commercial broadband links, is trivial to tap. I've explained how the cost of storing everything interesting about us is falling down to zero.
 
-As to the "why," we see the Para-state -- a paranoid global political elite fighting to hold onto power -- prodded by a military-industrial complex that was running out of enemies before the terrorists, drug cartels, and online pedophiles conveniently came along. It doesn't even require a conspiracy. The collapsing cost of storage and computing power, combined with the centralized Web, makes global surveillance an inevitable outcome.
+As to the "why," we see the Para-state -- a paranoid global political elite fighting to hold onto power -- prodded by a military-industrial complex that was running out of enemies before the terrorists, drug cartels, and on-line pedophiles conveniently came along. It doesn't even require a conspiracy. The collapsing cost of storage and computing power, combined with the centralized Web, makes global surveillance an inevitable outcome.
 
 No matter what the shocking revelations, no matter the public outrage -- it is simply too easy to spy on our electronic lives and too costly to prevent it. To some extent, society has accepted this as a fact of life and has become inured to it, even embraced it. We discount our own privacy so our secrets become worthless.
 
@@ -2326,7 +2404,10 @@ A successful State reduces violence over time, and thus we tolerate it and pay f
 
 I'm a firm believer in the free market. I'm not a fan of free market economists. Here is how [Wikipedia sums up](https://en.wikipedia.org/wiki/Economic_freedom) the free market view of private property rights:
 
-> According to the free market view, a secure system of private property rights is an essential part of economic freedom. Such systems include two main rights: the right to control and benefit from property and the right to transfer property by voluntary means. These rights offer people the possibility of autonomy and self-determination according to their personal values and goals. Economist Milton Friedman sees property rights as "the most basic of human rights and an essential foundation for other human rights." With property rights protected, people are free to choose the use of their property, earn on it, and transfer it to anyone else, as long as they do it on a voluntary basis and do not resort to force, fraud or theft. In such conditions most people can achieve much greater personal freedom and development than under a regime of government coercion. A secure system of property rights also reduces uncertainty and encourages investments, creating favorable conditions for an economy to be successful. Empirical evidence suggests that countries with strong property rights systems have economic growth rates almost twice as high as those of countries with weak property rights systems, and that a market system with significant private property rights is an essential condition for democracy. According to Hernando de Soto, much of the poverty in the Third World countries is caused by the lack of Western systems of laws and well-defined and universally recognized property rights. De Soto argues that because of the legal barriers poor people in those countries can not utilize their assets to produce more wealth.
+> According to the free market view, a secure system of private property rights is an essential part of economic freedom. Such systems include two main rights: the right to control and benefit from property and the right to transfer property by voluntary means. These rights offer people the possibility of autonomy and self-determination according to their personal values and goals. Economist Milton Friedman sees property rights as "the most basic of human rights and an essential foundation for other human rights."
+> With property rights protected, people are free to choose the use of their property, earn on it, and transfer it to anyone else, as long as they do it on a voluntary basis and do not resort to force, fraud or theft. In such conditions most people can achieve much greater personal freedom and development than under a regime of government coercion. A secure system of property rights also reduces uncertainty and encourages investments, creating favorable conditions for an economy to be successful.
+> Empirical evidence suggests that countries with strong property rights systems have economic growth rates almost twice as high as those of countries with weak property rights systems, and that a market system with significant private property rights is an essential condition for democracy.
+> According to Hernando de Soto, much of the poverty in the Third World countries is caused by the lack of Western systems of laws and well-defined and universally recognized property rights. De Soto argues that because of the legal barriers poor people in those countries can not utilize their assets to produce more wealth.
 
 It sounds sensible, doesn't it? The theory of strong private property rights, as the basis for democracy and prosperity is attractive. It appeals to our self-interest and seems to fit the empirical data. The West emphasizes private property, and also has successful economic systems and democracy. The US takes this theory to the extreme, and is the wealthiest, most democratic nation on earth. Surely this proves the theory.
 
@@ -2364,7 +2445,7 @@ Strong private property laws are an outcome -- not the origin -- of a successful
 
 ## Property as Game Theory
 
-Perhaps I am being too unkind to the right-wing economists, and their confusion of cause and effect. They did get at least one thing right: property laws *do* make a difference. Bad property laws can crush us, and good property laws can raise us up. I'm absolutely a fan of good private property rights, but I've also experienced, personally, how destructive bad property rights can be.
+Perhaps I am being unkind to the right-wing economists, and their confusion of cause and effect. They did get at least one thing right: property laws *do* make a difference. Bad property laws can crush us, and good property laws can raise us up. I'm absolutely a fan of good and fair private property rights. However, I've also experienced, personally, how destructive bad property rights can be.
 
 There is no single law on property. There are many, many forms of property in a modern society, each with their own set of rules. These rules have been worked out by trial and error over thousands of years. However they always have one thing in common: they are written by powerful people for their own benefit. Sometimes that matches the greater good, and sometimes it does not. How can we tell the difference without the trial-and-error that so often results in dire consequences? Did we really need centuries of war in Africa leading to tens of millions dead, and a major civil war in the US to prove that slavery was a bad idea?
 
@@ -2417,7 +2498,7 @@ Two thousand years ago, we invented clean water, hot baths, social security, hig
 
 Two hundred and fifty years ago, we invented the steam engine and decided it was more profitable to build factories than grow sugar. We invented "intellectual property" on the basis that if we didn't own the ideas in our minds, we would stop thinking.
 
-About five decades ago, we invented the Internet as a few megabytes of technical protocols anyone could implement for free. The notion of open and free protocols was radical at the time. By the end of the twentieth century, investors were pouring billions into businesses whose only model was "spend money." For many people, the main reason to go online was to download stuff for free and annoy the music and movie industries. Eventually, most people went online just to meet and talk with other folks, building huge social networks of all shapes and sizes.
+About five decades ago, we invented the Internet as a few megabytes of technical protocols anyone could implement for free. The notion of open and free protocols was radical at the time. By the end of the twentieth century, investors were pouring billions into businesses whose only model was "spend money." For many people, the main reason to go on line was to download stuff for free and annoy the music and movie industries. Eventually, most people went on line just to meet and talk with other folks, building huge social networks of all shapes and sizes.
 
 Some of digital society's most valuable assets are those social networks. You might think they're owned by the businesses that operate them. You're wrong.
 
@@ -2485,7 +2566,7 @@ This is the model I propose. Let's call it "Creative Title," or CT:
 * Guaranteed right to remix any work as long as a different title is used.
 * No expiration on CT; it can last forever, as long as the user account exists.
 
-That's it. The whole thing can be implemented by content hosting sites without any state intervention -- no courts, or lawyers, or police. The main problem is that it could conflict with existing copyright. That can be solved by mandating upfront that all work put into the domain must be correctly licensed.
+That's it. The whole thing can be implemented by content hosting sites without any state intervention -- no courts, or lawyers, or police. The main problem is that it could conflict with existing copyright. That can be solved by mandating up-front that all work put into the domain must be correctly licensed.
 
 We can do this for any digital work: text, music, images, video, software. We can do this today by using a mix of a share-alike license (like the Creative Commons Share-Alike license, or the GPL) and traditional trademark. This is what we do in the ZeroMQ communities for the software we make. However, with the backing of content hosting sites, we could dispense with trademarks.
 
@@ -2588,6 +2669,12 @@ You could simply pay people to document knowledge. A 20-year monopoly on some kn
 
 Patent law has high costs to society. What is the cost of 20 years' slowdown of research into solar energy? What is the cost to the market of extracting $430 million in private taxes in an area -- communications -- that is utterly essential to the progress, if not the very survival, of our species? More than that, it is a corrupt form of property that encourages a psychopathic "might makes right" view of the market where private profit is always good, no matter the cost to wider society. It drives wealth from the many to the few, and creates concentrations of power that corrupt.
 
+Michele Boldrin and David K. Levine, in ["Against Intellectual Monopoly"](http://levine.sscnet.ucla.edu/general/intellectual/against.htm), write acidly:
+
+> A realistic view of intellectual monopoly is that it is a disease rather than a cure. It arises not from a principled effort to increase innovation, but from an evil combination of medieval institutions -- guilds, royal licenses, trade restrictions -- and the rent-seeking behavior of would be monopolists seeking to fatten their purse at the expense of public prosperity.
+
+> This cancer is attacking the most vital centers of our economy: metastasis is near and so it is time to face the intellectual monopoly threat squarely, and to take action.
+
 CSIRO's patents (Thank you, US Patent and Trademark Office!) turned it from a place to stick semi-retired academics into a gangster outfit. Its "success" will modify Australian policy in favor of stronger patent laws and more investment in banditry. The decent, productive sectors of Australian society will have to fly economy class, lose political support, and find themselves taxed by the gangsters.
 
 More than that, the attorneys who made this happen will get jobs in the Australian patent office. They will be the ones defining state patent policy. They will lobby for expanded scope of patents, enforcement of patents on trading partners in Asia, unification of the US and Australian patent systems, and so on. When they have completed a few years in that role, they will find themselves hired as top patent advisors by large firms. This is how the patent establishment has grown and survived over the last century: by pouring money into policy and then reaping a hundred times back from the market. This "revolving door" is a core mechanism of the patent industry.
@@ -2678,9 +2765,9 @@ God help you if someone steals your identity on a large site, though. You will n
 
 I propose an identity protection system based on who we are and where we go, and one that is not really private: a central registry, perhaps maintained like domain names by ICANN, where you can register a name and profile. This would be used to sign in to participating websites with different passwords for each website. Systems like this already exist to some extent, such as [OpenID](http://openid.net).
 
-### Online Games
+### On-line Games
 
-The most incomprehensible of assets (to an outsider) are those used in online games. Monopoly money, so to speak. Most games start and stop, yet the "massively multiplayer online role-playing games" (MMORPGs) continue forever. This means players can, and do, accumulate assets over time and build realistic simulations of property, economies, and currencies.
+The most incomprehensible of assets (to an outsider) are those used in on-line games. Monopoly money, so to speak. Most games start and stop, yet the "massively multiplayer on-line role-playing games" (MMORPGs) continue forever. This means players can, and do, accumulate assets over time and build realistic simulations of property, economies, and currencies.
 
 These virtual economies are interesting in how they develop. Each game is, in effect, a state with its own rules and authority. There is a large secondary market, probably around $1 billion a year globally, for game assets such as avatars and in-game currencies. When the operators of a game regulate the market and economies, they create black markets.
 
@@ -2690,21 +2777,21 @@ One of the more interesting games, *EVE Online*, prohibits the conversion of in-
 
 > One infamous example was an infiltration and heist where one corporation infiltrated a target corporation over the course of nearly a year. They then performed a virtual assassination on the target's CEO and proceeded to steal corporate property to which they had gained access. The target corporation lost billions of ISK worth of property (amounting to about $16,500) and a great deal of prestige; the CEO's expensive ship and cybernetic implants were destroyed in the attack.
 
-The existence of black markets for online gaming communities reveals the problem with non-convertible assets. I'm not sure what the solution is, though I think it involves more freedom to convert in-game assets to and from real currencies, without risk of lawsuits or prosecution.
+The existence of black markets for on-line gaming communities reveals the problem with non-convertible assets. I'm not sure what the solution is, though I think it involves more freedom to convert in-game assets to and from real currencies, without risk of lawsuits or prosecution.
 
 ### Communities
 
 Some of the most valuable, and least tangible, assets of the digital economy are its communities. You might think a community is owned by the company that runs the website and owns the domain name, and you would be wrong. The community aspires to own itself, and be highly mobile.
 
-This is the lesson we learned from the MySpace story. A poor authority will see its assets flow away, not quite overnight, yet within a few years, perhaps even months. When Oracle [bought Sun in 2010](https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle), they also took over Sun's many free software projects, including MySQL and OpenOffice. Within a few months, these had forked -- as allowed by their open source licenses -- to create MariaDB and LibreOffice, simply because Oracle was doing what it does best, being arrogant and overbearing. That works well with corporate clients. It is not the ideal way to treat online communities.
+This is the lesson we learned from the MySpace story. A poor authority will see its assets flow away, not quite overnight, yet within a few years, perhaps even months. When Oracle [bought Sun in 2010](https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle), they also took over Sun's many free software projects, including MySQL and OpenOffice. Within a few months, these had forked -- as allowed by their open source licenses -- to create MariaDB and LibreOffice, simply because Oracle was doing what it does best, being arrogant and overbearing. That works well with corporate clients. It is not the ideal way to treat on-line communities.
 
 Industrial-age businesses survived by capturing their clients. Digital-age businesses survive by bribing their clients with freedom and getting them to co-invest in their properties. Look at how Amazon entices its clients to become partners. Review this book and become part of our marketing machine. Your opinion matters! It's mutually profitable and it's honest.
 
-When a firm owns the domain name and website for an online community, it owns the *anchor* for the community. This makes it the authority, able to define licenses, rules, and policies. If it is a good authority, the community will stay there and grow. If it is a poor authority, the community will fragment, detach, and move to another anchor. Who owns your Twitter profile? You do, of course. Who enforces that property? Twitter does.
+When a firm owns the domain name and website for an on-line community, it owns the *anchor* for the community. This makes it the authority, able to define licenses, rules, and policies. If it is a good authority, the community will stay there and grow. If it is a poor authority, the community will fragment, detach, and move to another anchor. Who owns your Twitter profile? You do, of course. Who enforces that property? Twitter does.
 
 So digital society is filled with authorities, from huge ones like Google, Facebook, and Twitter, with hundreds of millions of citizens, to tiny ones with a handful of participants. Me, myself, and I make three. These digital authorities define their own property laws, and enforce them without negotiation, and are thus analogous to a State. Such digital authorities are the digital successors to the industrial-age nation-state.
 
-Digital society is not a single authority, it is many. When an authority tries to cheat, the outcome is simple: people abandon it. The freedom to leave one online community and go to another is unquestioned and unparalleled in the real world.
+Digital society is not a single authority, it is many. When an authority tries to cheat, the outcome is simple: people abandon it. The freedom to leave one on-line community and go to another is unquestioned and unparalleled in the real world.
 
 ### Knowledge
 
@@ -2720,7 +2807,7 @@ The industrial economy had a very clear definition of money: legal tender, issue
 
 Often, the world had a "reserve currency" that was considered the most stable and convertible, and held by governments as part of their foreign exchange reserves. For a long time, this was the British Pound Sterling. Then in the middle of the last century, the US Dollar became a significant reserve currency, and at the start of this century, the Euro joined. The government behind a reserve currency tends to use it to create debt, which then causes the currency to deflate and the world to switch to another.
 
-The Internet has been searching for a reserve currency, indeed any currency that could be used to buy goods and services online, for a long time. The digital economy presents a unique set of challenges for security and privacy.
+The Internet has been searching for a reserve currency, indeed any currency that could be used to buy goods and services on line, for a long time. The digital economy presents a unique set of challenges for security and privacy.
 
 ### Credit Cards
 
@@ -2728,7 +2815,7 @@ Most Internet trade still uses credit cards from firms like Visa and MasterCard.
 
 Mobile phones can now be turned into wireless credit card terminals by using little credit card readers that plug into the phone. The customer swipes their card to make a payment. It is all rather impressive, until you realize the deceit. The currency is all digital, held in bank accounts somewhere. The devices are all digital. The credit card itself and that little reader are a physical bridge between a digital financial system and itself.
 
-Credit cards are a very bad fit for the online economy. To make a transaction, the buyer gives his credit card details to the seller, who registers the transaction to the credit card company, which then authorizes it. The buyer only sees the details at the end of the month, and the seller may have to wait for several months to receive his money in his "merchant account" minus the processing fees and any disputed transactions ("chargebacks").
+Credit cards are a very bad fit for the on-line economy. To make a transaction, the buyer gives his credit card details to the seller, who registers the transaction to the credit card company, which then authorizes it. The buyer only sees the details at the end of the month, and the seller may have to wait for several months to receive his money in his "merchant account" minus the processing fees and any disputed transactions ("chargebacks").
 
 It takes a decent credit history to qualify for a "merchant account." This puts credit cards out of reach for newer, smaller sellers. Thus a second layer of businesses have cropped up which offer credit card processing to websites, adding further costs and delays on top.
 
@@ -2738,7 +2825,7 @@ Exchanging credit card details across insecure networks to strangers is an invit
 
 The need for safe transactions between strangers was nowhere more obvious than on the eBay auction site. In 2000, two existing financial service firms (Confinity and X.com), which already allowed users to email each other money, merged to form PayPal. Their successful strategy was to focus explicitly on eBay users in the US, then grow internationally.
 
-PayPal did a decent job of building a payments system that worked for online commerce. Though credit cards are widely used for purchases, sellers will often use PayPal as their payments processor. PayPal is cheaper and easier than the credit card companies and takes only 2% instead of 4%, allowing anyone to become a merchant.
+PayPal did a decent job of building a payments system that worked for on-line commerce. Though credit cards are widely used for purchases, sellers will often use PayPal as their payments processor. PayPal is cheaper and easier than the credit card companies and takes only 2% instead of 4%, allowing anyone to become a merchant.
 
 However, PayPal built a reputation for being a bit of a thug. It tended to seize accounts without explanation, freeze payments to sites without explanation, and even [cut off entire countries](http://java.dzone.com/dose/dzone-daily-dose-210). Its customer service is legendarily bad. Many websites simply refused to work with PayPal at all.
 
@@ -2746,7 +2833,7 @@ eBay bought PayPal in 2002, and despite its poor reputation, the service grew in
 
 ### Micropayment Systems
 
-As the Web boomed from 1995 to 1999, various groups developed micropayment systems that solved credit cards' high transaction costs. The theory at that time was that people would, for example, pay a few cents to read an online newspaper.
+As the Web boomed from 1995 to 1999, various groups developed micropayment systems that solved credit cards' high transaction costs. The theory at that time was that people would, for example, pay a few cents to read an on-line newspaper.
 
 These systems were developed, cast into official standards (the HTTP web protocol has an error code called "Payment Required"), and then quietly abandoned due to lack of interest. It turned out that advertising worked much better as a micropayment system, which brought us Google. Advertisers pay the website operator via Google each time a visitor clicks on their advertisement.
 
@@ -2797,17 +2884,17 @@ As an exercise, I tried to buy some BitCoins. Since I don't know anyone with Bit
 
 How much is a Facebook "Like" worth?
 
-In 2011-2013, the US State Department spent $630,000 to buy nearly two million likes on Facebook. It's doubtful anyone actually liked the government more afterwards, except the consultants doing the work. It shows the real value we are willing to place on our online reputation.
+In 2011-2013, the US State Department spent $630,000 to buy nearly two million likes on Facebook. It's doubtful anyone actually liked the government more afterwards, except the consultants doing the work. It shows the real value we are willing to place on our on-line reputation.
 
 I think we have vastly underestimated the value of the digital economy. I tried to show how many assets it has, yet many -- like the content on Wikipedia or YouTube -- are considered worthless because they are "free."
 
 Is it possible to calculate the gross Internet product (GIP) to compare to the gross world product (GWP)? We can count the assets created in all the virtual worlds, as it's clear that people clearly assign value to them or else they would not create black markets, nor pay for "Likes."
 
-Let's assume that two billion people regularly toil online, spending 20 hours a week in constructive work (not just flipping through YouTube channels). The Organisation for Economic Co-operation and Development (OECD) average GDP is $35,000 per capita. Let's assume that the online society is as productive as the OECD average. The ratio is probably much more than one because the digital economy is so much larger and more efficient. However, this suggests that our investment in online assets is around half of our investment in the real world, which seems to match empirical observations.
+Let's assume that two billion people regularly toil on line, spending 20 hours a week in constructive work (not just flipping through YouTube channels). The Organisation for Economic Co-operation and Development (OECD) average GDP is $35,000 per capita. Let's assume that the on-line society is as productive as the OECD average. The ratio is probably much more than one because the digital economy is so much larger and more efficient. However, this suggests that our investment in on-line assets is around half of our investment in the real world, which seems to match empirical observations.
 
-This gives us a GIP of $35 trillion a year. When we hit four billion Internet citizens, the GIP will start to exceed the whole industrial economy. (Actually, since GDP includes all Internet transactions, the industrial economy is already smaller than $70 trillion.) I think this estimate is low, and that the real productivity online is both higher than in the real world, and growing faster than we think. However, I'm not an economist. Perhaps a proper economist will find better figures.
+This gives us a GIP of $35 trillion a year. When we hit four billion Internet citizens, the GIP will start to exceed the whole industrial economy. (Actually, since GDP includes all Internet transactions, the industrial economy is already smaller than $70 trillion.) I think this estimate is low, and that the real productivity on line is both higher than in the real world, and growing faster than we think. However, I'm not an economist. Perhaps a proper economist will find better figures.
 
-One claim that I am making that you might have missed is that our online productivity is not dependent on where we live. That is, a poor person invests just as much as a wealthy person. This means that for poor countries, the digital economy is much more powerful a shift than in wealthy countries.
+One claim that I am making that you might have missed is that our on-line productivity is not dependent on where we live. That is, a poor person invests just as much as a wealthy person. This means that for poor countries, the digital economy is much more powerful a shift than in wealthy countries.
 
 The peak population of the Internet will be around 10 billion, in 2030, and I'd estimate per capita GIP of $100,000 by then, giving a global GIP of a mind boggling $1,000 trillion (that's a one followed by 15 zeros).
 
@@ -2827,11 +2914,11 @@ The trillions hoarded by the mega-rich cannot buy friends on the Internet. It ca
 
 ## Conclusions
 
-In this chapter, I've looked at the digital economy and its assets, bouncing off copyrights and patents in the process. I came to the perhaps raving mad conclusion that the gross Internet product (GIP) is already about half the size of the global world product (GWP), the total GDP of all countries on earth. More insanely, I'm claiming that by 2030, when 10 billion people will be spending most of their waking time online, GIP will be 10 to 15 times today's GWP.
+In this chapter, I've looked at the digital economy and its assets, bouncing off copyrights and patents in the process. I came to the perhaps raving mad conclusion that the gross Internet product (GIP) is already about half the size of the global world product (GWP), the total GDP of all countries on earth. More insanely, I'm claiming that by 2030, when 10 billion people will be spending most of their waking time on line, GIP will be 10 to 15 times today's GWP.
 
 This explosion in assets is both an existential threat to the Para-state, and the answer to its excesses. As I've written, political power comes from economic power. As the digital economy's power exceeds and then eclipses the old "real" money of the Para-state, the political conflicts will increase, alliances will be formed, and we will see the outbreak of a real world-wide conflict, ending in either the death of the Digital Society, or the Para-state. The war has been going on for some time now, and this is what we'll examine in the next chapter.
 
-# Chapter 7. Empire
+# Chapter 7. Conflict
 
 > Total War was inevitable. Both the Empire and the Culture knew it, and prepared for it in their very different ways.
 
@@ -2867,13 +2954,13 @@ And so on. These issues float around the media, sometimes making headlines, and 
 
 It's not just the lack of fighting inside Congress and the Houses of Parliament that is historically atypical. It's the total suspension of normal political opportunism. When President Clinton was caught with his pants down, the response from the Republican party was ferocious and unrelenting. Yes, absurd, yet that is why we elect psychopaths to power. They are the only people we can count on to stick the knife into the other psychopaths when they see the chance.
 
-And yet, when Bush Jr.'s Republicans manipulated two elections, invaded two countries on false pretexts, allowed Wall Street to go metastatic, instituted torture, deleted his administration's official emails,... the response from Democrats was empty debate on safe topics, and then continuation of much the same policies under Obama.
+And yet, when Bush Jr.'s Republicans manipulated two elections, invaded two countries on false pretexts, allowed Wall Street to go metastatic, instituted torture, deleted his administration's official emails,... the response from Democrats was empty debate on safe topics, and then continuation of much the same policies under Barack Obama.
 
 The only thing that will get hundreds of politicians to agree, for years, is a large external threat. As I explained in “War on Privacy”, the threat of Global Terrorism is a ludicrous bogeyman, blown up to a multi-Trillion dollar industry. So-called "international terrorists" are either actors for the video camera, *agents provocateurs*, local insurgents fighting for local power, or some mix. There are no alien invasions. And Washington and London certainly do not yet see the digital revolution as an existential threat. So what is going on? Why the decade-long suspension of the democratic process? *Why are the politicians not fighting?*
 
 I see two plausible answers. One, the US and UK turned mysteriously into socialist Scandinavian heavens of consensus politics. Two, the herds of politicians are being bullied by a larger, nastier predator. I think we can rule out the first option. The predator is, of course, the Spider, created by the Para-state as its Praetorian Guard, and like all imperial guards, itchy for the power it sees wielded so poorly every day.
 
-One of the first significant NSA whistleblowers was [Russ Tice](https://en.wikipedia.org/wiki/Russ_Tice). He told us in December 2005, that the NSA and DIA (another three-letter agency) were spying on US citizens, something that was, and is, illegal. The NSA then fired him, and rebuffed his claims. Today, we have corroboration of what he said, from Snowden and indeed from the NSA themselves. On June 20th 2013, on the Boiling Frogs podcast, [Tice went much further](http://www.boilingfrogspost.com/2013/06/19/podcast-show-112-nsa-whistleblower-goes-on-record-reveals-new-information-names-culprits/), saying:
+One of the first significant NSA whistleblowers was [Russ Tice](https://en.wikipedia.org/wiki/Russ_Tice). He told us in December 2005, that the NSA and DIA (another three-letter agency) were spying on US citizens, something that was, and is, illegal. The NSA then fired him, and rebuffed his claims. Today, we have corroboration of what he said, from Snowden and indeed from the NSA themselves. On June twentieth 2013, on the Boiling Frogs podcast, [Tice went much further](http://www.boilingfrogspost.com/2013/06/19/podcast-show-112-nsa-whistleblower-goes-on-record-reveals-new-information-names-culprits/), saying:
 
 > [The NSA] went after high ranking military officers. They went after members of congress. The Senate and the House - especially on the intelligence committees, and on the armed services committees and judicial. But they went after other ones too. They went after lawyers and law firms. Heaps of lawyers and law firms. They went after judges.
 > One of the judges is now sitting on the supreme court that I had his wiretap information in my hand. Two are former FISA court judges. They went after state department officials. They went after people in the executive service that were part of the White House - their own people!
@@ -2882,7 +2969,7 @@ One of the first significant NSA whistleblowers was [Russ Tice](https://en.wikip
 
 Structure defends itself. To be honest I'm surprised Russ Tice still lives. The alphabet agencies defend themselves, and their greatest threat is a cut to their funding, or oversight from politicians. Thus, their absolute first priority, before stopping any terror attacks, must be building up files on any individual with power. The Spider's "persons of interest" are not Chechen rebels, Somali militants, or Syrian fighters. I think the consistent failure to stop real attacks, such as the Boston Marathon bombing, shows that. Their persons of interest are, as Tice says, members of congress, generals, judges, lawyers, journalists.
 
-Tice continued, "One of the papers that I held in my hand was to wiretap a bunch of numbers associated with a 40-something year old wanna-be Senator from Illinois," referring to the future President Obama. Hence the reference to J. Edgar Hoover. As [Wikipedia says](http://en.wikipedia.org/wiki/J._Edgar_Hoover):
+Tice continued, "One of the papers that I held in my hand was to wiretap a bunch of numbers associated with a 40-something year old wanna-be Senator from Illinois," referring to the future President Barack Obama. Hence the reference to J. Edgar Hoover. As [Wikipedia says](http://en.wikipedia.org/wiki/J._Edgar_Hoover):
 
 > According to President Harry S. Truman, Hoover transformed the FBI into his private secret police force; Truman stated that "we want no Gestapo or secret police. FBI is tending in that direction. They are dabbling in sex-life scandals and plain blackmail. J. Edgar Hoover would give his right eye to take over, and all congressmen and senators are afraid of him".
 
@@ -2912,7 +2999,7 @@ We say "security" to mean the protection of our secrets, as they fly across the 
 
 * Two people, talking to each other (phone, email, chat). This means *authenticating* both parties, to be sure who is speaking, and using *asymmetric keys* to encrypt and decrypt the data. That is, one key locks, and another key unlocks.
 
-* One person, talking anonymously to a crowd (whistle blowers, bloggers), or accessing a web site anonymously. This means *anonymizing* the origin of data sent to the Internet, i.e. removing all details about the IP address used on the original sender computer, while still making it possible for replies to go back to that original computer.
+* One person, talking anonymously to a crowd (whistle blowers, bloggers), or accessing a website anonymously. This means *anonymizing* the origin of data sent to the Internet, i.e. removing all details about the IP address used on the original sender computer, while still making it possible for replies to go back to that original computer.
 
 *TIP:* the next section is heavy on technical security jargon. If you don't like that kind of stuff, you may want to skip ahead a page or two.
 
@@ -2950,17 +3037,21 @@ PKI, like any centralized infrastructure, is vulnerable to intrusions, and simpl
 
 There are in fact ways to make that secure phone call. For example I spent much of 2013 building such security into ZeroMQ, so that it became much easier to build highly secure communications systems. However, as long as we connect over our domestic or office Internet connections, we're vulnerable to "metadata capture". Perhaps the Spider can't read what I'm typing, yet it sees who I'm sending it to, and it sees when that person replies. And the Spider of course collects metadata without even apologizing. As the NSA explains to an indifferent Congress and a lazy media, that is not even real data, and does not count as surveillance.
 
-The metadata on who we talk to, and when, and for how long, is of course enough to create a rich file. In the story of the Spider using its surveillance to blackmail politicians and competitors, metadata is more than powerful enough. General [David Petraeus](http://en.wikipedia.org/wiki/David_Petraeus) was a 4-star general with 37 years of experience, in charge of coalition forces in Iraq. In June 2011 he took over as director of the CIA, in a 94-to-0 unanimous vote. And a year and a half later, he quit, in a sex scandal uncovered by the FBI through an email trail. I'd say the FBI was just doing their job, except that investigations against powerful people for serious crimes seem never to happen. Infidelity... well, if that was reason for politicians to step down, there would be few leaders left. Whether Petraeus was pushed, jumped, or was just honestly embarrassed, the contents of those emails didn't matter as much as their very existence.
+The metadata on who we talk to, and when, and for how long, is of course enough to create a rich file. In the story of the Spider using its surveillance to blackmail politicians and competitors, metadata is more than powerful enough. General [David Petraeus](http://en.wikipedia.org/wiki/David_Petraeus) was a 4-star general with 37 years of experience, in charge of coalition forces in Iraq. In June 2011 he took over as director of the CIA, in a 94-to-0 unanimous vote. And a year and a half later, he quit, in a sex scandal uncovered by the FBI through an email trail.
+
+I'd say the FBI was just doing their job, except that investigations against powerful people for serious crimes seem never to happen. Infidelity... well, if that was reason for politicians to step down, there would be few leaders left. Whether Petraeus was pushed, jumped, or was just honestly embarrassed, the contents of those emails didn't matter as much as their very existence.
 
 ## Peeling the Onions
 
-The more paranoid and devious citizens of the digital world know, of course, that metadata is precious, and have worked for years to build anonymity networks, above all [one called Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)). Tor was originally a US Navy and DARPA project. The funding for the Tor Project still comes in large part from the US State Department, which sees it as a vital tool for foreign policy. Tor uses layers of encryption to hide the origin of packets sent to the Internet. It gives journalists, activists, and whistleblowers a way to publish without being tracked and punished. Privacy isn't a luxury when simply writing about a sensitive topic like religion can result in [corporal punishment and imprisonment](http://www.hrw.org/news/2013/07/30/saudi-arabia-600-lashes-7-years-activist).
+The more paranoid and devious citizens of the digital world know, of course, that metadata is precious, and have worked for years to build anonymity networks, above all [one called Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)). Tor was originally a US Navy and DARPA project. The funding for the Tor Project still comes in large part from the US State Department, which sees it as a vital tool for foreign policy.
 
-Tor creates a network of "onion sites", also called the "Deep Web", accessible only via a Tor browser. The name "onion comes from the way the security works, layer by layer. The Deep Web sites are invisible to normal Web users, you cannot open them in a browser. The most famous such site was [the Silk Road](https://en.wikipedia.org/wiki/Silk_Road_(marketplace)) marketplace, mainly used for selling drugs by some accounts, guns and worse by other accounts.
+Tor uses layers of encryption to hide the origin of packets sent to the Internet. It gives journalists, activists, and whistleblowers a way to publish without being tracked and punished. Privacy isn't a luxury when simply writing about a sensitive topic like religion can result in [corporal punishment and imprisonment](http://www.hrw.org/news/2013/07/30/saudi-arabia-600-lashes-7-years-activist).
 
-The Tor network also lets its users connect onwards to real web sites, through so-called "exit nodes". An exit node acts as a bridge between the Tor network on one side, and the open Internet on the other side. These exit nodes range from small hobbyist servers handling a handful of connections at once, to massive servers handling thousands.
+Tor creates a network of "onion sites", also called the "Deep Web", accessible only via a Tor browser. The name "onion comes from the way the security works, layer by layer. The Deep websites are invisible to normal Web users, you cannot open them in a browser. The most famous such site was [the Silk Road](https://en.wikipedia.org/wiki/Silk_Road_(marketplace)) marketplace, mainly used for selling drugs by some accounts, guns and worse by other accounts.
 
-Tor has a number of weaknesses. Technically, it can be secure, if you are an expert user, and you stick to Deep Web sites. You must run Tor from a separate virtual machine, and wipe that after each use. For instance, having a Silk Road alias on your computer would be incriminating evidence. Most users will however simply run it from their normal machine, and will access normal web sites. This makes it possible to track them.
+The Tor network also lets its users connect onwards to real websites, through so-called "exit nodes". An exit node acts as a bridge between the Tor network on one side, and the open Internet on the other side. These exit nodes range from small hobbyist servers handling a handful of connections at once, to massive servers handling thousands.
+
+Tor has a number of weaknesses. Technically, it can be secure, if you are an expert user, and you stick to Deep websites. You must run Tor from a separate virtual machine, and wipe that after each use. For instance, having a Silk Road alias on your computer would be incriminating evidence. Most users will however simply run it from their normal machine, and will access normal websites. This makes it possible to track them.
 
 The second technical weakness is the reliance on exit nodes for outgoing access. There are perhaps 1,000 exit nodes worldwide, a quite small number. Controlling a fraction of these would let the Spider get the real Internet addresses of tens of thousands of Tor users. The NSA can either hack into a Tor exit node and take it over, or they can (and one assumes, do) set-up their own Tor exit nodes. It costs relatively little. The bigger the budget, the more traffic one can tap.
 
@@ -2974,9 +3065,9 @@ And so the Deep Web is under attack from the security services. In August 2013, 
 
 From pedophiles to anyone using anonymous networks, the net only gets larger, never smaller. The leaking of an NSA address in such a carefully-orchestrated exercise does not seem accidental. It would be so trivial to hide. More likely, it's meant to send the message, "We are watching."
 
-People speculated at the time that this attack on Freedom Hosting was the prelude to an attack on Silk Road. It made sense, since Silk Road was a major attraction for newcomers to Tor. As long as it existed, people would trust and invest in Tor, and work around any tactics the authorities invent. Taking down Silk Road would hurt Tor's growth and future badly. In theory, a Deep Web site like Silk Road cannot be found and shut down by the authorities. However in October 2013, the FBI [arrested its operator, Ross Ulbricht, aka "Dread Pirate Roberts",](http://rt.com/usa/silk-road-bitcoin-shut-650/) and seized the Silk Road servers.
+People speculated at the time that this attack on Freedom Hosting was the prelude to an attack on Silk Road. It made sense, since Silk Road was a major attraction for newcomers to Tor. As long as it existed, people would trust and invest in Tor, and work around any tactics the authorities invent. Taking down Silk Road would hurt Tor's growth and future badly. In theory, a Deep website like Silk Road cannot be found and shut down by the authorities. However in October 2013, the FBI [arrested its operator, Ross Ulbricht, aka "Dread Pirate Roberts",](http://rt.com/usa/silk-road-bitcoin-shut-650/) and seized the Silk Road servers.
 
-The first death of Silk Road -- for I'm sure it will be resurrected -- and subsequent worldwide prosecution of dealers who used it puts a large question mark over Tor. The FBI's explanations of how they tracked Ulbricht through his clumsy online activity [smells of "parallel construction"](http://www.forbes.com/sites/kashmirhill/2013/10/08/did-the-nsa-help-with-the-silk-road-investigation), aka "intelligence laundering", and the NSA's handy set of Internet spy tools.
+The first death of Silk Road -- for I'm sure it will be resurrected -- and subsequent worldwide prosecution of dealers who used it puts a large question mark over Tor. The FBI's explanations of how they tracked Ulbricht through his clumsy on-line activity [smells of "parallel construction"](http://www.forbes.com/sites/kashmirhill/2013/10/08/did-the-nsa-help-with-the-silk-road-investigation), aka "intelligence laundering", and the NSA's handy set of Internet spy tools.
 
 More encryption is not the answer, though. It just makes things harder for ordinary users. In the end, any community that depends on centralized infrastructure, no matter how encrypted, is vulnerable. The problem is that those centralized servers are a single point of failure. Arrest one man, and you take down half the Deep Web. And, that we still have to connect to the Internet somehow. That means our IP addresses can be tracked, and our activity logged, by our broadband provider.
 
@@ -2988,9 +3079,9 @@ Let's recap the three main points of attack on the privacy of our communications
 
 * The broadband connections across which the clients talk to the servers. Broadband providers record metadata and provide it to the authorities as a matter of course.
 
-A full-spectrum attack, such as the FBI's takedown of Freedom Hosting in 2013, hits each of these three vulnerabilities. They arrested the server operator, and with his help, put code on the sites he hosted. This code attacked the users' web browsers, and exposed their IP addresses, and thus real identities, though the broadband providers. Finally they took down the server, killing all web sites that ran on it. So much for the Deep Web.
+A full-spectrum attack, such as the FBI's takedown of Freedom Hosting in 2013, hits each of these three vulnerabilities. They arrested the server operator, and with his help, put code on the sites he hosted. This code attacked the users' web browsers, and exposed their IP addresses, and thus real identities, though the broadband providers. Finally they took down the server, killing all websites that ran on it. So much for the Deep Web.
 
-If the Web is not safe, and the Deep Web is not safe, what is? There is only one long term answer, and that is a new web that lives "off the grid", treating central web sites and broadband connections with the full distrust they deserve. I'll propose a model for this, which I call the "Edge Web", in “Culture”.
+If the Web is not safe, and the Deep Web is not safe, what is? There is only one long term answer, and that is a new web that lives "off the grid", treating central websites and broadband connections with the full distrust they deserve. I'll propose a model for this, which I call the "Edge Web", in “Culture”.
 
 ## The Dangerous Young Men
 
@@ -3038,7 +3129,7 @@ Then all hell breaks loose, in a slow, shambolic kind of way:
 
 * March 2000: Frankel and Pepper release Gnutella, capable of Napster-style sharing of any files. Ironically, Gnutella is inadvertently released by Nullsoft, just acquired by AOL, which has just merged with Times-Warner, a large player in the recording industry.
 
-* May 2000: MP3.com settles with major labels for $200 million for its my.MP3.com service which let users store their CDs online. A year later Vivendi Universal buys MP3.com for $372 million, and then shuts down the service.
+* May 2000: MP3.com settles with major labels for $200 million for its my.MP3.com service which let users store their CDs on line. A year later Vivendi Universal buys MP3.com for $372 million, and then shuts down the service.
 
 * February 2001: verified Napster user count hits 26.4 million. The lawsuits against Napster also mount and users start to think about alternatives.
 
@@ -3056,7 +3147,7 @@ Then all hell breaks loose, in a slow, shambolic kind of way:
 
 * September 2005: the WinMX P2P network, big in Japan, is shut down under threat of legal action. WinMX refugees flood to BitTorrent networks, which have expanded to cover TV shows, movies, and computer software.
 
-* May 2006: The Pirate Bay's hardware servers are raided by Swedish police following allegations of copyright infringement. The Pirate Bay is back online in less than 72 hours, accompanied by a public and media backlash against the Swedish Government's actions.
+* May 2006: The Pirate Bay's hardware servers are raided by Swedish police following allegations of copyright infringement. The Pirate Bay is back on line in less than 72 hours, accompanied by a public and media backlash against the Swedish Government's actions.
 
 * August 2006: some Internet service providers (ISPs) report that BitTorrent file transfers accounts for 50% their traffic, and start to block that traffic. Users switch to new encrypted protocols. ISP block those too. Programmers look for other ways to disguise BitTorrent traffic.
 
@@ -3084,13 +3175,15 @@ It was never about stealing, it was about convenience and fairness. Digital cont
 
 After spending 15 years lobbying at the highest levels to have a majority of Internet users criminalized, the music, movie, and TV industry is starting to realize that the so-called pirates are really not the problem. The real problem is that in a world filled with free and interesting material, their commercial content, like newspapers, is becoming old-fashioned, and irrelevant.
 
-The realization is strongest in the television industry, particularly businesses like HBO, that sell highly-addictive series to subscribers. HBO's most popular show as I write this is Game of Thrones, a cracking swords-and-dragons political epic. It is also the most pirated TV show ever. [Speaking of this](http://www.businessinsider.com/time-warner-ceo-people-pirating-game-of-thrones-is-better-than-an-emmy-for-hbo-2013-8), the CEO of Time Warner (owner of HBO), said, "Our experience is, it all leads to more penetration, more paying subs, more health for HBO, less reliance on having to do paid advertising -- we don't do a whole lot of paid advertising on HBO, we let the programming and the views talk for us -- it seems to be working." So piracy is not hurting sales of TV shows, and instead emerges as the cheapest and most effective way to increase them. Of course we always knew this. However, it's nicer when the CEO of a TV company says it out loud.
+The realization is strongest in the television industry, particularly businesses like HBO, that sell highly-addictive series to subscribers. HBO's most popular show as I write this is Game of Thrones, a cracking swords-and-dragons political epic. It is also the most pirated TV show ever.
+
+[Speaking of this](http://www.businessinsider.com/time-warner-ceo-people-pirating-game-of-thrones-is-better-than-an-emmy-for-hbo-2013-8), the CEO of Time Warner (owner of HBO), said, "Our experience is, it all leads to more penetration, more paying subs, more health for HBO, less reliance on having to do paid advertising -- we don't do a whole lot of paid advertising on HBO, we let the programming and the views talk for us -- it seems to be working." So piracy is not hurting sales of TV shows, and instead emerges as the cheapest and most effective way to increase them. Of course we always knew this. However, it's nicer when the CEO of a TV company says it out loud.
 
 For the music industry, the same logic is starting to apply. I explained in “Wealth of Nations” how the smart record labels are using YouTube to promote their hits by encouraging remixes. Perhaps the music industry will design addictive music products as the TV industry is doing, and sell these to subscribers.
 
 For the movie industry, it seems clear that without the Internet to promote their new movies, YouTube for the trailers and reviews, and IMDB for the discussions, theaters would be getting empty. And without Pirate Bay to keep old movies available, the movie industry would slowly fade from our minds.
 
-However the realization that the upstarts and their aggressive deconstruction of the past are essential for the future takes a long time to percolate through the stone minds of the old men. Indeed, the timescales suggest that the old men never learn, they are instead slowly replaced by younger men who "get it" and find ways to turn the "dangerous" platforms and technologies into profitable and acceptable businesses.
+However the realization that the upstarts and their aggressive deconstruction of the past are essential for the future takes a long time to percolate through the stone minds of the old men. Indeed, the time scales suggest that the old men never learn, they are instead slowly replaced by younger men who "get it" and find ways to turn the "dangerous" platforms and technologies into profitable and acceptable businesses.
 
 The pattern of hostility between dangerous young men and old reactionaries has played out over and over. My apologies to my female readers. This caricature of revolution (technological or other) as a mainly male game is what we see. There are many women, dangerous or not, in technology, however it seems to be mostly the men who stick their heads up, and get them chopped off.
 
@@ -3130,7 +3223,7 @@ Over Thanksgiving weekend in 2011, the Senate [passed the National Defense Autho
 
 As [Amber Lyon reports](http://amberlyonlive.com/2012/12/09/why-i-say-fuck-the-ndaa/), "The NDAA gives the federal government the power to behave like dictators and arrest any American citizen, or anyone for that matter, without warrant and indefinitely detain them in offshore prisons without charge and keep them there until “the end of hostilities.”" Award winning investigative correspondent Amber Lyon [infamously revealed how CNN took money to decide what stories to report](http://www.theguardian.com/world/2012/sep/04/cnn-international-documentary-bahrain-arab-spring-repression).
 
-She continues about the NDAA, "Obama lied to the public and said he would veto the NDAA’s indefinite detention clauses. Instead, he surreptitiously signed the NDAA into law on Dec. 31, 2011 while most Americans were distracted celebrating New Years Eve."  The NDAA was clearly a discrete declaration of war... and aimed at who exactly?
+She continues about the NDAA, how Barack Obama "lied to the public and said he would veto the NDAA’s indefinite detention clauses. Instead, he surreptitiously signed the NDAA into law on Dec. 31, 2011 while most Americans were distracted celebrating New Years Eve."  The NDAA was clearly a discrete declaration of war... and aimed at who exactly?
 
 Let's go back to one of the first attempts by lawmakers to control the new digital world. The 1986 Computer Fraud and Abuse Act (CFAA, [18 USC § 1030](http://www.law.cornell.edu/uscode/text/18/1030)), makes it a federal crime to use a computer "without authorization or exceeding authorized access," and then steal or modify information. This sounds fair enough. The law looks reasonable, and reads like an honest, if somewhat outdated, attempt to stop people doing Bad Things on other peoples' computers.
 
@@ -3146,11 +3239,15 @@ It is a bad sign when prosecutors start pulling on unused old laws to chase down
 
 In April 2013, [Cory Doctorow wrote](http://boingboing.net/2013/04/08/today-we-save-the-internet-a.html), of the US Department of Justice (DoJ)'s persecution of the young activist Aaron Swartz, the archetype of a Dangerous Young Man:
 
-> When my friend Aaron Swartz committed suicide in January, he'd been the subject of a DoJ press-release stating that the Federal prosecutors who had indicted him were planning on imprisoning him for 25 years for violating the terms of service of a site that hosted academic journals. Aaron had downloaded millions of articles from that website, but that wasn't the problem. He was licensed to read all the articles they hosted. The problem was, the way he downloaded the articles violated the terms and conditions of the service. And bizarrely -- even though the website didn't want to press the matter -- the DoJ decided that this was an imprisonable felony, under the Computer Fraud and Abuse Act, which makes it a crime to "exceed your authorization" on any online service.
+> When my friend Aaron Swartz committed suicide in January, he'd been the subject of a DoJ press-release stating that the Federal prosecutors who had indicted him were planning on imprisoning him for 25 years for violating the terms of service of a site that hosted academic journals. Aaron had downloaded millions of articles from that website, but that wasn't the problem.
+
+> He was licensed to read all the articles they hosted. The problem was, the way he downloaded the articles violated the terms and conditions of the service. And bizarrely -- even though the website didn't want to press the matter -- the DoJ decided that this was an imprisonable felony, under the Computer Fraud and Abuse Act, which makes it a crime to "exceed your authorization" on any on-line service.
 
 The CFAA would make my daughter a criminal, if she was in the US, for lying about her age on her Facebook profile, and thus receiving information she is not entitled to. She is an unlikely target of prosecution though, I hope. The real focus of the CFAA are the "nihilists, anarchists, activists, Lulzsec, Anonymous, twenty-somethings who haven't talked to the opposite sex in five or six years", using the words of Michael Hayden, former director of the NSA and the CIA. Hayden ran the NSA when it switched from foreign military intelligence to domestic spying. Hayden is, dare I say it, a Spider man.
 
-Ironically, for a long time, the NSA was seen as one of the best places to work, if you were a smart technology-oriented nerd with particular talents. For years, the agency cultivated its image as the quiet force for good, the honest policemen of the Internet. It proposed "stronger" (hah!) security standards and pushed them through US and international standards organizations. Young men like Aaron Swartz were the best possible talent the agency could ask for, to keep the Internet safe for Honest Citizens. Glyn Moody [writes](http://www.techdirt.com/articles/20130805/02354124062/us-government-war-hackers-backfires-now-hackers-wont-work-us-government.shtml), "as the NSA is now finding out, those same hackers are increasingly angry with the legal assault on both them and their basic freedoms."
+Ironically, for a long time, the NSA was seen as one of the best places to work, if you were a smart technology-oriented nerd with particular talents. For years, the agency cultivated its image as the quiet force for good, the honest policemen of the Internet. It proposed "stronger" (hah!) security standards and pushed them through US and international standards organizations. Young men like Aaron Swartz were the best possible talent the agency could ask for, to keep the Internet safe for Honest Citizens.
+
+Glyn Moody [writes](http://www.techdirt.com/articles/20130805/02354124062/us-government-war-hackers-backfires-now-hackers-wont-work-us-government.shtml), "as the NSA is now finding out, those same hackers are increasingly angry with the legal assault on both them and their basic freedoms."
 
 In his ["nihilists and anarchists" speech](http://www.theguardian.com/technology/2013/aug/06/nsa-director-cyber-terrorism-snowden), Hayden made it clear that he considered the "twenty-somethings" to be the next terrorists:
 
@@ -3160,7 +3257,7 @@ In December 2010, PayPal, Visa, and Mastercard (among other firms) froze Wikilea
 
 Operation Payback was very significant. It was ostensibly a non-violent protest against the banks and payments processors who had tried to strangle Wikileaks. However, what it really signified was the escalation of the war between the Spider and Para-state, and the digital revolution.
 
-Anonymous, worthy of a book in themselves, had sharpened its teeth against Scientology, no easy target, and now it attacked the financial system, and by implication, the US Government. The arrest of young male protesters -- including a 16-year old Dutch boy -- and indictment for high crimes against the State is a classic old men vs. dangerous young men story line.
+Anonymous, worthy of a book in themselves, had sharpened its teeth against Scientology, no easy target, and now it attacked the financial system, and by implication, the US Government. The arrest of young male protesters -- including a 16-year old Dutch boy -- and indictment for high crimes against the State is a classic old men versus dangerous young men story line.
 
 We've seen that Bank of America conspired with private companies to, in their own words, "Commit cyber attacks against the infrastructure" of Wikileaks.org. This, we see, is perfectly acceptable. However, to conduct the equivalent of a non-violent street protest against PayPal's Internet headquarters is a federal crime leading to arrest and prosecution. There is not even the pretense of impartiality.
 
@@ -3168,7 +3265,7 @@ Knowing in 2010 that the Spider was watching every click, those young men would 
 
 ## The Golden Rule
 
-The criminalization of online activists may seem new.  However, the principle of "you are either our friend, or our enemy" is an old staple of every conflict, as any child of divorce knows. The one area where the Spider sees a particularly sharp difference between its friends and its enemies is the financial industry. Before 2008 we perhaps didn't see how profoundly the Para-state depended on its banking sector, how far it would go to protect the banks from their own greed, and [from the laws of the land](http://www.bloomberg.com/news/2013-07-02/hsbc-judge-approves-1-9b-drug-money-laundering-accord.html).
+The criminalization of on-line activists may seem new.  However, the principle of "you are either our friend, or our enemy" is an old staple of every conflict, as any child of divorce knows. The one area where the Spider sees a particularly sharp difference between its friends and its enemies is the financial industry. Before 2008 we perhaps didn't see how profoundly the Para-state depended on its banking sector, how far it would go to protect the banks from their own greed, and [from the laws of the land](http://www.bloomberg.com/news/2013-07-02/hsbc-judge-approves-1-9b-drug-money-laundering-accord.html).
 
 He who controls the gold makes the rules, and anyone who wonders what might happen to new virtual currencies like BitCoin would be wise to read history. The independent banking sector, cash economy, and virtual currencies are not friends to the Spider, thus are its enemies. If this was not clear before September 11th, it certainly became clear after that. However, we'll start our money story a few years before 9/11, in the last years of the twentieth century, as governments of the West started to crack down on cash transactions and banking secrecy.
 
@@ -3180,7 +3277,9 @@ Anti-money laundering (AML) regulations ended such liberties. Ostensibly, the pu
 
 Arguably though, a single currency and the single European market makes money laundering easier, not harder. Drug money of course didn't stop flowing in the 1990's, and it doesn't take a genius to see how to get around the AML controls.
 
-Say a street dealer sell drugs -- sugar-coated croissants, perhaps -- in Paris for €1 million in undeclared cash. He drives with this dirty cash in a bag to Vienna, then hops across the border to Bratislava, the capital of Slovakia, famous for its investor-friendly business climate. There he starts a new small high-cash business on paper, say a fashion shop or nightclub. He rings up lots of transactions and creates €1.00 million in new profit. He pays taxes on that, at the flat rate of 19%, after a deductible of €500,000 investment bonus (which cost him only €2,500 in a large envelope). He now has around €900,000 of clean money, which he wires to his holding company in France, as an "Indefinite business loan". His French company invests that money in real estate on the Riviera. He does this for a couple of years, then closes his Slovak operation, and starts again in the Czech Republic.
+Say a street dealer sell drugs -- sugar-coated croissants, perhaps -- in Paris for €1 million in undeclared cash. He drives with this dirty cash in a bag to Vienna, then hops across the border to Bratislava, the capital of Slovakia, famous for its investor-friendly business climate. There he starts a new small high-cash business on paper, say a fashion shop or nightclub. He rings up lots of transactions and creates €1.00 million in new profit. He pays taxes on that, at the flat rate of 19%, after a deductible of €500,000 investment bonus (which cost him only €2,500 in a large envelope).
+
+He now has around €900,000 of clean money, which he wires to his holding company in France, as an "Indefinite business loan". His French company invests that money in real estate on the Riviera. He does this for a couple of years, then closes his Slovak operation, and starts again in the Czech Republic.
 
 I'm not an expert in international finance, and this is a simple scheme. Slovakia, incidentally, ended its flat tax rate in 2013, and is most definitely not run by crooks. A more elaborate model would use management service fees, patent and trademark licenses, not-for-profit holdings with an educational mission, multiple entities in different jurisdictions and so on. With a little care one could make a net loss every year on gross profits of billions of laundered money. Note clearly that I am *not* suggesting you do this. It is a theoretical exercise.
 
@@ -3222,7 +3321,7 @@ Does the Spider ask operators of underground virtual currency exchanges to coope
 
 FinCEN has stated that anyone buying or selling BitCoins for profit ([even in tiny amounts](http://www.wired.co.uk/news/archive/2013-05/23/bitcoin-atm-money-laundering)) will need a license. This includes BitCoin miners, who are key to the BitCoin network, since they process transactions. In May 2013, the largest BitCoin exchange, Mt. Gox, a Japanese business, had its US accounts seized by the Department of Homeland Security, another of the Spider's many arms, for operating without a money transmitter's license.
 
-Getting the proper licenses in the US is complex. As [Faisal Khan writes](http://payment-systems.quora.com/The-Money-Transmitter-License-Dilemma), "By varying estimates it will cost an organisation almost US$ 75 Million in security deposits/bonds and about a 18-24 month process before you are granted a license for each state." As well as state licenses (covering the whole country), you may also need a federal license.
+Getting the proper licenses in the US is complex. As [Faisal Khan writes](http://payment-systems.quora.com/The-Money-Transmitter-License-Dilemma), "By varying estimates it will cost an organisation almost US$75 Million in security deposits/bonds and about a 18-24 month process before you are granted a license for each state." As well as state licenses (covering the whole country), you may also need a federal license.
 
 Despite the cost and the uncertainty, several BitCoin exchanges are starting to get licenses. BitInstant claims to [be licensed in 30 US states](http://bitcoinmagazine.com/bitinstant-we-have-money-transmitter-licenses-in-30-states). In Europe, [Bitcoin-Central](http://bitcoin-central.net) is licensed in France, allowing it to operate across the European Union.
 
@@ -3236,7 +3335,7 @@ The cost of a so-called 51-percent attack [is about $500M](https://www.resallex.
 
 What we will see instead is, I think, increasing persecution of BitCoin users, miners, and exchanges in the US, with the message that "BitCoin is favored by cybercriminals and money launderers." Perhaps some arrests to underscore the seriousness of the accusations. Then, tolerance of a few exchanges, allowing one or two to dominate the market and create a cartel. These will be the ones providing data live to the Spider, as the phone companies and large Web businesses do today. Finally, a series of attacks, from mild to shocking, on the currency when the critical number of black hat miners is reached.
 
-If the BitCoin network survives the different attacks that seem inevitable -- and I give it a 50-50 chance of surviving -- the crypto currency will get a natural monopoly for online commerce. At a certain point buying or selling BitCoin for dollars or Euros will not be so important: people will simply hold and spend BitCoin. If the network does not survive the attack, the currency will die, and other crypto-currencies will take its place. Either way, the Spider will lose this particular fight, and the Para-state will eventually (it may take decades) find itself facing a truly independent financial system.
+If the BitCoin network survives the different attacks that seem inevitable -- and I give it a 50-50 chance of surviving -- the crypto currency will get a natural monopoly for on-line commerce. At a certain point buying or selling BitCoin for dollars or Euros will not be so important: people will simply hold and spend BitCoin. If the network does not survive the attack, the currency will die, and other crypto-currencies will take its place. Either way, the Spider will lose this particular fight, and the Para-state will eventually (it may take decades) find itself facing a truly independent financial system.
 
 ### Licensed to Make a Killing
 
@@ -3254,13 +3353,17 @@ The data shows that Western Union, too large and too costly, has a monopoly over
 
 Usually it's the job of the government to stop firms getting monopoly positions or creating cartels. They do this by blocking the merger or acquisition of competitors by the market leader. However when a government does nothing, monopolies can form quite rapidly and smoothly. The market sees nothing except the suspension of cost gravity.
 
-One wonders why and how Western Union was given a blank check to gobble up its competitors and create a global monopoly. One might also wonder if the heavy handed crackdowns on informal -- and cheap -- money transfer systems is connected to WU's growth. According to [the American Bar Association](http://www.americanbar.org/content/dam/aba/publishing/antitrust_source/Dec09_Godek12_17f.authcheckdam.pdf), the 2000-08 Bush administration filed the lowest number of anti-trust cases per year of any administration since 1948 (their earliest figures). However, WU's rise to power seems more crispy, more tasty. It smells interesting, and not just because it's essentially all about money. Remember that part about copying your ID every time you send money? I think what WU is building is something akin to a Facebook for the Undocumented.
+One wonders why and how Western Union was given a blank check to gobble up its competitors and create a global monopoly. One might also wonder if the heavy handed crackdowns on informal -- and cheap -- money transfer systems is connected to WU's growth. According to [the American Bar Association](http://www.americanbar.org/content/dam/aba/publishing/antitrust_source/Dec09_Godek12_17f.authcheckdam.pdf), the 2000-08 Bush administration filed the lowest number of anti-trust cases per year of any administration since 1948 (their earliest figures).
+
+However, WU's rise to power seems more crispy, more tasty. It smells interesting, and not just because it's essentially all about money. Remember that part about copying your ID every time you send money? I think what WU is building is something akin to a Facebook for the Undocumented.
 
 The money transfer business is a global map of every brown or black-skinned diaspora migrant who has money and sends it home. A map of who they talk to, who they trust, overseas. A database of senders and receivers of lucre, heads of families, chiefs of villages, people of influence of many colors. This is, I suspect, what Western Union is compiling, because it's possible, and it's part of the Spider's "know everything about everyone" obsession.
 
 Is it accurate and prudent to suggest that Western Union is working hand-in-hairy-leg with the Spider? This is something I'd have to ask my lawyers. However, in his book "The One Percent Doctrine: Deep Inside America's Pursuit of Its Enemies Since 9/11", Ron Suskind writes about [a meeting between the FBI, CIA, and Western Union at CIA headquarters](http://cryptome.info/western-union.htm):
 
-> [FBI official] Lormel talked about what a good friend Western Union has been since 9/11. Nervous Phil [a CIA pseudonym] talked a bit about what might be done going forward. Western Union had twelve thousand offices across the globe, thirteen hundred in Pakistan alone. There was no country more important in battling the terrorists. Everyone nodded, a show of consensus, until one of the Western Union executives had something to say. He looked at Tenet. "Here's my concern," he said. "If it seems that Western Union is a global front for the CIA, we'll go out of business." Tenet leaned forward in his chair and dropped his ace. "I know we're asking a lot," he said. "But this country is in a fight for its survival. What I'm asking is that you and your company be patriots." After that, it was all about logistics.
+> [FBI official] Lormel talked about what a good friend Western Union has been since 9/11. Nervous Phil [a CIA pseudonym] talked a bit about what might be done going forward. Western Union had twelve thousand offices across the globe, thirteen hundred in Pakistan alone. There was no country more important in battling the terrorists.
+
+> Everyone nodded, a show of consensus, until one of the Western Union executives had something to say. He looked at Tenet. "Here's my concern," he said. "If it seems that Western Union is a global front for the CIA, we'll go out of business." Tenet leaned forward in his chair and dropped his ace. "I know we're asking a lot," he said. "But this country is in a fight for its survival. What I'm asking is that you and your company be patriots." After that, it was all about logistics.
 
 ## The War on the Middle
 
@@ -3318,4 +3421,606 @@ In this chapter I tried to draw an overall picture of the massive shifts in powe
 
 > Conflict defines us. It destroys us, or makes us stronger. It's out of conflict that new political structures emerge, for politics is essentially about organizing disparate groups and factions to win power through some kind of conflict, and then keeping these groups in balance to prevent further conflict.
 
+There is no question that we are entering an era of open conflict between the Haves -- the Para-state -- and the rest of the planet. It is no new conflict. Extraction economies have always chewed at the fabric of society, because stability and social structure are so bad for profits. What is new is that the battlefield covers the world, and especially the homeland, to use the Para-state's own terminology.
+
+One of the techniques that I didn't discuss in “New Digital Cities” was negativity. We learned, in the FFII, that nothing drives people as powerfully as a real enemy. We used to say, "positive campaigns don't work." It's a lesson I don't teach. People who don't have real enemies will invent them, to try to motivate people. That leads to self-deceit, and failure.
+
+However, real enemies do exist. And something unusual, perhaps unique in human history, is happening. Global society, that digital middle class I spoke of in the Preface, is confronted by a global enemy, a bad guy who seems determined to destroy it and tear it down. I speak of course of the Spider.
+
+Like a fistful of wet sand, the Culture only feels solid when you try to seize it. Then it's gone again, utterly fluid. It's the anarchist nature of digital space. The distances are too vast for any conventional command-and-control system to operate. In the time it takes to organize one phone meeting, your group could have spun off their new startup and begun raising money on Kickstarter.
+
+I believe we'll see Culture define itself politically in terms of the present and future conflict. And then, when the conflict is over, some time from now, disassociate its political structures like grains of sand falling back into the surf. This is the story I'll try to tell in this chapter.
+
+## Once Upon a Time
+
+The first electronic message was sent on May 1, 1844, from Annapolis Junction to Washington, about 24 miles, by Alfred Vail. Western Union was formed in 1855 by merger of two smaller firms, who decided to work together to gain a monopoly over the communications market. By 1900, Western Union operated 1 million miles of telegraph and by 1945 had an effective monopoly in the US market. By 1980 its telegraph business was dying and the old Western Union business was [closed in 2006](http://en.wikipedia.org/wiki/Western_Union#The_end_of_telegrams), after 151 years of operation.
+
+It is quite visible how cost gravity drove communications down from an experiment for the wealthy to a mass market product so cheap even Western Union couldn't make profits from it.
+
+Curiously, Western Union's monopoly seems to have had only a small impact. If cost gravity was operating fully, at 29% a year, and telegraph costs were in free-fall, there would have been 37M miles of telegraph by 1900. Instead, assuming Western Union had half the market, there was 2M miles. However, that is only a factor of 16 over 55 years, which is not much. A part of that can be accounted for by quality improvements.
+
+I'm also not sure what to do with the random figure of [113 million kilometers](http://www.integer-research.com/2011/wire-cable/news/fiber-optic-cable-growth-continues-2012/) of fiber optic cable produced in 2010. A cable is a bundle of fibers, and the traffic rates are rather higher than Western Union's old stock. Has cost gravity been working? I suspect it has but can't be assed to do the math.
+
+
+
+
+
+It is also clear how successfully Western Union's monopoly position kept cost gravity in check. A million miles built after 56 years seems modest. The global fiber optic cable production for 2010 alone
+
+
+By my calculations, if we assume Western Union had 50% of the US market by 1900, then cost gravity was about 22.4% rather than the expected 29%.
+
+You can do the maths: take 24 miles and multiply by 1.224, 55 times, which gives about 2,000,000.
+
+
+
+1 638 299 122 425 580
+
+
+
+
+1.22425465
+
+
+42% per 24 months (rather than 100%).
+
+29%
+
+an increase every 24 months of 38%
+
+273,341
+
+
+
+
+1900 - 1844 = 56 years
+= 28 clocks
+
+
+1855 Western Union born by merger. 1900, 1 million miles of telegraph, 1945 effective monopoly.
+
+February 2006, ended telegraph.
+
+
+Six years later, members of Congress witnessed the sending and receiving of messages over part of the telegraph line. Before the line had reached Baltimore, the Whig party held its national convention there, and on May 1, 1844, nominated Henry Clay. This news was hand-carried to Annapolis Junction (between Washington and Baltimore) where Morse's partner, Alfred Vail, wired it to the Capitol. This was the first news dispatched by electric telegraph.
+
+
+
+The narrative is one of Democracy, Freedom, West versus the East, Civilization versus Chaos. It is a narrative of healthy consumption and natural greed, where wars are fought only against faceless non-white foreigners. It is a narrative where elections and politics make us prosperous, and where economics is the official state religion.
+
+The narrative embraces "just wars", such as those against Argentina, Iraq and Afghanistan. It tolerates the massive sale of weapons to murderous regimes to fight "extremism". It denies climate change as "fake science", and it refutes ecological disaster as "fear mongering". It praises technology, especially when that means an excuse to spend.
+
+It promotes extraction economies no matter where they want to dig, and praises mineral wealth as a holy thing. In the last decade, the narrative focused on homeland security and terrorism. It gave us fear, uncertainty, and doubt, instead of the hope of a new millennium.
+
+Of course the narrative is a vast lie, a cover for decades of theft and corruption. What is astonishing is how well the narrative worked, for so long. Looking back, it's no surprise though. Since the first days of telecommunications, the rich and powerful have controlled both the media as organizations, and as technology carriers. The original robber barons of the US operated telegraph systems, and newspapers as much as they did gold mining and railways.
+
+When there was one telegraph line connecting the US east to west, it was trivial and cheap to control the news. The number of lines has simply kept doubling every two years since the telegraph was invented in todo, and the cost of maintaining control over the narrative has likewise doubled every two years. It's only thanks to extreme centralization of our modern Web that the Spider can afford to spy on us at all, and it's been impossible to actually control the narrative since perhaps 2003-5.
+
+The traditional way of controlling the narrative is to insert psychological operations personnel into media outlets. That sounds outlandish, but in May 2000, Dave McGowan [reported how](http://www.davesweb.cnchost.com/cnn.htm) Major Thomas Collins, of the U.S. Army Information Service acknowledged: "Psyops personnel, soldiers and officers, have been working in CNN's headquarters in Atlanta through our programme 'Training With Industry'. They worked as regular employees of CNN. Conceivably, they would have worked on stories during the Kosovo war. They helped in the production of news."
+
+"Production of news" means at the least choosing what stories to report on, and at worst it means creating stories specifically to push the narrative.
+
+Even respected and influential newspapers like The Economist are deeply tied to the Para-state and its agents. It doesn't take a large presence, just a well-focused one. For instance, The Economist's core [Intelligence Unit](http://en.wikipedia.org/wiki/Economist_Intelligence_Unit) used to be the [Business International Corporation](http://en.wikipedia.org/wiki/Business_International_Corporation), a CIA front company. BIC coincidentally employed a young Barack Obama, who later became President.
+
+To claim that The Economist would repeat a narrative dreamed-up by military intelligence or the CIA was utterly fantastic only a decade or so ago. Yet today it's banal. I doubt many people would defend the mass media against accusations that it reports selectively, stays away from anything that might damage the official narrative, and indeed actively helps write that narrative.
+
+Once you stop believing in the narrative today, you start to ask, "how long has this been going on?" And that is when you enter a kind of state of shock and you look at history, and you start to doubt it.
+
+At the very least, the long feud between East and West looks bogus. The Communist and Soviet threat was so convenient as a weapon against trade unionists, and against pacifists. Was McCarthy really a nutcase who managed to terrorize an entire nation, or was he part of the narrative, creating a "you are with us, or against us" split that made it impossible to criticize US foreign policy in Korea?
+
+How many people died in pointless wars fought against and for ideologies that no-one actually believed in? More to the point, how much did the wars in Asia and Africa generate in profits for the military-industrial complex? And how much did they bolster the claims of those in power that they were all that stood between safety, and occupation by the Red Terror?
+
+Honestly, when I think about it, I kick myself for having ever swallowed this rubbish. Yet at the time, we simply didn't know. We didn't have Wikipedia and cheap websites, and there was barely any independent media that could operate globally. The state of the art until as late as 2005 was email lists and discussion groups. When I helped found Wikidot.com in 2006, we were one of the first large-scale wikifarms, a place to create your own site for free.
+
+Once you stop believing in today's narrative, and the narrative of history, you also start to wonder about the last dozen years, and the state of shock happens all over again. Mass deaths seem to be a perfectly acceptable cost of doing business. And yes, I'm speaking about the events of September 11, and the growing opinion that the official narrative was incomplete at best, false at worst. And not just that day, also 11 March 2004 when Madrid was attacked, and 7 July 2005 in London when the Tube was bombed, .
+
+The narrative is breaking up because the old media no longer commands a monopoly. Today's whistleblowers don't even think about sending brown envelopes "to all the major newspapers," because they know those papers would first consult with the security services, and if they printed anything, it would be delayed, censored, and washed down.
+
+Today's whistleblowers go to the independent media, people like Poitras and Guardian todo, and Wikileaks.
+
+
+
+- how the fight will go
+    - south african model
+    - state gets worse
+    - civil society solidifies
+    - eventually wins
+
+- who is the culture
+    - on-line communities
+    - artists & celebrities
+    - independent media
+    - security activists
+    - environmental groups
+    - indigenous rights groups -> extraction
+    - copyright reformers
+    - patent reformers
+    - open science advocates
+    - Pirate Party
+    - minorities
+    - Electronic Frontier Foundation
+    - foss community
+    - artistic community
+    - technology companies
+
+- what is the awakening?
+    Losing my Religion
+    losing emotional divisions
+    coherence of spirit across society
+    as in past ages with socialism
+    but for a new form of humanism
+
+- Mallory's Face
+    new bad guy
+    understanding police's role in society
+    understanding Spider's willingness to kill
+    looking for conspiracies instead of mocking them
+    identifying the illusions
+    - voting
+    - power
+    - wealth
+
+- technical strategies
+
+- strategy for peaceful resistance
+
+
+
+
+
+
+
+## Don't Shoot the Messenger
+
+Celebrities have often tried to become political figures. There's an obvious attraction in speaking directly to the Youth about issues they care about. Some celebrities have gone onto political careers, though usually as a result of their astute networking skills rather than their mass appeal.
+
+
+
+
+
+
+
+
+Over the last decades, the global elite, the Para-state, has defined the historical narrative, and have carefully ensured that the media embrace it, and report it. Arguably their greatest shock, the one that drives them to unusual emotions, is losing control of the narrative.
+
+I'll explain this, the narrative and the losing of it, and explore what I think the future holds for us. When I say "us", I am speaking in the name of the Culture, the 99%, the unwashed middle classes of the future, the cynics and the skeptics, the people of this world. And also for the one percent, for there's no future without all of us.
+
+
+Russel Brand looks like Hollywood's vision of Christ, and talks with the confidence of a far-too clever man with an answer for everything. There's no middle ground. Watch his interviews [with television reporters](http://www.youtube.com/watch?v=3YR4CseY9pk) and you will either love him, or hate him. What he represents is unclear to those on the other side of the microphone. He has no credentials, and no authority. He is a stand-up comedian, ex drug addict celebrity who likes to talk.
+
+And yet you get the distinct impression that he scares people. It's not his personal charisma so much as the
+
+
+He represents the sharp end of the spear, a politician of the digital era. Whether he is sincere, or simply a very good reader of popular thought, it doesn't matter. He says what others feel, in clear and defensible words, and he is not afraid to attack conventional thought head on.
+
+On BBC's Newsnight, Russell Brand
+
+
+
+Takes On Jeremy Paxman (Plus Beard) On  (VIDEO)
+
+, Brand pointed out in an interview with todo that while Occupy Wall Street was short-lived, they gave us the concept of the 1%. Occupy Wall Street was the epitome of non-violent resistance. By accepting brutality, without violence in response, you can show the truth.
+
+For many people, the illusion started to break when the New York Police Department started their violent arrests of peaceful OWS protesters. Until that point, it seemed that we had escaped eight years of near nightmare under the previous US regime.
+
+When President Barack Obama bailed out the banks, it was plausible. No-one wants a global financial crash. When he didn't shut down Guantanamo, we learned that it was really the fault of Congress. However, when he stood in silence as police forces around the country shifted from law enforcement to the violent suppression of peaceful political protest, the illusion cracked deeply.
+
+And once the illusion starts to crack, it cannot hold together. It is like discovering that someone you trusted has been lying to you. Suddenly, you wonder what else they lied about. Or, when you see how a conjurer did his trick, and feeling the magic disappear.
+
+
+
+independent media
+impossible to infiltrate
+self-skeptical
+
+
+
+
+
+
+
+
+
+
+
+In the last chapters I've tried to sketch the coalitions of interests that form the Empire: the Para-state and their Spider, the banks and clouds of financial industries, the mercenaries and drug lords. In this chapter I'll provide a more optimistic view of what I believe the future will hold, and how that will come about.
+
+- story of culture
+- south africa
+- young, still forming
+- how political conflict creates power structures
+- culture still nebulous
+- cost gravity
+    - energy, transport, material consumption, health
+    - breaking each monopoly in turn
+- the Awakening
+- real conflict still to come
+    - old men fighting each other
+    - countries taking sides as national politicians seek relevance
+    - gulags, psychiatric, coups and counter coups
+- to be continued...
+
+
+Politics has switched, in the twenty-first century, from the old fight between left and right, dating from the French Revolution of 1789, to a new fight between the industrial "Empire" and something broad and intangible, almost invisible, which I labeled the "Culture". The Culture is global, and it respects no geography, religions, tribal affiliations. Its core values are alien to the Empire, and they present an existential threat.
+
+
+## Born Kicking
+
+No matter how much we dream of peace, our world is filled with conflict. It seems to be an intrinsic part of human society. Conflict, and our response to conflict, define us as a species. Yet for the most part, surprisingly, we keep this side of our nature in check. We build elaborate social constructions -- like the modern State -- to resolve conflicts, satisfy our vindictive natures, protect us from each other. We find ways to neutralize dangerous political elites. We separate the army from the church. We create constitutions and we enforce them by collective will. And we do this over centuries, as if that was the plan all along.
+
+How to resolve our obvious talent for conflict with our equally obvious talent for constructing peace, no matter what the cost or the time scale? In my view the two talents -- conflict and collaboration -- are not contradictory at all. In fact, the very world we live in emerges from our balancing act between these two tendencies. The modern state, modern international law, and super-states like the European Union are products of the conflicts of the twentieth century. If we never had wars, we would still live in village states.
+
+Will my children live in a post-industrial wasteland, where rich and poor live as two divided societies? Where food, water, privacy, and travel are rare luxuries, and where the digital infrastructure has become so pervasive and intrusive that every aspect of our lives is recorded, tracked, and modeled by the Para-state? Or will they live in a planet-wide meritocracy, where most of the old industrial economy has gone digital, where the old cities no longer exist except as leisure centers, and every human on earth except the mentally ill is on-line, all the time, everywhere?
+
+## One Planet
+
+In the world I grew up in, South Africans still lived under Apartheid, a system of laws introduced by the racist National Party in 1948 to prevent any loss of power by the ruling white elite. That was a society divided into rich and poor, and governed by military power used against civilians, by torture, murder, and secret arrests. Blacks were deprived of their vote and then their citizenship. There was no revolution, though there was a long, determined struggle for freedom and equality that became increasingly well organized, militant, and supported by the international community.
+
+In the end, white South Africans realized that life behind high walls was not worth it. It was bad for business, and dangerous. In 1994, after years of violence and terrorism that turned out to be largely sponsored by the security services themselves, negotiated multiracial elections swept the African National Party into office.
+
+South Africa is not an easy place to live: incomes are low and costs are high. It remains far from Europe and major markets. The African National Congress (ANC) turned out to be as corrupt as any government. The economy suffers from unemployment. Yet South African businesses, unleashed, have become giants across Africa and globally. In 2000,  [its GDP was $133B](http://en.wikipedia.org/wiki/Economy_of_South_Africa). In 2015 it is forecast to hit $511B.
+
+This is the roadmap for the future: things will get worse, and then after a long struggle, they get better again. It took 40 years for Apartheid and I doubt there is a quick fix for the Para-state and the Spider.
+
+Conventionally, the fall of the Apartheid regime came about because the fall of the Soviet Union in 1991 broke the main plank of Washington's support to Pretoria, namely the fight against communism in Africa. This may be accurate but I think there were two other factors responsible for making Apartheid unbearably costly to maintain.
+
+One was the fall in the cost of communications. Pretoria, isolated and distant, could maintain its regime as long as resistance was disorganized and local. However, it became so easy to report on events, carry images of oppression around the world, and by the late 1980's, use electronic bulletin boards and email to organize. It led to global hostility against the regime, trade embargoes, boycotts, and increased support for the ANC.
+
+The second factor was the cost of weaponry. The fall of the Soviet Union caused Africa to flood with cheap arms and ammunition. The security of the Apartheid regime depended on stability in its neighbors to the north. However, cheap weapons caused first Rhodesia, then Angola, and Mozambique to fall to liberation movements. South Africa maintained power over Namibia and from there, kept the civil war in Angola going for years. Yet this became more and more costly, and as in the US civil war, in a war based on slaughter, the slave owners cannot win.
+
+Despite the Apartheid regime's mercenary armies, the odds are on the cheaper man, as Kipling wrote in his poem *Arithmetic on the Frontier*. "Two thousand pounds of education drops to a ten-rupee jezail." The jezail being a simple home-made gun.
+
+## The Future
+
+To play futurist, you have to avoid hype and speculation about new stuff that we might invent. That is for science fiction writers. There's a rather more methodical way to predict the world of 10, 20, or 50 years from now. Instead of speculating that useful technologies get smaller, or smarter, just realize that they will get *cheaper*. In this section I'll take a number of valuable technologies that exist today, yet which are too costly for wide-spread use. As Cost Gravity pushes their cost down, they will spread out to wider use, and push social and economic change.
+
+### Technological Change in the twenty-first Century
+
+Solar energy panels fell in price to one dollar per square meter, and then further, so that the real cost was installation time, and land space. One obvious place to find more space was roads, so we eventually saw the highways turn into solar power collectors.
+
+Vast areas of land that were empty and unused -- such as in North Africa --  were slowly carpeted with solar panels, enough to supply Europe as it switched away from oil and gas. The same happened in the US, after some arguments. The old oil money held on for a while but eventually lost its power. Oil economies and politics faded, much as the old rubber empires died when we invented plastics.
+
+As solar power got cheaper and cheaper, we also saw battery technology fall in price. Our phones still couldn't run for more than a day on a charge, yet we could get enough batteries for an electric car for $100. Cheaper batteries meant cheaper electric cars, and the end of the mechanically complex and dirty combustion engines.
+
+Every single person got a car, at one stage. And we will still drove to work, though Google was right: our cars were self-driving and the motorways looked more like rail tracks than car parks. Traffic jams disappeared, on the so-called "e-highways". Some idealists predicted more car sharing, and fewer cars. They were wrong.
+
+BitCoin survived, thanks to unlikely support from various countries who wanted an end to the US dollar as reserve currency. While these countries were ironically first try to capture BitCoin by building their own mining networks, they saw such an impact on their own digital economies that they ended up defending the currency against other attackers.
+
+The Internet became free for use in every inhabited place on the planet, except some national parks designated as "Net free zones". However it wasn't an Internet that anyone from the early twenty-first centry would recognize. The old centralized web dried up, replaced by fully decentralized networks that lived everywhere and nowhere at once. As BitCoin made the centralized banking systems redundant, a new Edge Net made the old Internet a thing of the past.
+
+We did, finally, all get video phones and they were be so cheap that we handed them out as gifts and business cards. The disposable little cards, screen on one side, touch pad on the other, still had more computing power than they needed. Along with a trillion other little portable devices, they used that excess power to help create the Edge Net by chatting with each other in country-wide mesh networks.
+
+Drones, which used to be a toy for the military, became cheap, and illegal in some countries. However, the whole concept of banning a good did not survive molecular printers, more on which in a second.  The air was filled with little flying machines, talking to each other incessantly, avoiding collisions gracefully, and always connected to in the Edge Net mesh. The notion of weaponizing drones made about as much sense as weaponizing a car. Though it was technically possible, who would want to be so stupid?
+
+3D printers became kids' toys, until they could print metal, and then molecules, leading to the collapse of most of the remaining industrial society, and a massive boom in art and culture as people found themselves able to create literally, any material object given the dataset. It was possible for a child to print a working, legal car in pieces and assemble it in a few hours.
+
+Humanity sighed with relief and finally stopped driving to work. Molecular printers produced food, drinks, clothes, even themselves. Mankind went on holiday and the concept of work ended. The spread of a minimalist culture, a movement where you made what you needed, when you needed it, spread to every corner of the world. Currency became symbolic, a thing to collect and share.
+
+Business as a formal concept died away, and people organized themselves into new tribes according to whimsy and taste. We floated in a sea of information, feeding off the best pieces, and let go of our ancient fears and insecurities.
+
+Medicine also changed beyond recognition. Even before molecular printers, small labs around the world were starting to produce new medicines faster and more accurately than any industrial-age pharmaceutical company. Why conduct trials when you could simulate a drug's effects on a cheap software model of the human body?
+
+New medicines killed old enemies: malaria, typhoid, and slowly, cancers. By sniffing the blood, a smartphone could detect tiny tumors when they were only a tiny cluster of cells, and send off an order for a custom-designed drug to kill off the tumor. Genetic expression too could be monitored in real-time. Custom drugs became a huge business.
+
+Human cloning started with body parts: replacement skin, eyes, kidneys, lungs, bones, teeth. First the elite, and then later everyone was repaired and fixed up so that global life expectancy rose and rose, from the low sixties around the start of the twenty-first century, to over 100 by its end. Luckily, because birth rates had fallen so low that people spoke of a population crises.
+
+Global population did fall, slowly, to around a billion people, as families stayed with one or two children, and many people chose to remain without children. Full cloning eventually became easy but for most people, distasteful. As we understood more and more of how our genes worked, we became able to design custom genes, and print new lifeforms. There have been a few accidents but for the most part, people are careful, and they watch each other.
+
+### Political Change in the twenty-first Century
+
+- pirate party
+- surveillance - video, audio, electronic
+- information leaking
+- quantum encryption
+
+- molecular printing
+
+- development of new medicines
+- curing of malaria
+- real-time diagnosis of cancers
+- rapid detection of genetic activity
+- human cloning, partial and full
+- designer crops, urban gardens
+- video surfaces
+- business processes
+
+
+
+
+
+
+
+
+
+
+
+My prediction is that it will drive some major shifts in how we organize. Businesses and then individuals will move away from the "Cloud", that US-centric mass of services like Google, Amazon, and Microsoft, which can no longer be trusted to keep our secrets safe. Likewise, commercial broadband provides a too-easy target for the watchers, whereas ad-hoc P2P WiFi is much harder, if not impossible, to tap.
+
+Finally, we will move for political organization towards anonymous communities that give no hint as to their participants. This won't stop surveillance, though it will make it so much harder. The NSA would have to run its code on every device we own.
+
+The surveillance state will, ironically, bring about the end of the centralized Web, and cause its replacement by a new Web that exists nowhere, and everywhere, at the same time. This isn't science fiction. The BitCoin currency already works like this. Other new forms of distributed community will follow.
+
+Cloud firms, Google, Amazon, Hollywood, Time Warner, Republicans
+
+
+## Pissing in the Soup Pot
+
+
+
+
+
+When the news spread that the Para-state was recording, well, pretty much everything, just a few weeks after Google executives were denying the very same, it must have caused some stress in Silicon Valley. The leaks in the summer of 2013 didn't let up. The NSA had cracked the widely-used SSL security standard. It had done "man in the middle" attacks on Gmail itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## The new vigilantes
+
+
+
+
+
+## Seeds of the Future
+
+- Independent media
+- Decentralized organizations
+- Anonymous
+    - fighting scientology & censorship
+- Wikileaks
+    - fighting state secrecy
+- Occupy Wall Street
+    - fighting crony corruption
+- Essence of the Digital Power Structures
+
+
+
+Digital Privateers
+
+Death of the Sea
+
+The Awakening
+    - tune out
+
+When powerful men gather around a table to discuss their enemies, they always think of each other.
+
+October 2013 purges
+
+
+Nothing in media...
+
+
+
+Every police force eventually forms a symbiotic, and profitable, relationship with the criminals it is meant to catch.
+
+This presents a challenge for political dissidents. Gulags. Psychiatric wards.
+
+> *"I think it's easy to predict that in five years' time, the Internet will be pervasive, connecting everything and everyone, carrying with it a rich digital culture. At the same time we'll see a myriad of tiny computers, able to consume and produce this culture. I'm thinking of MP3 players, digital cameras, digital paper, and so on. One individual with the inclination will be able to produce more bits of data in a day than the entire Roman Empire produced on paper and stone in a year."* - the Author, writing in *Liberetto*, November 1999
+
+eldritch horror
+
+## Predictions
+
+solar power, genetic engineering, advanced medicine, privacy, high-bandwidth communications, higher education, political organization, insurance, banking, translation
+
+
+simple predictions
+- number of devices we own, over time
+- amount of data we own, over time
+- bandwidth to other people, over time
+    - measure to video streaming
+
+- synthetic food
+- mass cloning
+- replacement organs
+-
+
+purely technological
+    leisure & cost of living
+effect on society
+effect on business
+effect on politics
+effect on the environment
+religion
+
+The obvious - but useless - way to predict the future of a technological society is to extrapolate technological trends. So, by 2000 we'll all be driving atomic cars, said the futurists of 1950. Likewise, by 2040 we'll all be living in immersive virtual-reality worlds, said the futurists of 1990.
+
+Technological trends are part of the equation but social and economic trends are much more important. Technology follows the laws of supply and demand. If people don't want atomic cars, they won't happen.
+
+So my guide to the future is based not on technological trends (which are fairly easy: smaller, faster, cheaper, more) but rather socioeconomic trends. And these are, for the next forty years:
+
+- The drying up of cheap portable energy, as oil reserves run out and people become increasingly dependent on coal, wood, hydroelectric, and nuclear power.
+
+- The politicisation of the Internet, both from geopolitical influence, and internal movement
+
+- The marginalisation of the nation state, as more and more power moves to extra-national centres
+
+- The deconstruction of the industrial state apparatus, from education to administration
+
+- The deconstruction of the industrial firm and the birth of new digital giants
+
+- The deconstruction of the industrial city and the birth of new urban models
+
+In the long run, even if it takes decades, the better technologies do win, and the old, less effective ones are relegated to museums. Like the British withdrawal from India, the future is inevitable, and the present is already the past. It's just a matter of when, not if.
+
+However, the rulers of the past, even as they slip into irrelevance, seem determined to control how the future should look. If they can't control things, they can at least make life miserable for those who come next, seems to be the calculation. Or perhaps it's just grand incompetence. Either way, the political and business rulers of the industrial society seem to have a vision of digital society as simply a more efficient - a relative term that can mean very different things depending on where one stands - version of industrial society. Especially, most large established businesses seem desperate to avoid the traumatic process of destruction and reconstruction that the digital revolution threatens.
+
+
+- vast collective intelligences, hive minds
+- future is technology rich, material poor
+- methodology: take technologies that are valuable, expensive, elite - commoditise these, see social and economic impact
+- location, portable computing, tele-presence, medicines, robotics, smart materials, social technologies, genetic engineering,
+
+* The size of the digital society will continue to grow, and the cost of joining continue to fall, until every human who can speak is on-line, unless they are radically anti-social. We can expect to see the emergence of a true global society, despite the efforts of politicians to impose their old borders. Most likely the digital society will speak some version of English. It'll be even more complex and chaotic and unmappable than today.
+
+* We'll be tied to wireless networks everywhere we go, using tiny mobile relays that we wear as trinkets. Today, a mobile phone is both computer and relay, though this is inefficient. Just as our home networks all speak to a single relay that talks to the outside world, so will our personal networks: phone, camera, player, game, notebook; these will always be on-line so long as we pay our mobile bills.
+
+* We'll continue to see more services move on-line. The first dot-com boom promised to move retailing on-line; that largely failed in 1999 but it'll happen before 2010. I predict the return of doorstop delivery services, dropping off the week's shopping and collecting the empties.
+
+* Large-screen video conferencing will become a living-room item, cheap and widespread. The future is already here, it's just not widely distributed. In ten years my living room will have multiple large panels and projection surfaces where I can speak to anyone, anywhere on the planet, go anywhere, virtually.
+
+* We'll become better and better at integrating the digital world with the real world. Our portable computers will use 3D maps as their main user interface, showing where we are, where our friends are, giving us access to pages of knowledge about every interesting spot on earth. Every one of us will become a micro-surveyor, filming and documenting the world around us, and all that information will go into an archive accessible to all. In twenty years, my glasses will show a digital projection on the real world, including facial recognition of everyone I meet. No more forgetting of names.
+
+* All interaction with government and business will move on-line. No more queues at the post office or local offices. The cost of a fully-digital identity will be trivial surveillance by any agency; the reward will be the end of signatures, papers, and delays.
+
+* The movie as a classic top-down product will die as it becomes trivial to create any reality, real or imagined, by dropping sampled digital actors into sampled or constructed environments, and playing them as a musician records a multitrack melogy. Today's games come very close to this technology. It's the human face that's hardest of all to simulate, though ultimately the software just needs the right digital models of muscles and skin.
+
+* Virtual worlds will become a major 'front-end' to the digital world, just as that has become a front-end to the real world. In my virtual world, I'll read my email, pay my bills, surf to a news site, chat with my colleagues, place phone calls. I'll have virtual computers in my virtual world, and real-life objects like my iPod and notebook will appear in my virtual world as digital objects.
+
+* The backdrop of rising energy costs will favour new technologies and social models that save travel and the movement of physical goods. Ironically it'll be the poorer nations that adopt these most enthusiastically, and in twenty years' time the most active and skilled players in the digital society will be from Asia, Latin America, and Africa, and this will create a historic shift of power from the old north to the new south.
+
+* Fabricators, machines capable of cutting, weaving, casting, or printing physical objects from designs, will become commonplace. In twenty years, many household objects, including advanced electronics, will be produced locally or even domestically, based on digital designs developed and refined by thousands, millions of minds. There will be massive "piracy" wars over the right to reproduce analogue products and as digital society re-asserts its rights to free use of knowledge, we will see the end of the industrial patent system.
+
+* Cities will continue to adapt to human needs, reject the automobile, and gradually come back to human scale, providing pleasant confusion and diversity without the noise and danger of old industrial cities. Increasingly, we'll see our cities as places for recreation, not industry, not even commerce (which will mostly be virtualised). "Escaping" will become unnecessary in cities that offer a shifting mosiac of parks, beaches, markets, cafés, bars, gardens, and wildlife, sports, and games.
+
+* Pharmaceutics will go digital, and as we unlock the secrets of the human brain, a new era of recreational pharmaceutics will start. Drugs are big business, and I expect we'll see battles between the classic drug industries (legitimate and otherwise) and the digital pharmaceutical labs who design, simulate, test, and produce new and startling drugs on a massive scale. When regulation and safety are ignored, progress can be very rapid, and in a society of billions, there will be more than enough volunteers to test even the most bizarre and dangerous drugs.
+
+* Genetics is already a digital code and it's inevitable that this will become part of the digital mix eventually. We can already recreate simple life in the lab. It's foreesable that we can simulate life, the real thing, on computers, and start to mix DNA like DJs mix music and programmers mix software. Will DNA mixing be banned one day, or will we discover that this is just one more feedback loop of human technology modifying the human race, as we've been doing for the last million years?
+
+The common thread in all this speculation is our ability to mix, that is, to take existing material, information, code, designs, whatever, and combine these in new and unforeseen ways. We've always mixed, since we first discovered fire. Indeed, our very existence is based on the endless mixing of DNA in new and unforseen combinations. But in the digital society, the mix is more important and more powerful than ever, and it impacts the very structure of our society, as I'll explain next.
+
+
+
+
+
+
+
+More encryption is not the answer. It just makes things harder for ordinary users. In the end, any community that depends on centralized infrastructure, no matter how encrypted, is vulnerable. The problem is that those centralized servers are a single point of failure. Arrest one man, and you take down half the Deep Web. And, that we still have to connect to the Internet somehow. That means our IP addresses can be tracked, and our activity logged, by our broadband provider.
+
+Let's recap the three main points of attack on the privacy of our communications:
+
+* The centralized servers where we meet to share information. These can be hacked, or their owners ordered to hand over information. No matter what encryption you use between your PC and the server, data is held unprotected on servers.
+
+* The client PCs and devices where we run our browsers. These are often laden with spyware, or hacked individually when the case needs it, in a "targeted attack".
+
+* The broadband connections across which the clients talk to the servers. Broadband providers record metadata and provide it to the authorities as a matter of course.
+
+A full-spectrum attack, such as the FBI's takedown of Freedom Hosting in 2013, hits each of these three vulnerabilities. They arrested the server operator, and with his help, put code on the sites he hosted. This code attacked the users' web browsers, and exposed their IP addresses, and thus real identities, though the broadband providers. Finally they took down the server, killing all websites that ran on it. So much for the Deep Web.
+
+## Living on the Edge
+
+To build truly secure communities, we must address all three of these weak points. It's not sufficient to improve our encryption to create a more robust Deep Web. Rather, we need a radical rethink of how we build digital communities in the first place. We need a new kind of Web, which I'll call the "Edge Web", that is resistant to all threats except targeted attacks.
+
+Targeted attacks are costly, so the goal of the Edge Web is to make it unbearably expensive to spy on us, and extremely cheap to guard against this, in other words to reverse the current balance of power where it's extremely cheap to spy on us, and unbearable expensive to guard against it.
+
+The Edge Web exists without any centralized infrastructure and is essentially invisible to the Spider unless it makes a great effort. Since we cannot trust ISPs with our metadata, we cannot trust the [last mile of the Internet](https://en.wikipedia.org/wiki/Last_mile). So no 3G or 4G, no ADSL at home or the office, not even dial up modems, for anything that has to be secure. Similarly, since any centralized service is a single point of failure, we cannot trust a web based on centralized services. So no Facebook, Google+, Twitter. No Freedom Hosting, or Silk Road.
+
+Instead of centralized services that we access over commercial broadband, the Edge Web builds on two alternative technologies, which though not new, have been difficult to exploit until recently:
+
+* True P2P connections that cannot easily be monitored.
+* Distributed services that cannot easily be monitored or broken.
+
+The Edge Web is not an original idea. People have been trying to build decentralized "mesh networks" for a long time. In the past, building a mesh network was technically hard, since it depended on specialized WiFi hardware and firmware. Some did build these, on a small scale, and there is even [an official WiFi protocol for mesh](http://en.wikipedia.org/wiki/IEEE_802.11s) since in 2011. However, off-the-shelf WiFi equipment does not support mesh without modification, so the technology is out of reach for ordinary people.
+
+However the vision of large-scale mesh networks running on off-the-shelf hardware and software is becoming more realistic, thanks to the same technology that brought the Internet to Africa, namely smartphones. Smartphones have rewritten the old rules about what is possible on the edge of the Internet. They potentially take the Internet back to its roots, before the web. This sounds retrograde, yet to build the Edge Web we have to undo the whole concept of a heavily-centralized Web and reconstruct our communications around a very different animal.
+
+We need a "fabric", that is, a decentralized network of computers that can talk to each other without that vulnerable dependence on broadband connections. I'm going to explain how to create a fabric that can stretch at least across cities, and possibly across the globe. Then, we need applications that can use that fabric to create new social networks.  One step at a time; this is a delicate story. Let's start with the fabric.
+
+## The Invisible Fabric
+
+Once upon a time, the Internet was a worldwide network of servers, mostly in universities, and all more or less equal. If you wanted to run an application like email, or gopher, or FTP, you would log onto a server and work there, in a "terminal window". There were some powerful workstations -- like the SPARCstation from Sun -- that could speak the language of the Internet (the Transmission Control Protocol, or TCP/IP), though these were effectively servers too, and ran like them.
+
+Then Windows 95, the first decent version of Windows, helped launch the "some are more equal than others" web that dominates today. The combination of a workable TCP stack (originally, Trumpet Winsock, and belatedly, Microsoft's own stack), an affordable home computer, and the graphical web browser formed the basis for cheap and scalable connectivity.
+
+Many people tried to use their PCs as "home servers". One of my popular *fin du siecle* free software programs, Xitami, turned a Windows PC into a fast little web server. Nonetheless, most of us learned to use our PCs as thin clients, especially by 2005 or so, when web applications became powerful enough to replace desktop applications. Today, PCs are rarely used for anything intensive except high-end gaming.
+
+There were some very successful mesh-like applications up until 2005 or so, including Skype (before Microsoft changed Skype to use centralized servers). However even pre-Microsoft Skype and infamous P2P file sharing protocols like BitTorrent all worked through the broadband connection, allowing the ISPs to see all the traffic, filter it, log it, and so on.
+
+The Internet was based on a promise of a smart edge (computers) connected over a dumb fabric (TCP/IP), and then the Web turned that inside out, giving us a dumb edge (thin clients) talking to a smart center (websites). The web model is cheap, scalable, and profitable. However, as we see, it is so very vulnerably to malfeasance. I'm not just speaking of the Spider and its voyeuristic hate of our privacy. Among the crooks, I also count the cartels of broadband providers, the movie and record associations with their lawsuits against people sharing music and movies, and governments legislating what we can say, and do, with whom.
+
+Cost gravity comes to the rescue. Smartphones can do many things, such as break when you drop them, and run up extraordinary roaming data bills. They do three things that interest me specifically:
+
+* They are mobile, so where there are people, there are smartphones, charged and working.
+* They are powerful, so where there are people, there are powerful computers.
+* They almost all have WiFi capabilities. So where there are people, there are powerful computers, capable of talking to each other.
+
+And of course, for many of us, the smartphone is also our main user interface, for photos, tweets, Facebook messages, email. That means the smartphone in our pocket can act much like those Sun SPARCstations from the 1990's: server and client at the same time. Actually even a cheap smartphone is around 25 times more powerful than those so-called "pizza boxes". Finally, there are enough people carrying smartphones to create viable city-wide meshes. All this is recent, and it's what makes the Edge Web possible today whereas it was impractical even as late as 2010.
+
+Now I'll explain the details, trying not to get too technical. If you survived the "Insecurity" section, this will be childs' play. Most of us know that our phones can connect to the WiFi hotspots around us. It's how we play YouTube videos at home without exhausting our mobile Internet quotas. What few people realize is that two phones can often see each other, and chat, over these hotspots. In other words, without using any broadband, and without any traffic going out over the public Internet.
+
+This is called a "client-to-client" connection. Client-to-client connections work on most WiFi access points (that is, the little box with antennas that creates the hotspot) that you buy, and most that you'll find in cities. There are exceptions. For example the AT&T hotspots in Starbucks across the US do not allow client-to-client connections.
+
+If you think this through, you may see the possibilities. When you are at home, or in the office, or in a café with a friendly WiFi hotspot, you can connect a bunch of phones, tablets, and laptops together in interesting ways. This is not a hypothesis. There are applications that stream video from a phone or tablet to a WiFi-enabled TV, or a TV with some dongle, like Google's Chromecast, attached. In 2011-2012, my firm designed such technology for a large electronics firm, and it's in use on their smartphones today. I also wrote an open source library [called Zyre](http://zyre.com) that does this -- if you run it on a phone, it will look for any other phone also running Zyre, connect to it, and then let applications exchange data.
+
+When you are out and about in the street, things become more fun. It's harder to find friendly WiFi hotspots. And even if you do, you have to stay within 10-30 yards of the hotspot for things to work. The "inverse power law" means that if two antennae (like the WiFi access point and your phone) move twice as far apart, they need to use four times as much energy to talk to each other.
+
+All modern smartphones -- since 2010 or so -- can create their own WiFi hotspots at will, unless the ability has been disabled by the phone company. AT&T, for example. So if you have a smartphone in your pocket that is running Zyre, and you're walking in the street, it would be possible to switch on your WiFi hotspot, and search for other friendly WiFi hotspots, and make opportunistic connections to any other Zyre smartphone. (Don't bother looking for Zyre on the marketplace, it's raw material for programmers to make mobile applications.)
+
+If you imagine a group of friends hiking in the mountains, their smartphones could connect to create a small "cell", to use the terminology of mobile phone networks. However, when the same people are in the city, in a bar, or in a demonstration, at a concert, or even at home, they will be in range of several cells.
+
+The cells aren't fixed like mobile phone cells. Instead they switch on and off and move about randomly, since each cell is centered on one smartphone acting for a while as a WiFi hotspot. Now, a smartphone can be in one cell at a time, and as it moves from cell to cell, it can carry information with it. This creates an "asynchronous mesh", in other words, it's possible for data to move across an entire city, slower than we're used to with broadband, yet still fast enough to be useful.
+
+Let me give an example. A woman takes photos of the police arresting a protester. As she takes these photos, they are pushed out to other smartphones in that cell. Those smartphones move away from the scene, and the photos flow over several more hops, and eventually have reached several thousand smartppolice's role is tohones across the whole downtown area. It is impossible to know the origin of the photos, impossible to censor them except by physically seizing all phones in the area. That's hard, as they don't have to be visible in order to join a cell.
+
+As people move around the city, the fabric stretches wider and wider. In order to cover the globe, however, I'd exploit those fast-but-stupid broadband connections we all have at home, and create temporary virtual pipes between random pairs, each end of the pipe in a different city. So my PC would connect to a peer in Toronto, then in San Diego, then in Kuala Lumpur, and so on. Modern PCs, fat up from too much gaming, can handle hundreds of such pipes at once. We'd secure and encrypt the pipes using throw-away asymmetric keys. Everything sent on the pipe would be stripped of metadata.
+
+That gives us a global fabric, which I'll dub the "Cellnet". The Cellnet is slow, asynchronous, opportunistic, and works at a human scale, closely tied to our physical movements and proximity to other people. It is a different animal from the Internet we use today, where distance is abstracted to nothing and you never really know who you are talking to. I like the idea of de-abstracting technology.
+
+All of this is possible today, in software, and could take advantage of improvements in hardware and firmware, such as real mesh networking and better batteries. We could build cheap dedicated devices that run the Cellnet: a pocket-sized box that is all battery, with powerful radios, and a couple of blinking lights just because. No screen, no fancy UI software, just a pocket-sized Cellnet node. It could double as a battery recharger for smartphones, which gives plausible deniability to anyone arrested with one, when they are banned. *Kickstarter, anyone?*
+
+The Cellnet would be extremely hard to spy on or disrupt. It is possible to capture WiFi traffic by being physically very close. However it's also quite easy to secure traffic between two peers to the extent that it *cannot* be read or modified or faked. The only way to get information is then to seize the phone itself. While physical seizures (including the old "beat them until they talk" technique) are always an option, they do not scale to billions of people. The Spider can still tap into traffic that goes across the Internet, by acting as Cellnet nodes. However it can get very little useful from it, and crucially, cannot tie activity back to individual actors.
+
+The Cellnet isn't fully resistant. One can attack WiFi hotspots by sending out jamming signals. However this will disrupt more than just smartphones, and it means having equipment in the right place at the right time. That is difficult and costly, and security is always about raising the costs to attackers.
+
+Which leaves us with the second part of the Edge Web, namely applications that can work across the Cellnet. I'm going to describe two types of application, two patterns for communication. First, anonymous broadcasting, where one person sends material to anyone who's listening, without revealing their identity. Second, secure messaging, where one person can send a secret message to another person, without an attacker reading the message, modifying it, or sending a fraudulent message.
+
+## Anonymous Communities
+
+There is one interesting response to the loss of privacy. Instead of fighting it, that is to embrace it and turn it into an asset. OK, there are people with the power to track us as individuals and map out our lives, so they can manipulate us, or control us. However if we can become truly anonymous, that power has no effect on us.
+
+Most on-line communities depend on identities, in the form of user profiles. It's especially valid for social networks, which boast our photos, biographies, and other tidbits meant to make us look attractive. Flattery to our egos is the sugar kick that keeps us coming back. Perhaps I'm projecting here, yet I certainly use social networks more to see who's retweeted or upvoted my latest amazing comment, than to learn interesting new things. Shame on me.
+
+Strong identities can be healthy for a community. People will say fewer stupid things if it harms their reputation. However "stupid" is quite relative, and strong identities make the speaker more important than the message. This amplifies some voices while suppressing others. This can make communities less smart than they would be without any identity at all. One alternative is the anonymous community, epitomized by 4chan. This collection of "image boards" is famous for the amount of garbage posted. and it is also the birthplace of Anonymous, one of the most effective on-line communities to ever exist.
+
+I'll come back to Anonymous itself later because it represents an important part of our story. However, more generally, I think that anonymous communities are becoming a template for political organization. Digital politics look nothing at all like industrial-age politics. There are no parties, no politicians, no budgets, and no States. Instead, there are armies of self-organized, anonymous, paranoid, and highly competent people organized around insane missions. They are willing and capable of challenging any authority, and they respond to any threat with full-on, unfettered action. It might look like a bunch of out-of-control teenagers, yet it's something much, much stranger.
+
+If you have not read Ian M. Banks' work, you might want to. He died in 2013, too young, from cancer. His [Culture series](http://en.wikipedia.org/wiki/Culture_series), which inspired the title of this book, describes some strange worlds. However his most bizarre creations are his machine intelligences, [the Minds](https://en.wikipedia.org/wiki/Mind_(The_Culture)).
+
+The Minds roam the universe doing playful, arbitrary things, until there is a threat to their precious Culture. Then they swing around, and with unflinching psychopathic brutality, no matter how long it takes or how much it costs, they take care of business. Then they get back, metaphorically speaking, to exchanging photos of cats. This is how I see anonymous communities today, and in the future: they are our Minds.
+
+Anonymous broadcasting is very well suited to the Cellnet, it is almost the natural pattern. In fact, it's a pattern that was widely used before the Web, and is even still used in corners of the Internet. I'm talking about the global discussion system called [Usenet](https://en.wikipedia.org/wiki/Usenet). Usenet looks like a combination of email and forums. You subscribe to some topics, and then receive posts on those topic, asynchronously, as your local server chats with other servers. Usenet is where FAQs and spam originated.
+
+Anonymous broadcasting -- using the Usenet protocols or something very much like them -- also solves the problem of how to avoid flooding the Cellnet.
+
+## Social Networks
+
+There are ways to communicate that are considered secure. People do still trust Tor, off-the-record (OTR) chatting, and cryptographic layers like [GnuPG](http://www.gnupg.org/). However, as I've explained, these are still vulnerable in various ways. Even if you do wrap your messages in unbreakable end-to-end security, so no server in the middle can ever see the unencrypted data, you are still providing that metadata, which can be sufficient to build a case against you. Simply talking to a person of interest, no matter what you say, can make you a person of interest in turn. Moreover, it's likely that the very use of Tor or other detectable strong encryption from a given network address raises a red flag.
+
+Privacy, the reason for secure messaging, is not a whimsical notion. It is the basis for any relationship that does not explicitly belong in the public domain. It's true that we've gotten used to exposing our relations, like tattoos, on social networking sites. Look how many followers I have! However it strikes me as essentially trashy when two people can become "friends" with a click. Social networks have become a game to their users, and it's a game played with lives.
+
+I think our current "social networks" are little more than emotional candy bars. They look like food, yet are empty of real nourishment. They are addictive, providing an excess of a naturally rare thing, namely social company. And I think they make us unhealthy, vulnerable, unfulfilled and, ultimately, not very happy.
+
+A sustainable social network would be a collection of real relationships, not clicks. It would be based on private relationships, since to expose one's relationships makes it them public assets. That may work in some contexts, and certainly in open communities, yet open communities seem to be a different animal than social networks. Each person's social network, that map of our relationships and how important each one is to us, would be owned by each of us, and no one else.
+
+To build up a relationship with a given person, I'd want to call, chat, send photos, share web links, code, and so on, with that person. I'd do this over time, and keep doing it, or the relationship would become stale and uninteresting. This is how it works in real life, and this is how I'd expect my computerized life to work.
+
+I've implied two things here, which I'll say explicitly. One, we don't need a central website to make these exchanges happen. That would be like going to the reception to check if you got post. It is somewhat ridiculous. New messages should arrive seamlessly on our phones or laptops, as indeed they do for the systems that work well: emails, Twitter updates, text messages.
+
+The asynchronous "you got mail" world is much smoother than the synchronous "go to reception to check your inbox" world. In an asynchronous world we have different kinds of stuff going on. Urgent messages that we want to see soon. Normal stuff that can take a few minutes, even longer to arrive. Slow stuff that can take hours or even days to get to us. Again, this is how the real world works, and though I appreciate instant gratification as much as anyone, there is a certain art in building large systems that work just as we expect.
+
+The second thing is, why should the business that operates that social network website own our data? Some people claim the CIA invested heavily into Facebook through its [In-Q-Tel venture capital](https://www.iqt.org/) vehicle. True or not, Facebook, and firms like it, are able to track our private lives. Even if you do not use Facebook, every time your friends tag you in a photo or mention your name, that is added to your shadow file.
+
+What's wrong with this picture? Let me give you a one-line definition of "ethics": it is the balance of power in a relationship. When businesses own your social networks, there is no balance of power. That's fine in a world where we can grant unlimited trust to those with power. We do not however live in that world, and I doubt the universe has such a planet in it. Those in power seek power, by definition, and do what they feel they must to retain it.
+
+In a world where the state sees its own citizens as a prime threat to its power, that means building a framework of repression and control. Who you know, where you go, what you say, what you think out loud... these are the data that have sent thousands and millions to their deaths in the past. Agreed, the very notion of the Spider watching and perhaps hunting us, the idea that we live in mortal fear of our own elected governments is highly uncomfortable, close to paranoia.
+
+However, why even take the risk? We can build social networks over the Cellnet. They will be asynchronous and distributed and impossible to trace, except by physical seizure or brute-force hacking of individual devices, the most costly and impractical of surveillance options.
+
+We would want end-to-end security, as GnuPG or ZeroMQ provides, and some form of anonymous routing across nodes, as I've already described. We could exchange security keys by touching our phones together, using the near-field communications, or NFC, feature that many smartphones have. Then we could share data privately, and securely, over multiple hops, whether we're still in the same city, or half-way around the world.
+
+As a user experience, it's simple. I have stuff (code, photos, ideas, documents, music) that I want to share with one or more people. I choose the stuff, click Share (it should be a physical button on the phone) and it pops up my most important groups and people. I choose who to share it with, and that's it.
+
+The actual sharing might take hours or days, as I meet people and our phones exchange data. My stuff hops leisurely across the Cellnet, sometimes getting lost and trying again, until it finds its destination. I don't really care. With enough people connected, data can travel very rapidly and if I really have gigabytes to send, I'll wait until I see the person and we can work over a direct WiFi link.
+
+Realistically, things will have to get rather worse before the mass market and business will invest seriously in an Edge Web of any shape. Until then, it will be the idealists, privacy freaks, cryptographers, political performance artists and busybodies like myself who build such things. I've spent the last years investing in ZeroMQ, a core technology for the Edge Web. On top of that we've built most of the internals of a single cell (the Zyre project), and strong security to keep it all safe.
+
+It will take a lot of work to build the Edge Web, no matter what technology we use. One thing the Internet has in large numbers, however, are capable young men with a rebellious streak. The chemistry of change just requires that these Dangerous Young Men focus their attention on the challenge of the decentralized Internet. Once it's seen as a plausible direction, there is no stopping the reaction.
 
