@@ -50,4 +50,5 @@
 <section data-autoslide=1500>
     <p style="font-size:1.5em; text-align:center">%COPYRIGHT%</p>
     <p style="font-size:1.0em; text-align:center" class="fragment roll-in">%LICENSE%</p>
+    <p style="font-size:1.0em; text-align:center" class="fragment roll-in">%COMMENT%</p>
 </section>

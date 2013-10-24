@@ -3,6 +3,7 @@ TITLE=Culture & Empire
 SUBTITLE=Digital Revolution
 COPYRIGHT=Copyright © 2013 Pieter Hintjens
 LICENSE=Free to share and remix under CC-BY-SA-3.0
+COMMENT=Thanks for tweeting about it -- #cultureandempire
 
 #   Tracker token and website for Google Analytics
 GATRACKER=UA-623476-18
