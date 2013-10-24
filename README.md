@@ -1051,7 +1051,7 @@ Here's the scorecard I came up with:
 | Sense of humor | 5 | 5 | 5 | 5 | 2 | 3 | 0 | 1 | 1 | 0 |
 | Minimalism | 5 | 5 | 4 | 4 | 3 | 4 | 1 | 1 | 3 | 0 |
 | Sane funding | 5 | 4 | 3 | 3 | 5 | 3 | 3 | 3 | 2 | 2 |
-| | *96* | *94 *| *94* | *84* | *71* | *56* | *28* | *34* | *18* | *20* |
+| *Final score* | *96* | *94 *| *94* | *84* | *71* | *56* | *28* | *34* | *18* | *20* |
 
 Once we can measure the CII of a community or organization, we can increase it by looking at the tools that score low. In theory, this should make the organization smarter, and its participants happier. Of course it's quite likely that a military organization can only work with a low CII. A smart army would quite likely all go home and switch to Reddit.
 

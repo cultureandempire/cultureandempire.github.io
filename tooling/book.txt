@@ -7,3 +7,6 @@ LICENSE=Free to share and remix under CC-BY-SA-3.0
 #   Tracker token and website for Google Analytics
 GATRACKER=UA-623476-18
 GAWEBSITE=cultureandempire.com
+
+#   GitHub integration
+GITNAME=https://github.com/cultureandempire/cultureandempire.github.io

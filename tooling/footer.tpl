@@ -1,6 +1,8 @@
 </div>
 </div>
 
+<div class="actions"><a href="%GITNAME%/issues"><img style="border:0" src="image/chat3.png"></a></div>
+
 <script src="lib/js/head.min.js"></script>
 <script src="js/reveal.min.js"></script>
 <script>
@@ -25,6 +27,14 @@
         ]
     });
 </script>
+
+<a class="fork-reveal" style="display:none;" href="%GITNAME%"><img style="position:absolute; top:0; right:0; border:0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+<script>
+    if (!navigator.userAgent.match( /(iphone|android)/gi ) && !!document.querySelector) {
+        document.querySelector( '.fork-reveal' ).style.display = 'block';
+    }
+</script>
+
 <script>
     //  Update per-page header and footer
     var pageHeader = document.querySelector('.header');

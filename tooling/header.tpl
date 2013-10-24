@@ -35,7 +35,7 @@
 </head>
 
 <body>
-<div class="header">Loading... 70%... 80%... </div>
+<div class="header">Loading... 90%</div>
 <div class="footer"></div>
 
 <div class="reveal">

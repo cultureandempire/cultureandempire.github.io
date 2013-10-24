@@ -137,6 +137,7 @@ sub open_chapter {
     writeln ("<h1>$title</h1>");
     $chapter_open = 1;
     $chapter_title = $title;
+    $word_count = 0;
 }
 
 sub close_chapter {

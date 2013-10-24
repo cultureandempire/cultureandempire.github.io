@@ -72,6 +72,7 @@ body {
 }
 .reveal table {
     width: 100%;
+    margin-bottom: 0.5em;
 }
 .reveal li {
     text-align: left;
@@ -91,14 +92,20 @@ body {
     text-align: center;
     top: 50px;
     width: 100%;
-    z-index: 999;
+    z-index: 100;
 }
 .footer {
     bottom: 50px;
     position: absolute;
     text-align: center;
     width: 100%;
-    z-index: 999;
+    z-index: 100;
+}
+.actions a {
+    bottom: 28px;
+    left: 40px;
+    position: absolute;
+    z-index: 101;
 }
 
 /*********************************************
