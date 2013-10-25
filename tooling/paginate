@@ -1,0 +1,67 @@
+#! /usr/bin/perl
+#
+#   Syntax: ./paginate infile > outfile
+#
+#   Breaks the supplied file into pages, delimited by ~PAGE~ markers
+#   Will break paragraphs at whole word boundaries
+
+#   Characters per page that we aim for
+$max_density = 900;
+
+#   Size of current page, so far, in lines
+$cur_density = 0;
+
+while (<>) {
+    chop;
+    if (/^#\s/) {
+        print "$_\n";           #   Assume caller will break chapter
+        $cur_density = 320;     #   Counts as 4 lines of 80 chars
+        $new_chapter = 1;       #   Allow quote on same page
+    }
+    elsif (/^##\s/) {
+        break_page () if $cur_density;
+        print "$_\n";
+        $cur_density = 64;      #   Counts as 2 lines of 80 chars
+    }
+    elsif (/^###\s/) {
+        break_page () if $cur_density;
+        print "$_\n";
+        $cur_density = 48;      #   Counts as 1.5 lines of 80 chars
+    }
+    elsif (/^$/) {
+        print "\n";
+    }
+    else {
+        #   Normal text
+        $line = $_;
+        $line =~ s/\[([^\]]+)\]\(\S+(?=\))\)/$1/g;
+        $line_density = length $line;
+        $line_density *= 2 if /^> /;    #   Blockquotes take space
+
+        #   Always break after a chapter header but allow a single
+        #   blockquote to sneak in first
+        if ($new_chapter) {
+            undef $new_chapter;
+            if (/^> /) {
+                print "$_\n";
+                break_page ();
+            }
+            else {
+                break_page ();
+                print "$_\n";
+                $cur_density += $line_density;
+            }
+        }
+        else {
+            break_page () if $cur_density + $line_density >= $max_density;
+            $cur_density += $line_density;
+            print "$_\n";
+        }
+    }
+}
+
+sub break_page {
+    local ($tag) = @_;
+    print "~PAGE~\n";
+    $cur_density = 0;
+}

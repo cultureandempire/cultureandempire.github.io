@@ -3,9 +3,6 @@
 #   Syntax: ./md2reveal bookfile
 #
 
-#   Words per page, roughly
-$words_per_page = 120;
-
 while (<>) {
     chop while /\s$/;
     if (/^\#/) {
@@ -22,6 +19,7 @@ while (<>) {
         if ($content == 0) {
             $content = 1;
             process_template ("header");
+            $page_major = 1;
         }
         #   Source markdown file to include
         process_source ($1);
@@ -54,10 +52,8 @@ sub process_template {
 
 sub process_source {
     local ($filename) = @_;
-    open INPUT, $filename || die "Can't read $filename: $!";
-
-    $word_count = 0;
-    while (<INPUT>) {
+    @lines = `./paginate $filename`;
+    foreach (@lines) {
         chop while /\s$/;
         $_ = escape ($_);
 
@@ -76,21 +72,30 @@ sub process_source {
         #   Replace double hyphens with em dashes
         s/--/—/g;
 
-        #   Count number of words in line
-        $word_count += scalar (() = /\w+/g);
-
-        if (/^#\s+/) {
+        if (/~PAGE~/) {
+            if ($in_list) {
+                close_page ();
+                open_page ();
+                require_list ($cur_list);
+            }
+            else {
+                close_page ();
+                open_page ();
+            }
+            $page_minor++;
+        }
+        elsif (/^#\s+/) {
             close_list ();
             open_chapter ($');
+            $toc = "";
         }
         elsif (/^##\s+/) {
             close_list ();
-            split_page () if $word_count > $words_per_page - 10;
             writeln ("<h2>$'</h2>");
+            $toc .= "$' - #/$page_major/$page_minor ";
         }
         elsif (/^###\s+/) {
             close_list ();
-            split_page () if $word_count > $words_per_page - 10;
             writeln ("<h3>$'</h3>");
         }
         elsif (/^>\s+/) {
@@ -124,10 +129,6 @@ sub process_source {
             close_list ();
             writeln ("<p>$_</p>");
         }
-        if ($word_count > $words_per_page) {
-            split_page ();
-            $word_count = 0;
-        }
     }
     close_chapter ();
     print "$page_count pages\n";
@@ -141,11 +142,13 @@ sub open_chapter {
     writeln ("<h1>$title</h1>");
     $chapter_open = 1;
     $chapter_title = $title;
-    $word_count = 0;
+    $page_major++;
+    undef $page_minor;
 }
 
 sub close_chapter {
     close_page ();
+    print "$toc\n";
     writeln ("</section>");
     $chapter_open = 0;
 }
@@ -160,19 +163,6 @@ sub close_page {
 sub open_page {
     writeln ("<section>");
     writeln ("<p class=\"header\">$chapter_title</p>");
-    $word_count = 0;
-}
-
-sub split_page {
-    if ($in_list) {
-        close_page ();
-        open_page ();
-        require_list ($cur_list);
-    }
-    else {
-        close_page ();
-        open_page ();
-    }
 }
 
 sub require_list {
