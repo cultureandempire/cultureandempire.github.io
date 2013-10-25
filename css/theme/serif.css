@@ -56,6 +56,8 @@ body {
     font-size: 0.9em;
     text-align: left;
     font-weight: bold;
+    margin-bottom: 0.4em;
+    padding-top: 0.5em;
 }
 .reveal h3 {
     font-size: 0.7em;
@@ -103,9 +105,46 @@ body {
 }
 .actions a {
     bottom: 28px;
-    left: 40px;
+    left: 30px;
     position: absolute;
     z-index: 101;
+}
+.actions1 a,
+.actions2 a,
+.actions3 a,
+.actions4 a,
+.actions5 a,
+.actions6 a,
+.actions7 a,
+.actions8 a {
+    left: 30px;
+    position: absolute;
+    z-index: 101;
+}
+
+.actions1 a {
+    bottom: 30px;
+}
+.actions2 a {
+    bottom: 110px;
+}
+.actions3 a {
+    bottom: 190px;
+}
+.actions4 a {
+    bottom: 270px;
+}
+.actions5 a {
+    bottom: 350px;
+}
+.actions6 a {
+    bottom: 430px;
+}
+.actions7 a {
+    bottom: 510px;
+}
+.actions8 a {
+    bottom: 590px;
 }
 
 /*********************************************

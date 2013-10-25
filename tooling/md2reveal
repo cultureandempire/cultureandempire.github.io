@@ -1,0 +1,211 @@
+#! /usr/bin/perl
+#
+#   Syntax: ./md2reveal bookfile
+#
+
+#   Words per page, roughly
+$words_per_page = 120;
+
+while (<>) {
+    chop while /\s$/;
+    if (/^\#/) {
+        #   Comment
+    }
+    elsif (/(\S+)=(.*)/) {
+        #   Symbol definition
+        $symbols {$1} = escape ($2);
+        if ($1 eq "OUTPUT") {
+            open OUTPUT, ">$2" || die "can't create $2: $!";
+        }
+    }
+    elsif (/(\S+)/) {
+        if ($content == 0) {
+            $content = 1;
+            process_template ("header");
+        }
+        #   Source markdown file to include
+        process_source ($1);
+    }
+}
+process_template ("footer");
+0;
+
+#   Replace unsafe XML characters
+sub escape {
+    local ($_) = @_;
+    s/&/&amp;/g;
+    s/</&lt;/g;
+    return $_;
+}
+
+sub process_template {
+    local ($filename) = @_;
+    open INPUT, "$filename.tpl" || die "Can't read $filename.tpl: $!";
+    while (<INPUT>) {
+        chop while /\s$/;
+
+        #   Substitute variables
+        while (/%([A-Z0-9]+)%/) {
+            $_ = $`.$symbols {$1}.$';
+        }
+        writeln ($_);
+    }
+}
+
+sub process_source {
+    local ($filename) = @_;
+    open INPUT, $filename || die "Can't read $filename: $!";
+
+    $word_count = 0;
+    while (<INPUT>) {
+        chop while /\s$/;
+        $_ = escape ($_);
+
+        #   Curlify pairs of double quotes
+        while (/"([^"]+)"/) {
+            $_ = "$`“$1”$'";
+        }
+        #   Curlify one double quote at start of line
+        if (/^"([^"]+)$/) {
+            $_ = "“$1";
+        }
+        #   Curlify apostrophes
+        while (/([a-zA-Z])'([a-zA-Z])/) {
+            $_ = "$`$1’$2$'";
+        }
+        #   Replace double hyphens with em dashes
+        s/--/—/g;
+
+        #   Count number of words in line
+        $word_count += scalar (() = /\w+/g);
+
+        if (/^#\s+/) {
+            close_list ();
+            open_chapter ($');
+        }
+        elsif (/^##\s+/) {
+            close_list ();
+            split_page () if $word_count > $words_per_page - 10;
+            writeln ("<h2>$'</h2>");
+        }
+        elsif (/^###\s+/) {
+            close_list ();
+            split_page () if $word_count > $words_per_page - 10;
+            writeln ("<h3>$'</h3>");
+        }
+        elsif (/^>\s+/) {
+            require_list ("blockquote");
+            writeln ("<p>$'</p>");
+        }
+        elsif (/^\*\s+/) {
+            require_list ("ul");
+            writeln ("<li>$'</li>");
+        }
+        elsif (/^[0-9]\.\s+/) {
+            require_list ("ol");
+            writeln ("<li>$'</li>");
+        }
+        elsif (/^\|/) {
+            #   Table row starts with | in first column
+            $columns = 0;
+            while (/\|\s*([^|]+)/) {
+                $_ = $';
+                $cell [$columns++] = $1;
+            }
+            require_list ("table");
+            writeln ("<tr>");
+            for ($column = 0; $column < $columns; $column++) {
+                writeln ("<td>$cell[$column]</td>");
+            }
+            writeln ("</tr>");
+        }
+        elsif ($_) {
+            #   Normal text
+            close_list ();
+            writeln ("<p>$_</p>");
+        }
+        if ($word_count > $words_per_page) {
+            split_page ();
+            $word_count = 0;
+        }
+    }
+    close_chapter ();
+    print "$page_count pages\n";
+}
+
+sub open_chapter {
+    local ($title) = @_;
+    close_chapter () if $chapter_open;
+    writeln ("<section>");
+    writeln ("<section>");
+    writeln ("<h1>$title</h1>");
+    $chapter_open = 1;
+    $chapter_title = $title;
+    $word_count = 0;
+}
+
+sub close_chapter {
+    close_page ();
+    writeln ("</section>");
+    $chapter_open = 0;
+}
+
+sub close_page {
+    $page_count++;
+    close_list ();
+    writeln ("<p class=\"footer\">$page_count</p>");
+    writeln ("</section>\n");
+}
+
+sub open_page {
+    writeln ("<section>");
+    writeln ("<p class=\"header\">$chapter_title</p>");
+    $word_count = 0;
+}
+
+sub split_page {
+    if ($in_list) {
+        close_page ();
+        open_page ();
+        require_list ($cur_list);
+    }
+    else {
+        close_page ();
+        open_page ();
+    }
+}
+
+sub require_list {
+    local ($list) = @_;
+    close_list if $list ne $cur_list;
+    $cur_list = $list;
+    if (!$in_list) {
+        writeln ("<$cur_list>");
+        $in_list = 1;
+    }
+}
+
+sub close_list {
+    if ($in_list) {
+        $in_list = 0;
+        writeln ("</$cur_list>");
+    }
+}
+
+#   Writes $_ to stdout with final substitutions
+sub writeln {
+    local ($_) = @_;
+
+    #   Emails
+    s/\<([\w\.]+@[\w\.]+)\>/<a href="mailto:$1">$1<\/a>/g;
+
+    #   Normal hyperlinks
+    s/\[([^\]]+)\]\((\S+(?=\)))\)/<a href="$2">$1<\/a>/g;
+
+    #   Translate character styles
+    s/\*\*([^*]+)\*\*/<b>$1<\/b>/g;     #   Bold
+    s/\*([^*]+)\*/<em>$1<\/em>/g;       #   Italics
+    s/\{\{([^{]+)\}\}/<tt>$1<\/tt>/g;   #   Teletype
+
+    print OUTPUT "$_\n";
+}

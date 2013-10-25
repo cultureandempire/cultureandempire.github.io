@@ -11,3 +11,9 @@ GAWEBSITE=cultureandempire.com
 
 #   GitHub integration
 GITNAME=https://github.com/cultureandempire/cultureandempire.github.io
+
+#   Output goes to a single HTML file
+OUTPUT=../index.html
+
+#   Specify as many input files as you want
+../cande.md

@@ -1,0 +1,19 @@
+AUTHOR=Ian M Banks
+TITLE=A Few Notes on the Culture
+SUBTITLE=
+COPYRIGHT=Copyright 1994 Iain M Banks
+LICENSE=Commercial use only by permission
+COMMENT=Other uses, distribution, reproduction, tearing to shreds etc are freely encouraged provided the source is acknowledged
+
+#   Tracker token and website for Google Analytics
+GATRACKER=
+GAWEBSITE=
+
+#   GitHub integration
+GITNAME=https://github.com/cultureandempire/cultureandempire.github.io
+
+#   Output goes to a single HTML file
+OUTPUT=../culture.html
+
+#   Specify as many input files as you want
+../culture.md
