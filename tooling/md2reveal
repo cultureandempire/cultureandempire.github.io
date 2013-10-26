@@ -148,7 +148,7 @@ sub open_chapter {
 
 sub close_chapter {
     close_page ();
-    print "$toc\n";
+    # print "$toc\n";
     writeln ("</section>");
     $chapter_open = 0;
 }
