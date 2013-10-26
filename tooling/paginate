@@ -21,22 +21,29 @@ while (<>) {
     elsif (/^##\s/) {
         break_page () if $cur_density;
         print "$_\n";
-        $cur_density = 64;      #   Counts as 2 lines of 80 chars
+        $cur_density = 160;     #   Counts as 2 lines of 80 chars
     }
     elsif (/^###\s/) {
         break_page () if $cur_density;
         print "$_\n";
-        $cur_density = 48;      #   Counts as 1.5 lines of 80 chars
+        $cur_density = 120;     #   Counts as 1.5 lines of 80 chars
     }
     elsif (/^$/) {
-        print "\n";
+        print "\n";             #   Empty line just echoes
     }
     else {
         #   Normal text
         $line = $_;
         $line =~ s/\[([^\]]+)\]\(\S+(?=\))\)/$1/g;
-        $line_density = length $line;
-        $line_density *= 2 if /^> /;    #   Blockquotes take space
+        if (/^\| /) {           #   Table rows count as full line
+            $line_density = 80;
+        }
+        elsif (/^> /) {            #   Blockquotes take double space
+            $line_density = 2 * length $line;
+        }
+        else {                  #   Normal line of text
+            $line_density = length $line;
+        }
 
         #   Always break after a chapter header but allow a single
         #   blockquote to sneak in first
