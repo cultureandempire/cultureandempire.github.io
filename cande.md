@@ -100,7 +100,7 @@ Torturers and brutes know no limits except those we place on them. That is, we c
 
 Conflict defines us. It destroys us, or makes us stronger. It's out of conflict that new political structures emerge, for politics is essentially about organizing disparate groups and factions to win power through some kind of conflict, and then keeping these groups in balance to prevent further conflict. The new political structures of the twenty-first century will be unlike any we've ever seen before. Today, we have the seeds, and already they are international, anonymous, decentralized, self-organizing, fast, and accurate.
 
-When we say that the Internet "removes borders," this will one day literally be true. Two generations from now, the political structure of nation-states will be as quaint as medieval city-states, shires, and dukedoms. Just as with the Corn Laws in nineteenth-century Britain, the injustices of the counter-revolution are driving a generation to political activism. Perhaps the first and most significant digital activist was Richard Stallman, who in 1989 nailed the GNU General Public License (GPL) to the church door. I'll come back to Stallman's story in “Going Digital”. Today, activists across the world are occupying the squares and streets of our cities, demanding an end to crony politics.
+When we say that the Internet "removes borders," this will one day literally be true. Two generations from now, the political structure of nation-states will be as quaint as medieval city-states, shires, and dukedoms. Just as with the Corn Laws in nineteenth-century Britain, the injustices of the counter-revolution are driving a generation to political activism. Perhaps the first and most significant digital activist was Richard Stallman, who in 1989 nailed the GNU General Public License (GPL) to the church door. I'll come back to Stallman's story in Culture &amp; Empire. Today, activists across the world are occupying the squares and streets of our cities, demanding an end to crony politics.
 
 I started to decrypt and document the dynamics of the digital revolution and counter-revolution in 1999, and then in 2005 took over as president of the [Foundation for a Free Information Infrastructure](http://www.ffii.org) (FFII), a European activist network that fought software patents. We built websites and campaigns, organized conferences, and wrote laws. They called us "anti-business" so we wore suits and brought countless small business owners to speak. We tried to convince emerging Internet giants to support us.
 
@@ -374,7 +374,7 @@ The economist Jeffrey Sachs [has argued](http://www.earthinstitute.columbia.edu/
 
 The [World Port Source](http://www.worldportsource.com/countries.php) shows the harbors and ports of every country in the world. No matter which figures you look at, you will discover bizarre comparisons. In 2013, the United Kingdom has 389 ports, while the US has 532. Japan has 292; China, 172. And then, let's look at the largest African countries and economies: Nigeria has 12, South Africa has 10, Ghana has 4, Kenya has 3, and Congo-Kinshasa also has 3.
 
-The sheer lack of ports is easy to understand when you look at the map: the coastlines of Europe and North America, carved by rivers and glaciers, are very crinkly with hundreds of natural harbors. The coastline of Africa, old and continental, is mostly smooth. In “Broken Societies”, I will develop the hypothesis that as geography drove Europe towards prosperity, it drove Africa towards poverty.
+The sheer lack of ports is easy to understand when you look at the map: the coastlines of Europe and North America, carved by rivers and glaciers, are very crinkly with hundreds of natural harbors. The coastline of Africa, old and continental, is mostly smooth. In Culture &amp; Empire, I will develop the hypothesis that as geography drove Europe towards prosperity, it drove Africa towards poverty.
 
 It's not just bad geographic luck, however. When I checked these figures in 2008, here was the tally: UK had 279 ports, the US had 371, Japan 144, and China had 157. Meanwhile Nigeria had 12, South Africa had 10, Ghana had 4, Kenya had 3, and Congo-Kinshasa had 3. Nothing had changed for Africa, while the more developed countries nearly doubled their port numbers in some cases.
 
@@ -508,7 +508,7 @@ It used to be very hard to find other people with the same interests as us. Now,
 
 Freedom to choose one's own lifestyle has profound and positive psychological effects. Groups and organizations tend to domesticate their members by imposing more or less consistent styles of dress, language, diet, daily rhythms, space, emotion, and personal relationships. Aggressive groups, like cults, can break down a person's mind by forcing out all independence and replacing it with a synthetic groupthink. People who undergo such treatment become compliant and accept authority without question.
 
-There is a whole dark science of turning intelligent individuals into accepting morons, simply through the manipulation of their social context. For more on this, see "Social Anti-Patterns" in “New Digital Cities”.
+There is a whole dark science of turning intelligent individuals into accepting morons, simply through the manipulation of their social context. For more on this, see "Social Anti-Patterns" in Culture &amp; Empire.
 
 Happily, in my experience, this process also works in reverse. When we can construct our own lives, we generally become happier, more productive, and more discerning. The easy dogmas of the past are broken down and a form of wisdom based on uncovering objective truths takes their place. Like planting a forest tree by tree, it's a slow and almost invisible process and one that is, for me, absolutely key to understanding the digital society. Freedom -- which I define as the capacity to do interesting and useful things with other people -- makes us better people. And the digital society is truly a society of freedom.
 
@@ -616,7 +616,7 @@ Surowiecki identified four elements necessary for a [wise crowd](https://en.wiki
 
 According to Surowiecki, the wise crowd makes fast and accurate judgments, organizes itself to make the best use of resources, and cooperates without central authority. Some examples of wise crowds, such as Wikipedia, are extraordinarily successful despite intense and repeated criticism from naysayers and attacks from vandals and infiltrators. It's such a compelling proposition that we might wonder why we don't see more wise crowds. Indeed, why is the world filled with so much stupidity if it's so easy to be smart?
 
-There are good explanations for the stupidity of many crowds, and I'll explore this later, in “Broken Societies”. Few people have tried to explain group stupidity in terms of collective wisdom. And without a clear understanding of function, how can we hope to understand dysfunction?
+There are good explanations for the stupidity of many crowds, and I'll explore this later, in Culture &amp; Empire. Few people have tried to explain group stupidity in terms of collective wisdom. And without a clear understanding of function, how can we hope to understand dysfunction?
 
 So the apparent failure of collective intelligence convinces many that this is just a fancy theory that fails in practice. And yet if we look at on-line communities, for example those that form around popular open source software projects like my company [ZeroMQ](http://zeromq.org), we see groups that look a lot like Surowiecki's wise crowds. While it may be hard to spot wise crowds in the physical world, they seem to be the dominant model on line. Through trial and error, digital society has rediscovered the principles of wise crowds and adopted them as its core operating principles.
 
@@ -1438,7 +1438,7 @@ Conflict has been widespread throughout Europe wherever and for as long as there
 
 So Europe's current political models are a direct consequence of these conflicts. We learned, long ago, to look after the beggars and turn them into assets, not liabilities. We learned to create space for the bandits, giving them symbolic power in government. Belgium, my home, has a long history of commercial city-states fighting for their independence, and today has [six governments](https://en.wikipedia.org/wiki/List_of_governments_in_Belgium). To me, that's directly related.
 
-Why and how do the bakers win? They need a few key things. Principally, they need freedom, and they need access to markets. When the bandits want to stop the bakers from taking power, their first tool is to block trade. Freedom can mean many things. My definition in “On Freedom” is, "the ability to do interesting things with other people". And if you're a baker, that means to buy and sell, hire and fire, without undue taxes, tolls, delays, or theft.
+Why and how do the bakers win? They need a few key things. Principally, they need freedom, and they need access to markets. When the bandits want to stop the bakers from taking power, their first tool is to block trade. Freedom can mean many things. My definition in Culture &amp; Empire is, "the ability to do interesting things with other people". And if you're a baker, that means to buy and sell, hire and fire, without undue taxes, tolls, delays, or theft.
 
 ### Extraction Economies
 
@@ -1642,7 +1642,7 @@ The bright light is -- as it is so often -- the social media-connected youth, wh
 
 "Doing interesting things with other people" covers a lot of ground. Let's take it in the order I proposed in my preface to this book. First, we organize socially. Then, we organize economically. Finally, we organize politically. It's not a straight line. Our activities cycle back into each other over and over, little bubbles of fire and hope that cluster together to build whole cities.
 
-We've discussed social, economic, and political freedoms. I'll come to privacy and property, which are often mixed into the concepts of social and economic freedom in “War on Privacy” and “Wealth of Nations”. While these major freedoms are the ones we see and talk about the most, I think there are four elementary freedoms, on which all other freedoms are built.
+We've discussed social, economic, and political freedoms. I'll come to privacy and property, which are often mixed into the concepts of social and economic freedom in Culture &amp; Empire and Culture &amp; Empire. While these major freedoms are the ones we see and talk about the most, I think there are four elementary freedoms, on which all other freedoms are built.
 
 These elementary freedoms are:
 
@@ -1867,7 +1867,7 @@ In technology, the free software sector, which effectively regulates a free-shar
 
 While copyright and patent law can be very profitable for the owners, those profits are always taken at a larger cost to society. Economists have difficulty showing this, yet it's not for lack of data. Rather, working on this topic is a dangerous career move. Economists, like most ordinary people, have to feed their families and pay their mortgages. Very few have done extensive research into the real costs of the copyright and patent systems. The European Patent Office makes a habit of buying up economists who start to look at the economics of the patent system.
 
-I'll explore patent and copyright in more detail in “Wealth of Nations”. For now, I want to look at how they affect our freedom to share knowledge on line, why that matters, and what I think the outcome will be.
+I'll explore patent and copyright in more detail in Culture &amp; Empire. For now, I want to look at how they affect our freedom to share knowledge on line, why that matters, and what I think the outcome will be.
 
 Thanks to the music and movie industries, "sharing" has been turned into an accusation and even a criminal offense in many countries. Among the hip and leading-edge, the "Would you steal a car?" propaganda clip is a joke. "Would you download a car to your 3D printer?" they ask, mocking the bookseller's claim that copying culture is a form of theft. Yet for the majority of people, the threat of disconnection, prison, or massive fines because someone shared a few songs by accident on the family WiFi is real and frightening. The outcome of this is that, while people are confident in sharing photos of their cats and kids, they're less keen on stepping outside the walled gardens that Facebook and its ilk provide.
 
@@ -1931,7 +1931,7 @@ So Silvia Swinden's "Para-state" is the term I will use, to describe the old pow
 
 As for the NSA and its fellow alphabet agencies, and including without prejudice all businesses and criminals involved in spying on us, I'm going to use the term "Spider", which is what early Internet geeks called the computer programs that "crawled the world wide web". It wasn't a great joke then either. However, I rather like the notion of a massive thing with eight legs, eight eyes, sharp venomous teeth, and no brain to speak of, implacably stalking us as we struggle with our pathetic little lives.
 
-The Spider is no joke, however. It is a militarized force, armed and willing to shoot, that takes its orders from the Para-state, outside the control of any democratic framework.
+The Spider is no joke, however. It reaches around the world, into every communications network and technology industry, into every country that has not raised a strong firewall against it. It has global reach and immense budgets. It employs armies of [private contractors](http://www.policymic.com/articles/48845/booz-allen-hamilton-70-of-the-u-s-intelligence-budget-goes-to-private-contractors), both civilian, and military -- mercenaries who operate outside national laws. And the Spider does one job: protect the Para-state from threats. It exists outside conventional political reality, disconnected from the democratic process, making up its own definitions of constitutionality and legality, as it goes along.
 
 ## The Dollar Yoltabyte
 
@@ -3081,7 +3081,7 @@ Let's recap the three main points of attack on the privacy of our communications
 
 A full-spectrum attack, such as the FBI's takedown of Freedom Hosting in 2013, hits each of these three vulnerabilities. They arrested the server operator, and with his help, put code on the sites he hosted. This code attacked the users' web browsers, and exposed their IP addresses, and thus real identities, though the broadband providers. Finally they took down the server, killing all websites that ran on it. So much for the Deep Web.
 
-If the Web is not safe, and the Deep Web is not safe, what is? There is only one long term answer, and that is a new web that lives "off the grid", treating central websites and broadband connections with the full distrust they deserve. I'll propose a model for this, which I call the "Edge Web", in “Culture”.
+If the Web is not safe, and the Deep Web is not safe, what is? There is only one long term answer, and that is a new web that lives "off the grid", treating central websites and broadband connections with the full distrust they deserve. I'll propose a model for this, which I call the "Edge Web", in Culture &amp; Empire.
 
 ## The Dangerous Young Men
 
@@ -3421,8 +3421,121 @@ In this chapter I tried to draw an overall picture of the massive shifts in powe
 
 > Conflict defines us. It destroys us, or makes us stronger. It's out of conflict that new political structures emerge, for politics is essentially about organizing disparate groups and factions to win power through some kind of conflict, and then keeping these groups in balance to prevent further conflict.
 
-In this book so far I've told the story of how the world mostly got on line, or is getting there, and how this has upset some powerful people. Over the last decades, the global elite, who I've dubbed the Para-state, has defined the historical narrative, and have carefully ensured that the media embrace it, and report it. Perhaps the greatest shock to the Para-state, the one that drives them to unusual emotions, is losing control of the narrative.
+Like a fistful of wet sand, the Culture only feels solid when you try to seize it. Then it's gone again, utterly fluid. It's the anarchist nature of digital space. The distances are too vast for any conventional command-and-control system to operate. In the time it takes to organize one phone meeting, your group could have spun off their new startup and begun raising money on Kickstarter. I believe we'll see Culture define itself politically in terms of the present and future conflict. And then, when the conflict is over, some time from now, disassociate its political structures like grains of sand falling back into the surf. This is the story I'll try to tell in this chapter.
 
-I'll explain this, the narrative and the losing of it, and explore what I think the future holds for us. When I say "us", I am speaking in the name of the Culture, the 99%, the unwashed middle classes of the future, the cynics and the skeptics, the people of this world. And also for the one percent, for there's no future without all of us.
+## The Coming Global War
+
+There is no question that we are entering an era of undisguised conflict between the haves -- the Para-state and their Spider -- and the rest of the planet. It is no new conflict. What is new is the ripping away of the Emperor's clothes, the dropping of the mask, the utter loss of control of the narrative of "Democracy versus the Bad Guys". I'll come back to the narrative shortly.
+
+The battlefield covers the whole world, and particularly, the American homeland. The US is the keystone in the Para-state's power structure. It represents by far the richest food source for this parasitic political life-form. The US is wealthy due to three things: centuries of mass immigration, abundant natural resources, and a geography blessed with generous natural transport.
+
+If it was not for the Para-state's predations, the country would be considerably more prosperous, easily affording first rate healthcare, education, transport to all its people, and a massively better technological infrastructure. As it is, other parts of the world have to show this wealthiest of all nations how to build decent trains, schools, networks, health care. If I was American I'd be embarrassed that for all my country's advantages, its main gifts to the world have been Coca-Cola, MTV and CNN, and many, many wars disguised as peace actions. However, as happened in Nazi Germany and Napoleon's France, the homeland is just the first conquest. After that comes the war of expansion.
+
+Extraction economies -- oil, narcotics, human trafficking -- have always thrown acid at the face of society, because social structure and stability cut into profits. In October 2013, [the US became the world's largest producer of oil](http://online.wsj.com/news/articles/SB10001424052702303492504579111360245276476), beating Russia and Saudi Arabia. The country is also the top market for drugs, and the leader in a modern form of human trafficking focused on poor men. As [Robert Graham writes](http://www.publiceye.org/defendingjustice/overview/graham_slave.html) in "Reflections of a Modern-day Slave,"
+
+> The (criminal) criminal justice system is a very well-oiled machine in which the powers that be regularly utilize their weapons of mass oppression in the concrete jungles all over America with military precision. Today, there are overseers lurking and prowling through inner-city streets like big game hunters with their sights fixed predominantly on minority men, ironically in a way equally as steadfast as slave poachers did in the days of old.
+
+The US has turned into the world's number one extraction economy. When I wrote about "Poverty on Purpose" with respect to sub-Saharan Africa, my explanation could also apply to Detroit, Oakland, East Greenbush, Harrisburg, Camden, Washington D.C, Chicago. The hollowing out of American's heartlands does not need to be deliberate, systematic policy. One simply stops investing in infrastructure and education for the poor, and instead, invests in security for the wealthy.
+
+## March of the Kaiju
+
+Looking at the US today, I seriously doubt that it can recover by itself. US society has suffered such deep and sustained attacks that it is by itself, mortally weak. That does not mean that we will suffer a thousand years of domination by the Para-state. It means that US civil society will have to look globally, for allies and friends around the world. This will be easier, rather than harder, as the world wakes up to a common threat.
+
+One of the techniques that I didn't discuss in “New Digital Cities” was negativity. We learned, in our public action campaigns against software patents, that few things drive people as powerfully as a real enemy, a sharp threat knocking on the doorstep. We used to say, "positive campaigns don't work." It's a lesson I don't teach, however. People have real enemies don't need me to tell them to about it, and those without real enemies should not be inventing them, to try to motivate people. That leads to self-deceit, and ultimate failure.
+
+However, even paranoiacs can have real enemies. The Spider is emerging, like the Kaiju rising out of the sea, and is aiming to tear down our digital cities. Our global digital society is facing a Bad Guy of massive proportions. And what happens on line resonates through all society. The movie "Pacific Rim" from Guillermo del Toro is wonderfully trashy, yet it frames perfectly the existential threat that we face as a civilized society trying to build a better future.
+
+## One Planet, One Future
+
+Zbigniew Brzezinski, National Security Advisor to President Jimmy Carter, wrote in his 1970 book "Between Two Ages,"
+
+> The technotronic era involves the gradual appearance of a more controlled society. Such a society would be dominated by an elite, unrestrained by traditional values. Soon it will be possible to assert almost continuous surveillance over every citizen and maintain up-to-date complete files containing even the most personal information about the citizen. These files will be subject to instantaneous retrieval by the authorities.
+
+> Another threat, less overt but no less basic, confronts liberal democracy. More directly linked to the impact of technology, it involves the gradual appearance of a more controlled and directed society. Such a society would be dominated by an elite whose claim to political power would rest on allegedly superior scientific knowhow.
+
+> Unhindered by the restraints of traditional liberal values, this elite would not hesitate to achieve its political ends by using the latest modern techniques for influencing public behavior and keeping society under close surveillance and control. Under such circumstances, the scientific and technological momentum of the country would not be reversed but would actually feed on the situation it exploits.
+
+> Persisting social crisis, the emergence of a charismatic personality, and the exploitation of mass media to obtain public confidence would be the steppingstones in the piecemeal transformation of the United States into a highly controlled society.
+
+Will my children live in a post-industrial wasteland, where rich and poor live as two divided societies? Where food, water, privacy, and travel are rare luxuries, and where the digital infrastructure has become so pervasive and intrusive that every aspect of our lives is recorded, tracked, and modeled by the Para-state? Or will they live in a planet-wide meritocracy, where most of the old industrial economy has gone digital, where the old cities no longer exist except as leisure centers, and every human on earth except the mentally ill is on-line, all the time, everywhere?
+
+It's a question only history will answer, and probably lie about, too. Perhaps history can give us some hints, though. We are an at times quarrelsome, violent, brutal, and highly destructive species. And we are also somehow gifted with the ability to make things better, given time. Every regime dreams of a thousand years of social control, and yet every regime collapses, as cost gravity steals the technological advantage it holds over its citizens.
+
+In the world I grew up in, and if you're over 35 or so you may remember this world, South Africans still lived under Apartheid. That was a system of laws introduced by the National Party in 1948 to prevent any loss of power by the ruling white elite. South Africa was a society divided into white rich against brown and black poor. The land was governed by military power used against civilians, by torture, murder, and secret arrests. The free press was smashed, and political dissent quashed. Black South Africans were first deprived of their vote, and then of their citizenship and lands.
+
+There was no revolution, though, as in neighboring Rhodesia that became Zimbabwe. The South African regime was simply too powerful to be toppled by men with guns. There was instead a long, determined struggle for freedom and equality that became increasingly well organized, militant, and supported by the international community.
+
+And in the end, after decades of decrying the holocaust that would follow any transfer of power, white South Africans realized that life behind high walls was not worth it. It was bad for business, and it was dangerous both on the streets, and in global terms. In 1994, after years of violence and terrorism that turned out to be largely sponsored by the security services themselves, negotiated multiracial elections swept the African National Party into office. Many whites left the country, fleeing the inevitable massacres and retributions from a people long treated as non-human.
+
+South Africa is not an easy place to live: incomes are low and costs are high. It remains far from Europe and major markets. It has a reputation for violence. The African National Congress (ANC) turned out to be corrupt, like any government. The economy suffers from unemployment. Yet South African businesses, unleashed, have become giants across Africa and globally. In 2000, [its GDP was $133B](http://en.wikipedia.org/wiki/Economy_of_South_Africa). In 2015 it is forecast to hit $511B.
+
+And here are [the homicide statistics](http://en.wikipedia.org/wiki/Crime_in_South_Africa) for the years 1994 to 2010 in South Africa:
+
+| Year  | Homicides per 100,000 |
+| 1994  |   66.9    |
+| 1995  |   67.9    |
+| 1996  |   62.8    |
+| 1997  |   59.5    |
+| 1998  |   59.8    |
+| 1999  |   52.5    |
+| 2000  |   49.8    |
+| 2001  |   47.8    |
+| 2002  |   47.4    |
+| 2003  |   42.7    |
+| 2004  |   40.3    |
+| 2005  |   39.6    |
+| 2006  |   40.5    |
+| 2007  |   38.6    |
+| 2008  |   37.3    |
+| 2009  |   34.1    |
+| 2010  |   31.9    |
+
+Before 1994, crime figures were not made public. Land distribution -- the creation of large white-owned farms -- has left a legacy of violence against white farmers. Unemployment and massive immigration from other African countries has provoked waves of urban violence and rape. And yet, despite this, the real figures fall every year, today less than half the rate during Apartheid.
+
+So this gives us a roadmap for the coming global conflict between Culture and Empire. There will be no apologies by those in power, and there will be no revolution, neither an armed struggle, nor sustained mass protests of the kind that might topple a fragile dictatorship. The Para-state is not fragile, it is extremely solid, and exerts control in the same way as the Apartheid regime.
+
+It took four decades for the white elite to realize their mistake, and turn away from their long-planned historic path. Many could not, and left the country. Those who stayed found themselves in a strange mixed society that sought peace and reconciliation instead of revenge, and jobs instead of guns. They lost their privileges yet they also shed their fears and their isolation. And despite the difficulties of building a working society from such a low base, the new multicultural South Africa has done well for itself.
+
+Four decades seems infinity, looking forwards, yet that is what we are in for, in my opinion. We might as well take a deep breath and develop real strategies for a positive outcome. The question of why Apartheid fell at all is vital, because it provides us with our own strategy for a successful outcome.
+
+Padraig O’Malley [writes on nelsonmandela.org](http://www.nelsonmandela.org/omalley/index.php/site/q/03lv02424/04lv03370/05lv03390.htm), in his article, "Exploring Reasons For The Collapse Of Apartheid,"
+
+> To get to the understanding that both parties could only accommodate their differences through negotiations and that they could not resolve them through a protracted and indefinitely drawn-out war of violence and counter violence took the better part of a decade. Forsaking war rooms for negotiating tables was not an option particularly palatable to either side, but one dictated by the logic of inevitability. Perhaps a chess analogy is most appropriate. Neither side could achieve checkmate; permanent stalemate was the alternative to declaring a draw. Draws means deals.
+
+> In short, once both sides came to realize that the one could not hold on to power through its repressive security policies and the other recognized that it could not seize power through an armed "liberation" struggle the options for both became more narrow, and more importantly, more crystallized.
+
+Here is the key. Even if you cannot win a fight -- and it is absurd to think the Spider would lose any fight it starts -- you can force the other side to a negotiated solution if you can make it too costly for them to govern. By the mid-1980's, the townships had become ungovernable as people stopped cooperating with the system. The youth stopped going to school, and focused instead on civil protest. You give us no future, they said, so we will not invest in yours.
+
+O'Malley argues that Apartheid was its own cure, in that by breaking South African society apart by color it also made it ungovernable. I'd counter this with the example of the US, massively segregated, and exhibiting all the signs of collective stupidity, yet robustly governed.
+
+Rather, I will propose two other factors that turned Apartheid from an obviously profitable strategy to a hopelessly costly one. One was the fall in the cost of communications. Pretoria, isolated and distant, could maintain its regime as long as resistance was disorganized and local. However, it became so easy to report on events, and carry images of oppression around the world, and by the late 1980's, use electronic bulletin boards and email to organize. This ability to spread information rapidly and cheaply led to more and more hostility against the regime, from around the world. It led to trade embargoes, boycotts, and increased support for the ANC.
+
+The second factor was the cost of weaponry. The fall of the Soviet Union caused Africa to flood with cheap arms and ammunition. The security of the Apartheid regime depended on stability in its neighbors to the north. However, cheap weapons caused first Rhodesia, then Angola, and then Mozambique to fall to revolutionary liberation movements. South Africa maintained its grip over Namibia and from there, kept the civil war in Angola going for years.
+
+Yet this became more and more costly, and as in the US civil war, in a war based on slaughter, the slave owners could not win. Despite the Apartheid regime's mercenary armies, the odds are on the cheaper man, as Kipling wrote in his poem *Arithmetic on the Frontier*. "Two thousand pounds of education drops to a ten-rupee jezail," the jezail being a simple home-made gun.
+
+## Once Upon a Time
+
+Cheap communications has changed our society more than any other of our inventions and it has removed more tyrants from power than any weapon.  Let's take another step into the history books, back to May 1st, in 1844. Alfred Vail, working with Samuel Morse, was setting up the first telegraph line, and on that day sent the world's first ever electronic message down the 24 miles of cable that were working, from Annapolis Junction to Washington D.C., to report the results of elections.
+
+Just a decade later in 1855, the New York and Mississippi Valley Printing Telegraph Company and the New York & Western Union Telegraph Company merged to create Western Union. One assumes new-york-and-mississippi-valley-and-western-union-printing-telegraph-company.com was already taken by domain name squatters.
+
+By 1900, Western Union operated a million miles of telegraph lines, and by 1945 it had an effective monopoly over the US market. As [the New Yorker wrote](http://www.newyorker.com/online/blogs/elements/2013/06/why-monopolies-make-spying-easier.html), monopolies make spying easier. It is an easy and obvious trade: the government allows, by inaction or by intervention, a powerful telecommunications company to become dominant in a market through mergers and acquisitions. In return that company provides the government with surveillance.
+
+The New Yorker explains how Western Union used its monopoly to serve those in power:
+
+> What we now call electronic privacy first became an issue in the eighteen-seventies, after Western Union, the earliest and, in some ways, the most terrifying of the communications monopolies, achieved dominion over the telegraph system. Western Union was accused of intercepting and reading its customers’ telegraphs for both political and financial purposes (what's now considered insider trading).
+
+> Western Union was a known ally of the Republican Party, but the Democrats of the day had no choice but to use its wires, which put them at a disadvantage; for example, Republicans won the contested election of 1876 thanks in part to an intercepted telegraph. The extent of Western Union's actions might never be entirely known, since in response to a congressional inquiry the company destroyed most of its relevant records.
+
+It is quite visible how cost gravity drove communications down from an experiment for the wealthy to a mass market product so cheap even Western Union couldn't make profits from it. By 1980 its telegraph business was dying, and the old Western Union business was [finally closed in 2006](http://en.wikipedia.org/wiki/Western_Union#The_end_of_telegrams), after 151 years of operation. The name was, as we know, reused for a financial services company which today enjoys a government-sanctioned monopoly.
+
+Curiously, Western Union's long telegraph monopoly seems to have had only a small impact on the size of the communications network. If cost gravity was operating fully, at 29% a year, and telegraph costs were in free-fall, there would have been 37M miles of telegraph by 1900. Instead, assuming Western Union had half the market, there were 2M miles. That is a factor of 16 over 55 years, which is not much, and a part of that can be accounted for by quality improvements. I'm also not sure what to do with the random figure of [113 million kilometers](http://www.integer-research.com/2011/wire-cable/news/fiber-optic-cable-growth-continues-2012/) of fiber optic cable produced in 2010. A cable is a bundle of fibers, and the traffic rates are rather higher than Western Union's old stock. Has cost gravity been working?
+
+I suspect the simplest proof that the telecommunications monopolies back through AT&T and Western Union have been hijacking cost gravity comes from the cost of the modern equivalent of a telegraph, that text message. Let's say the cost is one cent per message today. The purchasing price of $1 was 30 times greater in 1850 than it is today. If we apply cost gravity backwards, doubling that cost every two years, it would have cost over two million trillion dollars in 1850, allowing for that 30 times fall in the dollar.
+
+Clearly cost gravity stops working when monopolists run the table. Not only are we paying tax dollars to be spied on, we are also being ripped off when we use the communications services that spy on us.
+
+Not only do we pay taxes to be spied on, we are also grossly overcharged for using the tapped lines.
 
 
