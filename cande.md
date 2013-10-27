@@ -64,7 +64,7 @@ In the US, the trend is quite different. Instead of intervening in the running o
 
 When I started studying at the University of York, Computer Science wasn't yet a proper subject; it was an abstract (and mostly tedious) offshoot of mathematics. It was another 10 years before I got my first modem and connected to the embryonic Internet of email, news groups, and bulletin boards of the early 1990's.
 
-We are close to [full planetary connectivity](https://www.google.com/search?q=how+many+phones+in+the+world) by at least mobile phone, and increasingly via smartphones that provide Internet access. Getting on line -- even if "only" via a shared mobile phone -- is the surest way to escape poverty, just as moving to a city was previously the best way to escape poverty since the nineteenth century.
+We are close to [full planetary connectivity](https://www.google.com/search?q=how+many+phones+in+the+world) by at least mobile phone, and increasingly via smartphones that provide Internet access. Getting on-line -- even if "only" via a shared mobile phone -- is the surest way to escape poverty, just as moving to a city was previously the best way to escape poverty since the nineteenth century.
 
 Powered by steam and coal, the Industrial Revolution of the late eighteenth and early nineteenth century brought people into new cities where they redefined social, economic, and political reality. The new social concentrations of nineteenth century industrial cities allowed an entrepreneurial middle class to emerge, and quite rapidly their economic power turned into political power. In 1848, a political revolution occurred across Europe, leading to the establishment of parliamentary democracy in many countries.
 
@@ -76,7 +76,7 @@ Old money fights back, using whatever weapons are available. Occasionally, they 
 
 In 1815, as the Industrial Revolution peaked, British landowners (the old money) enacted the Corn Laws to block the transfer of power to the new middle classes by taxing industrialization. The historian [David Cody writes](https://en.wikipedia.org/wiki/Corn_Laws#cite_note-2), "After a lengthy campaign, opponents of the law finally got their way in 1846 -- a significant triumph which was indicative of the new political power of the English middle class." By 1850, the Industrial Revolution was over and across Europe, power shifted away from landowners and towards the new urban middle classes.
 
-In the early twenty-first century, the upper classes are business and political elites who accumulated their wealth and power over the last fifty years. The middle classes are all those who "got connected," soon to be most of world's population, and the lower classes are the shrinking few who cannot yet get on line. We will, over the next decades, see similar attempts by this generation of old money to throttle the growing power of this global digital middle class.
+In the early twenty-first century, the upper classes are business and political elites who accumulated their wealth and power over the last fifty years. The middle classes are all those who "got connected," soon to be most of world's population, and the lower classes are the shrinking few who cannot yet get on-line. We will, over the next decades, see similar attempts by this generation of old money to throttle the growing power of this global digital middle class.
 
 ## The Counter-Revolution Today
 
@@ -122,7 +122,7 @@ In this chapter, I'll examine how the Internet is changing our society. It's hap
 
 During the Industrial Age, many corporations were born and grew large, becoming what we see today as "old money." This established group tends to view the wilder aspects of the digital economy as a threat. In fact, it often directly tries to control, slow, or reverse technological progress. It's a safe bet that despite its best efforts, every product of the human mind that can be digitized, will be digitized. We've already crossed the digital horizon in many industries and the rest will follow. Whether it be the notes of a new symphony, the design of a new pair of jeans, or the frames of a subway surveillance camera, human culture is ultimately going to end up as one very long number: a stream of bits. This is a historic inevitability.
 
-Knowledge has largely moved on line, with Google acting as the general index and Wikipedia and Facebook as the aggregates of human knowledge. Who you know is as important as what you know. Business has moved on line in many cases: email, VoIP, wikis, mobile phones, video chats, and virtual teams working for virtual companies selling virtual products to virtual customers for virtual money.
+Knowledge has largely moved on-line, with Google acting as the general index and Wikipedia and Facebook as the aggregates of human knowledge. Who you know is as important as what you know. Business has moved on-line in many cases: email, VoIP, wikis, mobile phones, video chats, and virtual teams working for virtual companies selling virtual products to virtual customers for virtual money.
 
 Digital entertainment products -- music, video, games, social networks, pornography -- are the main attractions of the digital society to many people. Art students in the rich world switched to easier "new media" like video in the late 1990's and early part of the twenty-first century. Analog culture -- typewriters, board games, printed books, handwritten letters -- are becoming antiques. Collect those postcards, because your kids won't ever receive one.
 
@@ -190,7 +190,7 @@ In the 1960's, mainframes ruled. These were huge expensive machines run like pri
 
 The first Internet was actually built out of smaller networks like Arpanet, which had a whopping 213 hosts in 1981, and Usenet, which had 940 hosts by 1984. The Internet doubled in size every eighteen months. The Internet Protocol (IP) made it possible to route packets between networks (not just inside single networks) and after Big Brother failed to appear in 1984 (except in Apple adverts), the Internet grew into a worldwide research network that reached most places except Africa.
 
-The Internet's dark side as we know and love it -- spam, viruses, porn sites, download sites, credit card fraud, identity theft, malware -- blessed us with a brief preview in 1988, when the first worm flattened the academic Internet. We had to wait until 1990, when commercial restrictions on Internet use were lifted; and then 1991, when Tim-Berners Lee invented the web at CERN, in Geneva; and finally 1993, when Al Gore found funding for the development of a graphical web browser named Mosaic. Suddenly, any fool with a PC and a modem could get on line, and The Real Internet was born.
+The Internet's dark side as we know and love it -- spam, viruses, porn sites, download sites, credit card fraud, identity theft, malware -- blessed us with a brief preview in 1988, when the first worm flattened the academic Internet. We had to wait until 1990, when commercial restrictions on Internet use were lifted; and then 1991, when Tim-Berners Lee invented the web at CERN, in Geneva; and finally 1993, when Al Gore found funding for the development of a graphical web browser named Mosaic. Suddenly, any fool with a PC and a modem could get on-line, and The Real Internet was born.
 
 It still took Microsoft more than two years to catch on. Rather than recognize the new Internet, it stubbornly rolled out its own "Microsoft Network" that hardly talked to the Internet at all. Windows 95, despite being the most installed software of 1995 after [the game Doom](https://en.wikipedia.org/wiki/Doom_(video_game)#Release), had no Internet functionality whatsoever. When Netscape became the dominant browser, Microsoft realized its mistake, and brought out a patch for Windows 95 and a branded version of Mosaic. It then slowly beat Netscape to death by giving its browser away for free, destroying Netscape's market, and establishing itself as the new bully on the Internet block.
 
@@ -202,7 +202,7 @@ Then the category list got too large to keep updated, and Lycos invented the ful
 
 The dot-com boom bubbled in 1999, driven by the dream of cheap access to millions -- no, billions -- of consumers. Investors threw huge amounts of money at firms whose business plan typically went: "*1. Give people something free. 2. ??? 3. Profit!*" In 2000, the dot-com bubble burst, mainly because big firms had spent so much cash on solving the millennium Y2K "crisis" that they had to freeze all new IT spending for two or three years. Big IT firms' profits fell, investors panicked, the stock market collapsed, and so did most dot-com firms. Most of those companies' business plans were empty anyway.
 
-In 1999, Napster started to let people trade songs on line. It was blatantly illegal and incredibly popular. Napster was almost immediately sued and shut down by lawsuits in 2001, the same year that Wikipedia, the blatantly legal and incredibly popular shared-knowledge collection website, was launched. After shrugging off many years of contempt and ridicule for allowing anyone to edit pages, Wikipedia made Encyclopedia Britannica redundant by around 2005.
+In 1999, Napster started to let people trade songs on-line. It was blatantly illegal and incredibly popular. Napster was almost immediately sued and shut down by lawsuits in 2001, the same year that Wikipedia, the blatantly legal and incredibly popular shared-knowledge collection website, was launched. After shrugging off many years of contempt and ridicule for allowing anyone to edit pages, Wikipedia made Encyclopedia Britannica redundant by around 2005.
 
 Around the Millennium, it was not yet clear that the digital revolution was real. By the late 1990's, the widespread use of computers at work had lowered -- not raised -- productivity. Everyone was playing Solitaire instead of worrying about the coming end of the world. The dot-com crash seemed to prove that brick-and-mortar was still the real world and that "digital mindshare" was a hoax.
 
@@ -210,7 +210,7 @@ From 1999 to 2004, huge swathes of the post-industrial service economy quietly c
 
 Ironically, given their reluctance to innovate and their dependence on captive markets, it was Microsoft that triggered Web 2.0. In 1999 they released a small toolkit called XMLHTTP that let web authors escape the click-driven box of the classic web page. Suddenly pages could update themselves, and started to look like real applications. Google flew with the idea, using it for Gmail and Maps, and "Ajax" was born. Flickr and YouTube, launched in 2004 and 2005, mixed the pretty new Ajax technologies with community and self-created content to create massive hits.
 
-The Internet has continued its explosive takeover of technical, social, economic, and political life. Pretty much every person on the planet is connected -- if not directly, then by immediate proxy. We amplify our lives through Facebook, Twitter, massive multiplayer games, email, chat, Skype. The only people who are not on line fairly regularly with a diverse network of contacts are too poor, too old, too young, or (and I'm speculating here) young men who are so socially isolated as to present a "lone wolf" threat.
+The Internet has continued its explosive takeover of technical, social, economic, and political life. Pretty much every person on the planet is connected -- if not directly, then by immediate proxy. We amplify our lives through Facebook, Twitter, massive multiplayer games, email, chat, Skype. The only people who are not on-line fairly regularly with a diverse network of contacts are too poor, too old, too young, or (and I'm speculating here) young men who are so socially isolated as to present a "lone wolf" threat.
 
 Digital political activism has never been more aggressive, confident, and successful as it confronts abusive cults, authoritarian governments, and dictators, and spreads its [philosophical anarchist vision of the future](https://en.wikipedia.org/wiki/Philosophical_anarchism). Anonymous, the faceless un-organization that grew from image-sharing forums like 4chan.org, is [arguably](http://news.nationalpost.com/2012/05/12/insider-tells-why-anonymous-might-well-be-the-most-powerful-organization-on-earth/) one of the most powerful organizations on earth.
 
@@ -238,7 +238,7 @@ Since the earliest bulletin board systems, humans have been drawn to join and ha
 
 Even though the Internet opened to commercial use only in the early 1990's, it's become an essential tool for all industries. Obviously, communications is a big driver for business. Email is very cheap. We also adopted the Internet because it became an excellent research tool, a cheap way to handle clients' problems (via forums and wikis), a cheap way to do marketing and sales (websites), a cheap distribution channel for digital goods (especially for the software industry), and a cheap backbone for virtual organizations.
 
-In 1996, one of our large clients was shocked when we proposed to make a new application using the web. Their disbelieving response was, roughly, "this could never work." By 1999, everyone was trying to move their business on line, and despite a rough start, most US and European businesses were firmly on line by 2003 or so.
+In 1996, one of our large clients was shocked when we proposed to make a new application using the web. Their disbelieving response was, roughly, "this could never work." By 1999, everyone was trying to move their business on-line, and despite a rough start, most US and European businesses were firmly on-line by 2003 or so.
 
 ### Politics
 
@@ -266,7 +266,7 @@ Let's look at the practical realities of starting a small business today:
 
 * More of our communications infrastructure (websites, email, archival) can be handled by free or low-cost managed services. This means we don't need dedicated computer systems or support staff.
 
-* Resources and information are available on line. This means we don't need staff to do research. For example, we used to need to pay a travel agent to organize travel. Today, we can do it ourselves, so trivially that we forget what a chore this used to be.
+* Resources and information are available on-line. This means we don't need staff to do research. For example, we used to need to pay a travel agent to organize travel. Today, we can do it ourselves, so trivially that we forget what a chore this used to be.
 
 * The cost of creating legal entities is falling, driven by a very competitive US market. Europe still lags behind. Some smaller European countries such as Estonia and Macedonia are positioning themselves as the Delawares of Europe (not to be confused with tax havens like Cyprus, which have as their model secrecy and low taxes rather than simple efficiency).
 
@@ -362,7 +362,7 @@ For a large-scale remix to be successful it must be one hundred percent *self-ho
 
 The remix definitely threatens established interests. More broadly, conflict between old and new is a constant, defining part of the history of the digital society. Sometimes this conflict affects hundreds of millions of people. Nowhere is this more dramatic than in Africa, a continent that the Internet almost totally bypassed.
 
-## The Lost Continent Gets On Line
+## The Lost Continent Gets On-Line
 
 ### Poverty on Purpose
 
@@ -396,17 +396,17 @@ Don't feel complacent as you read this: Africa is just an extreme example of a g
 
 The wired Internet was, until recently, not very different.
 
-As late as 2010, all of sub-Saharan Africa had only four lines to the outside world: the high-capacity fiber-optic cables that criss-cross the world's waters. The first of these was the SAT-3, which ran from Portugal around the West African coast, down to South Africa, then across the Indian Ocean to India. The others -- TEAMs, Seacom, and EASSy -- linked the East African coast to Sudan. EASSy was launched in 2003, and finally came on line in 2008. SAT-3 connects to nine African cities: Dakar, Abidjan, Accra, Cotonou, Lagos, Douala, Libreville, Cacuaco, and Melkbosstrand.
+As late as 2010, all of sub-Saharan Africa had only four lines to the outside world: the high-capacity fiber-optic cables that criss-cross the world's waters. The first of these was the SAT-3, which ran from Portugal around the West African coast, down to South Africa, then across the Indian Ocean to India. The others -- TEAMs, Seacom, and EASSy -- linked the East African coast to Sudan. EASSy was launched in 2003, and finally came on-line in 2008. SAT-3 connects to nine African cities: Dakar, Abidjan, Accra, Cotonou, Lagos, Douala, Libreville, Cacuaco, and Melkbosstrand.
 
-SAT-3 missed about twelve countries on the way, including both Congos. Still, it worked and in theory, the lucky citizens of those cities should have been able to get cheap access to that vast fiber-optic bandwidth ... except that these links to the outside world were built and owned by the same cartels of crooks that ran the ports: the ruling elites of African nations who had no interest in wealth generation unless it was for themselves and their families. The cost of wired Internet when EASSy came on line in 2010 with its 4,720 gigabit capacity was about $5,000 to 10,000 for a 256 kilobit (not kilobyte) link.
+SAT-3 missed about twelve countries on the way, including both Congos. Still, it worked and in theory, the lucky citizens of those cities should have been able to get cheap access to that vast fiber-optic bandwidth ... except that these links to the outside world were built and owned by the same cartels of crooks that ran the ports: the ruling elites of African nations who had no interest in wealth generation unless it was for themselves and their families. The cost of wired Internet when EASSy came on-line in 2010 with its 4,720 gigabit capacity was about $5,000 to 10,000 for a 256 kilobit (not kilobyte) link.
 
 That was about 50 times the price of a similar link in the US, which is not known for its competitive market. In relative terms, if you compare the per-capita gross domestic product (GDP) of Nigeria (one of the SAT-3 countries) against the US, there is a difference of 30 times, so that Internet price ticket is almost *1,500 times higher*.
 
 Think about this for a minute as you surf the Web. Imagine being asked to pay $30,000 per month for an ADSL link that costs you $20 today, and you start to understand what kinds of hurdles ordinary Africans -- who are very aware of what the Internet offers -- have faced as they tried to get hooked into the modern world over the last decade.
 
-Keep this in mind when you see a young black man who has walked and hitched in constant danger from West Africa across the Sahara, and has managed to cross the Mediterranean and make it to safety in Spain or Italy. Before sneering at one more unwanted economic refugee, ask yourself, "*What drives these young men to cross deserts and seas at terrible risk in pursuit of a life of inevitable marginalization in a hostile West?*" Perhaps part of it is simply the desperate need to get on line and become a citizen of the new world.
+Keep this in mind when you see a young black man who has walked and hitched in constant danger from West Africa across the Sahara, and has managed to cross the Mediterranean and make it to safety in Spain or Italy. Before sneering at one more unwanted economic refugee, ask yourself, "*What drives these young men to cross deserts and seas at terrible risk in pursuit of a life of inevitable marginalization in a hostile West?*" Perhaps part of it is simply the desperate need to get on-line and become a citizen of the new world.
 
-Lacking data, it's impossible to know how important getting on line is to young Africans. Speaking from personal experience, I'd place it about as high as getting an education, spouse, house, and family.
+Lacking data, it's impossible to know how important getting on-line is to young Africans. Speaking from personal experience, I'd place it about as high as getting an education, spouse, house, and family.
 
 The only competition to expensive fixed Internet used to be the "very small aperture terminal" (VSAT) satellite system. In 2010, the cost of a VSAT package was about $8,500 for setup and equipment, and $5,000 for a 128KB (combined up and down bandwidth) link per month, surprisingly close to the SAT-3 costs. You could get VSAT if you were a government official or wealthy businessman. The common people had cybercafé clusters where several hundred people shared one VSAT link. And these were the lucky ones.
 
@@ -416,7 +416,7 @@ In 2011 and 2012, [the West African Cable System (WACS) and ACE cables](http://w
 
 What happened wasn't just improvements in cable technology. The old shortage wasn't a technical problem so much as a core feature of a centuries-old political system. WACS, ACE, and SAex became possible because the rules changed, and the iron stranglehold maintained by the old elites was broken. It happened during the first decade of this century, and it just took a few years for wired Internet to catch up.
 
-How the monopoly of power in Africa died and freed a billion Africans to come on line is largely a hidden story. For outsiders, it was never clear why things were so bad to start with. For insiders, the changes feel inevitable and it's simply a question of catching up with the rest of the world.
+How the monopoly of power in Africa died and freed a billion Africans to come on-line is largely a hidden story. For outsiders, it was never clear why things were so bad to start with. For insiders, the changes feel inevitable and it's simply a question of catching up with the rest of the world.
 
 Yet for me, it makes an interesting and happy story with a strong positive message for the future. A continent of old, cynical, and murderous regimes that made poverty their business is transforming itself. This didn't happen by foreign pressure, nor by the hand of God, nor by the process of democracy, nor by building better institutions, nor by popular uprising. It happened simply thanks to the market and cost gravity, which shifted the balance of power away from the coastal elites and their foreign business partners.
 
@@ -434,7 +434,7 @@ Here are some interesting statistics for Africa, [calculated by the Internationa
 
 This is a stunning development with deep social, economic, and political impact.
 
-We can break it into two periods. The First Wave was roughly from 2000 to 2010 and brought a half-billion Africans the freedom to speak to each other across any distance. The Second Wave covers roughly 2010 to 2020, and will bring a billion Africans on line and into the global Internet.
+We can break it into two periods. The First Wave was roughly from 2000 to 2010 and brought a half-billion Africans the freedom to speak to each other across any distance. The Second Wave covers roughly 2010 to 2020, and will bring a billion Africans on-line and into the global Internet.
 
 I was talking to a trade union organizer in Lomé, Togo during the crest of the First Wave. She explained how now, if there was a strike at one mine, say in Namibia, news would spread to all mines owned by the firm, across the continent, and workers could shut down operations in fifty mines the next day.
 
@@ -464,7 +464,7 @@ Arguably, African mobile phone credits were the first widely used virtual curren
 
 ### The Second Wave
 
-Low-cost "Shenzen" electronics producers in China developed very fast production lines based on the open sharing of knowledge. That is, they publish the bill of materials (BOM) for their phones and other gadgets so that others can build modified versions. In return, those others also publish their BOMs. It's a nice remix that let the Shenzen firms shift very rapidly. Ironically, for a community based on trust, their main designs are imitations of market leaders, and Shenzen firms were infamous for making cheap and nasty iPhone clones.
+Low-cost "Shenzen" electronics producers in China developed very fast production-lines based on the open sharing of knowledge. That is, they publish the bill of materials (BOM) for their phones and other gadgets so that others can build modified versions. In return, those others also publish their BOMs. It's a nice remix that let the Shenzen firms shift very rapidly. Ironically, for a community based on trust, their main designs are imitations of market leaders, and Shenzen firms were infamous for making cheap and nasty iPhone clones.
 
 Until 2009, these firms lacked decent operating software for their phones. Then Google bought Android and turned it into a realistic option for smartphones.
 
@@ -472,7 +472,7 @@ I'd argue that the developing world was only able to afford smartphones thanks t
 
 For Africa, the combination of cheap Chinese handsets running a real Internet-capable mobile phone operating system was explosive. As I explained, the First Wave already built out and tested the infrastructure, so it was relatively easy to upgrade this to better and faster technologies. Cost gravity means new mobile broadband equipment is cheaper and better than older 2G equipment ever was.
 
-I predict that by 2020, a billion Africans will be on the Internet thanks to mobile broadband and cheap smartphones running Android. We are heading towards a fully connected planet, in which 99% of those who can spell their own name will be computer-literate, on line 24/7, and tied into a global society that never sleeps, never stops thinking, never forgets, and never forgives.
+I predict that by 2020, a billion Africans will be on the Internet thanks to mobile broadband and cheap smartphones running Android. We are heading towards a fully connected planet, in which 99% of those who can spell their own name will be computer-literate, on-line 24/7, and tied into a global society that never sleeps, never stops thinking, never forgets, and never forgives.
 
 ### Power to the People
 
@@ -502,7 +502,7 @@ The event-driven lifestyle is so addictive -- because it lets us be much more pr
 
 One surprising and good result of this is that many more people participate actively in society than ever before. It used to be hard to get involved beyond our physical world, that is, people we could meet face-to-face, places we could visit in person. Now it's trivially easy. The costs of publishing a work used to be a barrier to all except the lucky few. Being "published" used to be a sign of success. Today, there is no barrier except willpower and time. It means we have a lot more rubbish then ever before, and also a lot more genius. Overall, the digital society is many orders of magnitude smarter and more interesting than the industrial society ever was.
 
-Society used to be physical, based around where we lived and worked. Today, that is becoming less important, or at least more balanced. Our real cities no longer need to act as hubs of industry or business; they can instead become places to live in. And on line, we have created new virtual cities where people spend much of their lives making deep emotional ties that can last a lifetime.
+Society used to be physical, based around where we lived and worked. Today, that is becoming less important, or at least more balanced. Our real cities no longer need to act as hubs of industry or business; they can instead become places to live in. And on-line, we have created new virtual cities where people spend much of their lives making deep emotional ties that can last a lifetime.
 
 It used to be very hard to find other people with the same interests as us. Now, a five-minute walk through the Internet finds friendly people around the globe who share our passions, no matter how esoteric. This often lets us turn passions into professions. More and more of us have built our own jobs doing things we deeply enjoy, thanks to the audience and market that the Internet brings us.
 
@@ -512,7 +512,7 @@ There is a whole dark science of turning intelligent individuals into accepting 
 
 Happily, in my experience, this process also works in reverse. When we can construct our own lives, we generally become happier, more productive, and more discerning. The easy dogmas of the past are broken down and a form of wisdom based on uncovering objective truths takes their place. Like planting a forest tree by tree, it's a slow and almost invisible process and one that is, for me, absolutely key to understanding the digital society. Freedom -- which I define as the capacity to do interesting and useful things with other people -- makes us better people. And the digital society is truly a society of freedom.
 
-When we spend a lot of time on line, we can know many more people than ever before. Our social networks used to be small, limited by our memories for names and faces. Today, our mobile phone and email contact lists are vast, and we can get to know hundreds -- even thousands -- of people on a first name basis.
+When we spend a lot of time on-line, we can know many more people than ever before. Our social networks used to be small, limited by our memories for names and faces. Today, our mobile phone and email contact lists are vast, and we can get to know hundreds -- even thousands -- of people on a first name basis.
 
 So digital society is more connected than the old industrial society, and its members are more mobile, more interested, better informed, more critical and independent, and more able to react quickly to new events and opportunities. Planning and habit are redundant; instead, we keep our phones switched on, which beep when we get mail. Our social reaction time has dropped from weeks and days to minutes and seconds. This happens both on-line, with new communities springing up rapidly around new challenges and opportunities, and in the real world, with mobile crowds responding rapidly to events in the streets.
 
@@ -552,7 +552,7 @@ Some decades after social and economic changes, and no less disturbing to the ol
 
 Like many visions of the future, these early attempts were not inaccurate so much as set to a totally unrealistic time scale. The digital society, if it wanted freedom, would have to wrest it by force from the clenched claws of old power, just as every new society has had to do since the dawn of time. Those who set up virtual countries, complete with embassies and passports, were making a poetic statement, not trying seriously to get a seat at the UN (unless they were mad). People *were* naive enough in 1999 to invest real money in businesses like Napster that traded copyrighted materials in broad daylight, so to speak, under the assumption that the laws of the land did not apply to the Internet.
 
-Around 2000, global content businesses -- music, TV, cinema, news -- looked at the Internet and saw a vast new world to conquer, sadly already squatted by pirates and hippies. The large and growing digital economy was consuming entire sections of the traditional economy. Some firms moved on line; very few got it right. Most firms just sent in the lobbyists and the lawyers.
+Around 2000, global content businesses -- music, TV, cinema, news -- looked at the Internet and saw a vast new world to conquer, sadly already squatted by pirates and hippies. The large and growing digital economy was consuming entire sections of the traditional economy. Some firms moved on-line; very few got it right. Most firms just sent in the lobbyists and the lawyers.
 
 Two great clashes perhaps define the digital society's passing into adulthood. The first of these was the copyright debate, most notably the total lack of respect for conventional copyright law that people demonstrated by exchanging music, TV programs, and films in great numbers. The second was the patent debate, in which the industrial-age patent industry tried to move into software, successfully in the US and with partial success in Europe.
 
@@ -618,7 +618,7 @@ According to Surowiecki, the wise crowd makes fast and accurate judgments, organ
 
 There are good explanations for the stupidity of many crowds, and I'll explore this later, in “Broken Societies”. Few people have tried to explain group stupidity in terms of collective wisdom. And without a clear understanding of function, how can we hope to understand dysfunction?
 
-So the apparent failure of collective intelligence convinces many that this is just a fancy theory that fails in practice. And yet if we look at on-line communities, for example those that form around popular open source software projects like my company [ZeroMQ](http://zeromq.org), we see groups that look a lot like Surowiecki's wise crowds. While it may be hard to spot wise crowds in the physical world, they seem to be the dominant model on line. Through trial and error, digital society has rediscovered the principles of wise crowds and adopted them as its core operating principles.
+So the apparent failure of collective intelligence convinces many that this is just a fancy theory that fails in practice. And yet if we look at on-line communities, for example those that form around popular open source software projects like my company [ZeroMQ](http://zeromq.org), we see groups that look a lot like Surowiecki's wise crowds. While it may be hard to spot wise crowds in the physical world, they seem to be the dominant model on-line. Through trial and error, digital society has rediscovered the principles of wise crowds and adopted them as its core operating principles.
 
 Digital society's solution to the ancient problem of corrupt authority is elegant and successful. There are literally millions of communities, each backed by the authority of its founders. Citizens of the digital society choose freely which authorities to respect and which to ignore. The core trick is to accept authority without giving it the "right to command."
 
@@ -650,7 +650,7 @@ We learned two broad things. First, a cult is the flipside of a wise crowd. The 
 
 The second thing is that just reversing the cult techniques isn't enough. It does make a good start to promote individual strength and creativity, yet that is not the same as building a solid community. For that, you need more explicit patterns. Define a powerful mission to attract newcomers. Make it really easy for people to get involved. Embrace argument and conflict; it's where good ideas come from. Delegate systematically, and create competition. Work with volunteers more than employees. Get diversity and scale. Make people own the work; don't let the work own the people.
 
-It is of course much cheaper and faster to do large-scale experiments with people on line than in the real world. To prove or disprove a recipe for building a community, all you have to do is create a space, define some rules for play, announce it to the world, and sit back and watch.
+It is of course much cheaper and faster to do large-scale experiments with people on-line than in the real world. To prove or disprove a recipe for building a community, all you have to do is create a space, define some rules for play, announce it to the world, and sit back and watch.
 
 My largest and most successful experiment to date, which I'll refer to often in this chapter, is the [ZeroMQ software community](http://zeromq.org). It has grown from a team in a Slovak cellar to a global community, and is used by thousands of organizations. Above all, ZeroMQ is entirely built and steered by its community: over a hundred contributors to the core library, and a hundred other projects around that.
 
@@ -1731,7 +1731,7 @@ Facebook and Twitter are a little passé today. For one thing, they are vulnerab
 
 Real communities spread far wider than the websites we visit. It was not a Facebook revolution, it was an Internet revolution. It is becoming clear to all sides that the primary challenge to the naked villainy of traditional politics is this new on-line society and its activist communities being able to arrange for ‘real time’ events through on-line communications; in other words, being able to organize themselves..
 
-The real-world protests we see emerging in cities around the world are not random. In Rio today and tomorrow in Glasgow, these are not chaotic events driven by local crises or city politics. They are the fruits of an unseen global network, like mushrooms emerging through the forest floor. For every individual who went to an Occupy Wall Street event, tens of thousands took part on line, even if their involvement was limited to sharing photos of some event.
+The real-world protests we see emerging in cities around the world are not random. In Rio today and tomorrow in Glasgow, these are not chaotic events driven by local crises or city politics. They are the fruits of an unseen global network, like mushrooms emerging through the forest floor. For every individual who went to an Occupy Wall Street event, tens of thousands took part on-line, even if their involvement was limited to sharing photos of some event.
 
 So the challenge for the industrial political elite is how to map and understand these networks, and how to control them or break them. Some dream of banning the Internet, yet that would be like switching off the power grid. When the Egyptian regime in fact [tried this in 2011](http://gizmodo.com/5746121/how-egypt-turned-off-the-internet), it only intensified protests. It did not stop them.
 
@@ -1739,7 +1739,7 @@ Nationwide firewalls are another "cut off your nose to spite your face" strategy
 
 China has censored its Internet access for a long time, however that filter is leaky, and has to be. If you actually cut your citizens off from the outside world, they can't do business, and your economy will suffer. This is the North Korea option, which only really works in an already poor country. Any interference in the smooth running of the global Internet would bring the wrath of big money down on the hapless idiot who tried it.
 
-Let's look at some other strategies that [different authorities are using](https://en.wikipedia.org/wiki/Internet_censorship_by_country) to weaken or reduce our freedom to organize on line without being too obvious about it:
+Let's look at some other strategies that [different authorities are using](https://en.wikipedia.org/wiki/Internet_censorship_by_country) to weaken or reduce our freedom to organize on-line without being too obvious about it:
 
 * *An emerging censorship*, usually on the basis of child pornography, obscenity, terrorism, or copyright and trademark violations. There are different approaches. Among developed countries, Australia and South Korea (to my knowledge) maintain blacklists of websites that Internet users cannot access. These were pushed to "save the children": an easy sell to certain kinds of adults. In both cases, the blacklists grew wider and wider.
 
@@ -1867,7 +1867,7 @@ In technology, the free software sector, which effectively regulates a free-shar
 
 While copyright and patent law can be very profitable for the owners, those profits are always taken at a larger cost to society. Economists have difficulty showing this, yet it's not for lack of data. Rather, working on this topic is a dangerous career move. Economists, like most ordinary people, have to feed their families and pay their mortgages. Very few have done extensive research into the real costs of the copyright and patent systems. The European Patent Office makes a habit of buying up economists who start to look at the economics of the patent system.
 
-I'll explore patent and copyright in more detail in “Wealth of Nations”. For now, I want to look at how they affect our freedom to share knowledge on line, why that matters, and what I think the outcome will be.
+I'll explore patent and copyright in more detail in “Wealth of Nations”. For now, I want to look at how they affect our freedom to share knowledge on-line, why that matters, and what I think the outcome will be.
 
 Thanks to the music and movie industries, "sharing" has been turned into an accusation and even a criminal offense in many countries. Among the hip and leading-edge, the "Would you steal a car?" propaganda clip is a joke. "Would you download a car to your 3D printer?" they ask, mocking the bookseller's claim that copying culture is a form of theft. Yet for the majority of people, the threat of disconnection, prison, or massive fines because someone shared a few songs by accident on the family WiFi is real and frightening. The outcome of this is that, while people are confident in sharing photos of their cats and kids, they're less keen on stepping outside the walled gardens that Facebook and its ilk provide.
 
@@ -1905,7 +1905,7 @@ In this chapter, we looked at freedom as "being able to do interesting things wi
 
 Privacy isn't totally dead yet, although we are very close. It's happened rapidly, over the last fifteen years or so, as the political and technical barriers that stop others from monitoring us have fallen away.
 
-Every credit card purchase we make is recorded. Where, when, what, how much. So is everything we buy at the supermarket using our loyalty card. So is every trip we make by air, or by train and bus, if we use an electronic card to travel, or to pay. So are details of every film we watch or rent, if plastic comes into the picture somewhere. Every book we check out from a library, or buy on line, is recorded and stored in a database somewhere.
+Every credit card purchase we make is recorded. Where, when, what, how much. So is everything we buy at the supermarket using our loyalty card. So is every trip we make by air, or by train and bus, if we use an electronic card to travel, or to pay. So are details of every film we watch or rent, if plastic comes into the picture somewhere. Every book we check out from a library, or buy on-line, is recorded and stored in a database somewhere.
 
 Every website and page we visit, when, for how long, and where we came from. What emails we send, to whom, and what we say. Every search we make, every post and comment on Facebook, Twitter, Google+. In on-line games, every chat we send, every button we press. On Skype, who we call or chat with, when, and what we say.
 
@@ -1943,7 +1943,7 @@ Since politics said "yes" to the spies years ago, the limiting factor has been t
 
 How much data are we talking about?
 
-Over time our use of communications has shifted significantly. In 2000, it was mainly mobile phone calls. In 2013, it's far fewer phone calls, and a lot more chats and text messages. We also produce and consume a lot more content in the form of photos, videos, documents, and so on. There are also more of us on line.
+Over time our use of communications has shifted significantly. In 2000, it was mainly mobile phone calls. In 2013, it's far fewer phone calls, and a lot more chats and text messages. We also produce and consume a lot more content in the form of photos, videos, documents, and so on. There are also more of us on-line.
 
 The vast majority of Internet traffic is, however, irrelevant to the spies, or already stored by cloud services. For example when you watch a YouTube video, does the Spider need to store the video stream? It only needs the YouTube URL, and metadata such as when you watched, when you pressed play and pause, what site you came from, and so on. Similarly for those photos you upload to Flickr. All the Spider needs is a guarantee from Yahoo! that it will store them forever.
 
@@ -2498,7 +2498,7 @@ Two thousand years ago, we invented clean water, hot baths, social security, hig
 
 Two hundred and fifty years ago, we invented the steam engine and decided it was more profitable to build factories than grow sugar. We invented "intellectual property" on the basis that if we didn't own the ideas in our minds, we would stop thinking.
 
-About five decades ago, we invented the Internet as a few megabytes of technical protocols anyone could implement for free. The notion of open and free protocols was radical at the time. By the end of the twentieth century, investors were pouring billions into businesses whose only model was "spend money." For many people, the main reason to go on line was to download stuff for free and annoy the music and movie industries. Eventually, most people went on line just to meet and talk with other folks, building huge social networks of all shapes and sizes.
+About five decades ago, we invented the Internet as a few megabytes of technical protocols anyone could implement for free. The notion of open and free protocols was radical at the time. By the end of the twentieth century, investors were pouring billions into businesses whose only model was "spend money." For many people, the main reason to go on-line was to download stuff for free and annoy the music and movie industries. Eventually, most people went on-line just to meet and talk with other folks, building huge social networks of all shapes and sizes.
 
 Some of digital society's most valuable assets are those social networks. You might think they're owned by the businesses that operate them. You're wrong.
 
@@ -2807,7 +2807,7 @@ The industrial economy had a very clear definition of money: legal tender, issue
 
 Often, the world had a "reserve currency" that was considered the most stable and convertible, and held by governments as part of their foreign exchange reserves. For a long time, this was the British Pound Sterling. Then in the middle of the last century, the US Dollar became a significant reserve currency, and at the start of this century, the Euro joined. The government behind a reserve currency tends to use it to create debt, which then causes the currency to deflate and the world to switch to another.
 
-The Internet has been searching for a reserve currency, indeed any currency that could be used to buy goods and services on line, for a long time. The digital economy presents a unique set of challenges for security and privacy.
+The Internet has been searching for a reserve currency, indeed any currency that could be used to buy goods and services on-line, for a long time. The digital economy presents a unique set of challenges for security and privacy.
 
 ### Credit Cards
 
@@ -2890,9 +2890,9 @@ I think we have vastly underestimated the value of the digital economy. I tried 
 
 Is it possible to calculate the gross Internet product (GIP) to compare to the gross world product (GWP)? We can count the assets created in all the virtual worlds, as it's clear that people clearly assign value to them or else they would not create black markets, nor pay for "Likes."
 
-Let's assume that two billion people regularly toil on line, spending 20 hours a week in constructive work (not just flipping through YouTube channels). The Organisation for Economic Co-operation and Development (OECD) average GDP is $35,000 per capita. Let's assume that the on-line society is as productive as the OECD average. The ratio is probably much more than one because the digital economy is so much larger and more efficient. However, this suggests that our investment in on-line assets is around half of our investment in the real world, which seems to match empirical observations.
+Let's assume that two billion people regularly toil on-line, spending 20 hours a week in constructive work (not just flipping through YouTube channels). The Organisation for Economic Co-operation and Development (OECD) average GDP is $35,000 per capita. Let's assume that the on-line society is as productive as the OECD average. The ratio is probably much more than one because the digital economy is so much larger and more efficient. However, this suggests that our investment in on-line assets is around half of our investment in the real world, which seems to match empirical observations.
 
-This gives us a GIP of $35 trillion a year. When we hit four billion Internet citizens, the GIP will start to exceed the whole industrial economy. (Actually, since GDP includes all Internet transactions, the industrial economy is already smaller than $70 trillion.) I think this estimate is low, and that the real productivity on line is both higher than in the real world, and growing faster than we think. However, I'm not an economist. Perhaps a proper economist will find better figures.
+This gives us a GIP of $35 trillion a year. When we hit four billion Internet citizens, the GIP will start to exceed the whole industrial economy. (Actually, since GDP includes all Internet transactions, the industrial economy is already smaller than $70 trillion.) I think this estimate is low, and that the real productivity on-line is both higher than in the real world, and growing faster than we think. However, I'm not an economist. Perhaps a proper economist will find better figures.
 
 One claim that I am making that you might have missed is that our on-line productivity is not dependent on where we live. That is, a poor person invests just as much as a wealthy person. This means that for poor countries, the digital economy is much more powerful a shift than in wealthy countries.
 
@@ -2914,7 +2914,7 @@ The trillions hoarded by the mega-rich cannot buy friends on the Internet. It ca
 
 ## Conclusions
 
-In this chapter, I've looked at the digital economy and its assets, bouncing off copyrights and patents in the process. I came to the perhaps raving mad conclusion that the gross Internet product (GIP) is already about half the size of the global world product (GWP), the total GDP of all countries on earth. More insanely, I'm claiming that by 2030, when 10 billion people will be spending most of their waking time on line, GIP will be 10 to 15 times today's GWP.
+In this chapter, I've looked at the digital economy and its assets, bouncing off copyrights and patents in the process. I came to the perhaps raving mad conclusion that the gross Internet product (GIP) is already about half the size of the global world product (GWP), the total GDP of all countries on earth. More insanely, I'm claiming that by 2030, when 10 billion people will be spending most of their waking time on-line, GIP will be 10 to 15 times today's GWP.
 
 This explosion in assets is both an existential threat to the Para-state, and the answer to its excesses. As I've written, political power comes from economic power. As the digital economy's power exceeds and then eclipses the old "real" money of the Para-state, the political conflicts will increase, alliances will be formed, and we will see the outbreak of a real world-wide conflict, ending in either the death of the Digital Society, or the Para-state. The war has been going on for some time now, and this is what we'll examine in the next chapter.
 
@@ -3129,7 +3129,7 @@ Then all hell breaks loose, in a slow, shambolic kind of way:
 
 * March 2000: Frankel and Pepper release Gnutella, capable of Napster-style sharing of any files. Ironically, Gnutella is inadvertently released by Nullsoft, just acquired by AOL, which has just merged with Times-Warner, a large player in the recording industry.
 
-* May 2000: MP3.com settles with major labels for $200 million for its my.MP3.com service which let users store their CDs on line. A year later Vivendi Universal buys MP3.com for $372 million, and then shuts down the service.
+* May 2000: MP3.com settles with major labels for $200 million for its my.MP3.com service which let users store their CDs on-line. A year later Vivendi Universal buys MP3.com for $372 million, and then shuts down the service.
 
 * February 2001: verified Napster user count hits 26.4 million. The lawsuits against Napster also mount and users start to think about alternatives.
 
@@ -3147,7 +3147,7 @@ Then all hell breaks loose, in a slow, shambolic kind of way:
 
 * September 2005: the WinMX P2P network, big in Japan, is shut down under threat of legal action. WinMX refugees flood to BitTorrent networks, which have expanded to cover TV shows, movies, and computer software.
 
-* May 2006: The Pirate Bay's hardware servers are raided by Swedish police following allegations of copyright infringement. The Pirate Bay is back on line in less than 72 hours, accompanied by a public and media backlash against the Swedish Government's actions.
+* May 2006: The Pirate Bay's hardware servers are raided by Swedish police following allegations of copyright infringement. The Pirate Bay is back on-line in less than 72 hours, accompanied by a public and media backlash against the Swedish Government's actions.
 
 * August 2006: some Internet service providers (ISPs) report that BitTorrent file transfers accounts for 50% their traffic, and start to block that traffic. Users switch to new encrypted protocols. ISP block those too. Programmers look for other ways to disguise BitTorrent traffic.
 
@@ -3443,7 +3443,7 @@ Looking at the US today, I seriously doubt that it can recover by itself. US soc
 
 One of the techniques that I didn't discuss in “New Digital Cities” was negativity. We learned, in our public action campaigns against software patents, that few things drive people as powerfully as a real enemy, a sharp threat knocking on the doorstep. We used to say, "positive campaigns don't work." It's a lesson I don't teach, however. People have real enemies don't need me to tell them to about it, and those without real enemies should not be inventing them, to try to motivate people. That leads to self-deceit, and ultimate failure.
 
-However, even paranoiacs can have real enemies. The Spider is emerging, like the Kaiju rising out of the sea, and is aiming to tear down our digital cities. Our global digital society is facing a Bad Guy of massive proportions. And what happens on line resonates through all society. The movie "Pacific Rim" from Guillermo del Toro is wonderfully trashy, yet it frames perfectly the existential threat that we face as a civilized society trying to build a better future.
+However, even paranoiacs can have real enemies. The Spider is emerging, like the Kaiju rising out of the sea, and is aiming to tear down our digital cities. Our global digital society is facing a Bad Guy of massive proportions. And what happens on-line resonates through all society. The movie "Pacific Rim" from Guillermo del Toro is wonderfully trashy, yet it frames perfectly the existential threat that we face as a civilized society trying to build a better future.
 
 ## One Planet, One Future
 
