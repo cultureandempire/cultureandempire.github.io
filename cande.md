@@ -362,7 +362,7 @@ For a large-scale remix to be successful it must be one hundred percent *self-ho
 
 The remix definitely threatens established interests. More broadly, conflict between old and new is a constant, defining part of the history of the digital society. Sometimes this conflict affects hundreds of millions of people. Nowhere is this more dramatic than in Africa, a continent that the Internet almost totally bypassed.
 
-## The Lost Continent Gets On Line
+## The Lost Continent Gets On-Line
 
 ### Poverty on Purpose
 
