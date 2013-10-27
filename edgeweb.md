@@ -1,4 +1,4 @@
-# The Edgeweb
+# The Edge Web
 
 The spy state cannot be legislated away. We will either build a spy-proof Internet, or accept to become slaves.
 
