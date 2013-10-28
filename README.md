@@ -1,8 +1,9 @@
-# Culture & Empire - Digital Revolution
+# Culture & Empire
+# Digital Revolution
+# Pieter Hintjens
 
-Online book reader
+Free to share and remix under CC-BY-SA-3.0</p>
 
-* [Culture & Empire - Digital Revolution](http://cultureandempire.com/index.html) by Pieter Hintjens
-* [A Few Notes on the Culture](http://cultureandempire.com/culture.html) by Iain M Banks
-* [The Edge Web](http://cultureandempire.com/edgeweb.html) by Pieter Hintjens
+[Culture & Empire: Digital Revolution](cande.html) [-- single page](html/cande.html) [-- PDF (draft)](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/pdf/cande-2013-10-26.pdf)
 
+[Iain M Banks' A Few Notes on the Culture](culture.html)[-- single page](html/culture.html)

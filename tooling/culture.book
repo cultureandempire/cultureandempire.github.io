@@ -5,6 +5,9 @@ COPYRIGHT=Copyright 1994 Iain M Banks
 LICENSE=Commercial use only by permission
 COMMENT=Other uses, distribution, reproduction, tearing to shreds etc are freely encouraged provided the source is acknowledged
 
+#   Filename base for all input/output
+FILENAME=culture
+
 #   Tracker token and website for Google Analytics
 GATRACKER=
 GAWEBSITE=
@@ -12,8 +15,3 @@ GAWEBSITE=
 #   GitHub integration
 GITNAME=https://github.com/cultureandempire/cultureandempire.github.io
 
-#   Output goes to a single HTML file
-OUTPUT=../culture.html
-
-#   Specify as many input files as you want
-../culture.md

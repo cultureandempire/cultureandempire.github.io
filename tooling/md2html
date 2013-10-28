@@ -1,6 +1,6 @@
 #! /usr/bin/perl
 #
-#   Syntax: ./md2reveal bookfile
+#   Syntax: ./md2html bookfile
 #
 #   Assume all work happens in parent directory
 $docdir = "..";
@@ -17,11 +17,12 @@ while (<>) {
     }
 }
 if ($filename) {
-    open OUTPUT, ">$docdir/$filename.html" || die "can't create $docdir/$filename.html: $!";
-    $page_major = 1;
-    process_template ("rvl_header");
+    open OUTPUT, ">$docdir/html/$filename.html"
+        || die "can't create $docdir/html/$filename.html: $!";
+    process_template ("htm_header");
     process_source ("$docdir/$filename.md");
-    process_template ("rvl_footer");
+    $symbols {"TOC"} = $toc;
+    process_template ("htm_footer");
 }
 0;
 
@@ -33,24 +34,10 @@ sub escape {
     return $_;
 }
 
-sub process_template {
-    local ($filename) = @_;
-    open INPUT, "$filename.tpl" || die "Can't read $filename.tpl: $!";
-    while (<INPUT>) {
-        chop while /\s$/;
-
-        #   Substitute variables
-        while (/%([A-Z0-9]+)%/) {
-            $_ = $`.$symbols {$1}.$';
-        }
-        writeln ($_);
-    }
-}
-
 sub process_source {
     local ($filename) = @_;
-    @lines = `./paginate $filename`;
-    foreach (@lines) {
+    open INPUT, $filename || die "can't read $filename: $!";
+    foreach (<INPUT>) {
         chop while /\s$/;
         $_ = escape ($_);
 
@@ -69,27 +56,16 @@ sub process_source {
         #   Replace double hyphens with em dashes
         s/--/—/g;
 
-        if (/~PAGE~/) {
-            if ($in_list) {
-                close_page ();
-                open_page ();
-                require_list ($cur_list);
-            }
-            else {
-                close_page ();
-                open_page ();
-            }
-            $page_minor++;
-        }
-        elsif (/^#\s+/) {
+        if (/^#\s+/) {
             close_list ();
-            open_chapter ($');
-            $toc = "";
+            $anchor++;
+            writeln ("<a name=\"toc-$anchor\"></a>");
+            writeln ("<h1>$'</h1>");
+            $toc .= "<p class=\"toc\"><a href=\"#toc-$anchor\">$'</a></p>\n";
         }
         elsif (/^##\s+/) {
             close_list ();
             writeln ("<h2>$'</h2>");
-            $toc .= "$' - #/$page_major/$page_minor ";
         }
         elsif (/^###\s+/) {
             close_list ();
@@ -127,39 +103,20 @@ sub process_source {
             writeln ("<p>$_</p>");
         }
     }
-    close_chapter ();
-    print "$page_count pages\n";
 }
 
-sub open_chapter {
-    local ($title) = @_;
-    close_chapter () if $chapter_open;
-    writeln ("<section>");
-    writeln ("<section>");
-    writeln ("<h1>$title</h1>");
-    $chapter_open = 1;
-    $chapter_title = $title;
-    $page_major++;
-    undef $page_minor;
-}
+sub process_template {
+    local ($filename) = @_;
+    open INPUT, "$filename.tpl" || die "Can't read $filename.tpl: $!";
+    while (<INPUT>) {
+        chop while /\s$/;
 
-sub close_chapter {
-    close_page ();
-    # print "$toc\n";
-    writeln ("</section>");
-    $chapter_open = 0;
-}
-
-sub close_page {
-    $page_count++;
-    close_list ();
-    writeln ("<p class=\"footer\">$page_count</p>");
-    writeln ("</section>\n");
-}
-
-sub open_page {
-    writeln ("<section>");
-    writeln ("<p class=\"header\">$chapter_title</p>");
+        #   Substitute variables
+        while (/%([A-Z0-9]+)%/) {
+            $_ = $`.$symbols {$1}.$';
+        }
+        writeln ($_);
+    }
 }
 
 sub require_list {

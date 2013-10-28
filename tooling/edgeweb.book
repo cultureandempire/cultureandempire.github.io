@@ -5,15 +5,12 @@ COPYRIGHT=Copyright © 2013 Pieter Hintjens
 LICENSE=Free to share and remix under CC-BY-SA-3.0
 COMMENT=Thanks for tweeting about it -- #cultureandempire
 
+#   Filename base for all input/output
+FILENAME=edgeweb
+
 #   Tracker token and website for Google Analytics
 GATRACKER=UA-623476-18
 GAWEBSITE=cultureandempire.com
 
 #   GitHub integration
 GITNAME=https://github.com/cultureandempire/cultureandempire.github.io
-
-#   Output goes to a single HTML file
-OUTPUT=../edgeweb.html
-
-#   Specify as many input files as you want
-../edgeweb.md
