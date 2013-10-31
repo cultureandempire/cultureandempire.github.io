@@ -1,9 +1,9 @@
 AUTHOR=Pieter Hintjens
-TITLE=Culture & Empire
-SUBTITLE=The Edge Net
+TITLE=The Edge Net
+SUBTITLE=A First Design Proposal
 COPYRIGHT=Copyright © 2013 Pieter Hintjens
 LICENSE=Free to share and remix under CC-BY-SA-3.0
-COMMENT=Thanks for tweeting about it -- #cultureandempire
+COMMENT=Thanks for tweeting about it -- #edgenet
 
 #   Filename base for all input/output
 FILENAME=edgenet
