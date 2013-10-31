@@ -1,12 +1,12 @@
 AUTHOR=Pieter Hintjens
 TITLE=Culture & Empire
-SUBTITLE=The Edge Web
+SUBTITLE=The Edge Net
 COPYRIGHT=Copyright © 2013 Pieter Hintjens
 LICENSE=Free to share and remix under CC-BY-SA-3.0
 COMMENT=Thanks for tweeting about it -- #cultureandempire
 
 #   Filename base for all input/output
-FILENAME=edgeweb
+FILENAME=edgenet
 
 #   Tracker token and website for Google Analytics
 GATRACKER=UA-623476-18

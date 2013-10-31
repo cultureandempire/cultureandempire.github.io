@@ -2,8 +2,8 @@
 
 ./md2reveal cande.book
 ./md2reveal culture.book
-./md2reveal edgeweb.book
+./md2reveal edgenet.book
 
 ./md2html cande.book
 ./md2html culture.book
-./md2html edgeweb.book
+./md2html edgenet.book
