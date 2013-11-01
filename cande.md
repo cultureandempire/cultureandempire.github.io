@@ -3102,61 +3102,11 @@ The old men of the music industry confronted the upstarts somewhat like the Tita
 
 Here are the headlines of the sinking. It all starts when Sony and Phillips release the audio CD format, which is a digital audio disc, and a little later, CD-ROM, which is a format for data. An enterprising Taiwanese CR-ROM maker, whose name I forget, realizes they can make the audio data available to applications with a trivial pin-out. Connect a little cable to your sound card, and suddenly you can read the CD data on your computer! 650 megabytes of raw audio data, larger than most hard drives at the time.
 
-Then all hell breaks loose, in a slow, shambolic kind of way:
+Then all hell breaks loose, in a slow, shambolic kind of way. We saw the Fraunhofer Society's release of MP3 encoders in July 1994. We saw the rapid birth and death of Napster (June 1999-July 2001), MP3.com (July 1999-May 2001), Gnutella, FastTrack, WinMX, AudioGalaxy, and AllofMP3, to name a few, finally landing us with BitTorrent as the uncaring iceberg.
 
-* July 1994: the Fraunhofer Society releases the first MP3 implementation, which lets people compress music by 10-15 times, clearing the way for saving CD music on home computers' small hard disks. People slowly realize they can encode their precious CDs as digital files.
+Over a decade, copyright law shifts gradually, country by country, from a civil offense, to a criminal one. The powers of the State gradually come into play. The police seize servers, arrest operators, bring down websites. While the State seems to enjoy its role as cartel enforcer, the criminalization of file sharing does nothing to stop the sinking of the music industry. The arrests and court cases continue, yet for every torrent site taken down, ten more spring up.
 
-* September 1998: Diamond Multimedia releases the Rio PMP300 MP3 player, not the first MP3 player -- which was the South Korean MPMan -- just the first to be sued by the US music industry for encouraging illegal music copying.
-
-* June 1999: the Recording Industry Association of America (RIAA) loses their lawsuit against Diamond. "*Court Gives "Go-Ahead" to Digital Music Revolution*" [said a web headline from the period](http://www.mediaor.com/post/19548386/P2Pnet-RIAA-vs-Diamond-Rio).
-
-* June 1999: Fanning and Parker release Napster, the first user-friendly way to share music files across the Internet. Napster brings file sharing to the masses, who jump aboard with enthusiasm. Broadband Internet is still slow and many people use modems. With patience, however, it's possible to share music.
-
-* July 1999: MP3.com -- a site where independent artists can share their music -- goes public and raises over $370 million, a new record for a technology-related initial public offering (IPO). The stock opens at $28 per share, rises to $105 per share during the day, and closes at $63.
-
-* July 1999: the RIAA starts lawsuits against Napster. Users don't care: they have found their nirvana, and the news spreads like fire in dry brushwood.
-
-* March 2000: Frankel and Pepper release Gnutella, capable of Napster-style sharing of any files. Ironically, Gnutella is inadvertently released by Nullsoft, just acquired by AOL, which has just merged with Times-Warner, a large player in the recording industry.
-
-* May 2000: MP3.com settles with major labels for $200 million for its my.MP3.com service which let users store their CDs on line. A year later Vivendi Universal buys MP3.com for $372 million, and then shuts down the service.
-
-* February 2001: verified Napster user count hits 26.4 million. The lawsuits against Napster also mount and users start to think about alternatives.
-
-* March 2001: Gnutella is overwhelmed by Napster refugees. Zennström and Friis introduce FastTrack, a "second-generation" P2P protocol that fixes some obvious problems with Gnutella. FastTrack usage rapidly exceeds Napster's peaks.
-
-* July 2001: Napster shuts down its network to comply with court orders. Millions mourn for about ten seconds, before hunting for alternatives, and around the world, software developers work on better P2P technologies.
-
-* July 2001: Bram Cohen releases BitTorrent, which proves remarkably potent as a P2P protocol. Torrent sites around the world are shut-down by action from the music and film industries, and for every site shut-down, ten new ones appear.
-
-* September 2002: Napster is liquidated, and its assets sold off. No-one notices. They are too busy enjoying Kazaa, another popular P2P network, and the forerunner of Skype.
-
-* September 2002: the AudioGalaxy P2P network reaches out-of-court settlement with RIAA and shuts down.
-
-* November 2004: analysts report that BitTorrent traffic accounts for 35% all Internet traffic. BitTorrent usage -- with no central server -- cannot really be counted. Estimates place it at 10 million users.
-
-* September 2005: the WinMX P2P network, big in Japan, is shut down under threat of legal action. WinMX refugees flood to BitTorrent networks, which have expanded to cover TV shows, movies, and computer software.
-
-* May 2006: The Pirate Bay's hardware servers are raided by Swedish police following allegations of copyright infringement. The Pirate Bay is back on line in less than 72 hours, accompanied by a public and media backlash against the Swedish Government's actions.
-
-* August 2006: some Internet service providers (ISPs) report that BitTorrent file transfers accounts for 50% their traffic, and start to block that traffic. Users switch to new encrypted protocols. ISP block those too. Programmers look for other ways to disguise BitTorrent traffic.
-
-* May 2007: popular Russian music seller AllofMP3.com goes offline, after lawsuits, blacklisting from credit card companies, and pressure at the highest political levels. It takes a direct request from the Whitehouse to the Kremlin to kill it. Music industry ironically accuses AllofMP3.com of being a criminal conspiracy. Users mourn the loss of what was an excellent, if illicit, music store.
-
-* July 2007: The music industry starts to target European ISPs as "criminally liable" for the actions of their users. The RIAA, spearheaded by the UK record industry, lobbies for a new European Union directive to criminalize file sharing and "incitement" of file sharing.
-
-* January 2008: Swedish prosecutors start a case against the operators of the Pirate Bay, mainly on the basis of having put advertising on the site. This makes the Pirate Bay a commercial operation, profiting from illegal downloads. Google watches from a safe distance, says nothing, and keeps indexing torrents.
-
-* February 2008: the UK government starts to look at ways of making ISPs responsible for the copyright violations of their customers, after pressure from the music, movie, and TV industries, and encouraged by similar action in other countries.
-
-* July 2008: the European Parliament votes on banning Internet users found guilty of downloads. The "three strikes" disconnection provision is added at the last minute by Vivendi Universal, [through the French government](http://www.laquadrature.net/en/sarkozy-exports-repressive-internet). A year earlier, [the same provision](http://en.wikipedia.org/wiki/DADVSI) creates mass hostility and street protests, and fails to pass the French parliament.
-
-* October 2008: Swedish startup Spotify AB launches a commercial streaming service providing copy-protected music from Sony, EMI, Warner Music Group, Universal and other labels. By December 2012, it has 20 million users. The bulk of revenue goes to studios, not artists, who have complained bitterly about the service.
-
-* September 2012: after a long battle, a Minnesota woman [agrees to pay the RIAA $220,000](http://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded) for downloading 24 songs. The recording industry vaguely realizes the insanity of its lawsuits.
-
-* November 2012: the recording industry [sends the Finnish police](http://torrentfreak.com/police-raid-9-year-old-pirate-bay-girl-confiscate-winnie-the-pooh-laptop-121122/) to seize the laptop of a 9-year old girl after her father refuses to pay €600 and sign a non-disclosure agreement for downloading one song from the Pirate Bay.
-
-* August 2013: The Pirate Bay celebrates its tenth anniversary by suing the Swedish Prime Minister for copyright infringement.
+Slowly, the industry accepts an "all you can eat" model and by 2008, Spotify starts a legal commercial streaming service. As always, it is the studios who get the profits, not the artists. In 2012, after a long battle, a Minnesota woman [agrees to pay the RIAA $220,000](http://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded) for downloading 24 songs. The recording industry vaguely realizes the insanity of its lawsuits, yet cannot resist one last dawn raid, sending [a Finnish police squad](http://torrentfreak.com/police-raid-9-year-old-pirate-bay-girl-confiscate-winnie-the-pooh-laptop-121122/) to seize the laptop of a 9-year old girl. Her father had refused to pay a €600 fine, and sign a non-disclosure agreement for downloading one song from the Pirate Bay.
 
 Has the music industry survived? That is debatable. Downloading music is easier than ever, and by extorting punitive damages against women and children, the music industry has shot itself in both feet, reloaded and shot again. It will never recover public trust and support. YouTube has given up policing music, and indeed, has replaced MTV (remember that?) as the place for music videos. The RIAA has switched from suing its users to mass takedown notices against firms like Google, also [a failing strategy](http://www.outsidethebeltway.com/riaa-takedown-strategy-backfires/).
 
@@ -3512,26 +3462,29 @@ Swiss historian [Daniele Ganser explains](http://wikispooks.com/wiki/Operation_G
 
 In short, NATO funded and organized secret cells of armed men and women across Europe, who bombed, kidnapped, and murdered civilians, politicians, and even NATO themselves, in order to promote the myth of communist insurrection in Europe. The Baader-Meinhof Gang, Bende van Nijvel, Red Brigades, Red Army Faction, Action Directe, Black September, all were likely either infiltrated, helped, and steered by Gladio, or run by it.
 
-I'd include the IRA except that there was no Gladio activity in the UK. In Northern Ireland, it was MI5 that penetrated the IRA and then allowed their agents to run amok, even killing other MI5 agents to maintain their cover.
+I'd include the IRA except that there was apparently no Gladio activity in the UK. In Northern Ireland, it was MI5 that penetrated the IRA and then allowed their agents to run amok, even killing other MI5 agents to maintain their cover.
 
-Italian judges like Casson are a rare breed, fearless men who had the independence and authority to fight the deep corruption of Italian politics and law enforcement by criminals including, it turned out, foreign military intelligence services. Italy was, after World War 2, one of the main battlegrounds in Europe, between the Spider and a left-leaning society.
+Italian judges like Casson are a rare breed: fearless men who had the independence and authority to fight the deep corruption of Italian politics and law enforcement by criminals including, it turned out, foreign military intelligence services. Italy was, after World War 2, one of the main battlegrounds in Europe, between the Spider and a left-leaning society.
 
 In her article "A judges' revolution? Political corruption and the judiciary in Italy," Donatella della Porta explains that although Italian judges were historically allied with political parties, and complicit in corruption, this started to change in the 1970's:
 
 > In the 1970s and the 1980s, however, the voice of the left within the judiciary became increasingly audible. In the judicial system, the so-called *pretori d’assalto* often took anti-governmental stances on labour and environmental issues (Bruti Liberati 1996: 186). At the same time, especially in the fight against terrorism and the Mafia, the magistracy exercised a proactive power, and acted as a surrogate for a weak political will to take any action.
->The dedication of many judges, who often paid for their defence of Italian democracy with their lives, was contrasted with the collusion of a divided political class; public opinion endowed the magistracy with a form of direct legitimacy. Moreover an increasingly strong *ésprit de corps* was developing among the judges (Colombo 1997).
+
+> The dedication of many judges, who often paid for their defence of Italian democracy with their lives, was contrasted with the collusion of a divided political class; public opinion endowed the magistracy with a form of direct legitimacy. Moreover an increasingly strong *ésprit de corps* was developing among the judges (Colombo 1997).
+
 > In the late 1980s and the 1990s, a growing institutional autonomy of the judiciary resulted in a weakening of the attitude of complicity of some judges with those political forces which had partly hindered the activities of the magistracy. A new generation of so-called *giudici ragazzini* (child-judges) -- lacking any sense of deference towards political power, and conscious of the high levels of collusion between politicians and organised crime -- began a series of investigations into administrative and political misconduct.
+
 > Judicial investigations into political corruption have increased in frequency and magnitude over the past few years, culminating in the recent political upheavals caused by the 'clean hands’ investigations of corruption, producing what has been termed as a 'revolution by the judges'.
 
 The rebel judges did not have an easy time: they were persecuted by politicians, by turns bribed and starved, had their careers broken, and sometimes died, for their dogged pursuit of high-ranking criminals. As della Porta writes, "One corrupt Sicilian politician, for example, 'invited judges or their wives to teach courses in specialist schools, offered consultancies to important members of the profession, attaching themselves to the professional and entrepreneurial circles of Catania and transforming corruption into the rule'."
 
-It took decades to bring down Silvio Berlusconi, one of the most corrupt leaders of any European country in recent history. Nonetheless, it is a testament to the strength of human nature that in Italy the bakers finally succeeded in reigning in the bandits and sending the worst of them to jail.
+It took decades to bring down Silvio Berlusconi, one of the most corrupt leaders of any European country in recent history. Nonetheless, it is a testament to the strength of human nature that in Italy the bakers finally succeeded in reigning in the bandits and kicking them off the seat of power.
 
 NATO was created to protect us from the Soviet threat. Instead, it appears, it funded and trained armed cells to murder, kidnap, and bomb our European cities. These cells worked hand in glove with right-wing extremists, criminals, US intelligence, and paramilitary police. They stopped only because they were discovered in the act by investigating judges who, against all the odds, defied their political masters. There were no apologies, no justifications given, no inquiries beyond the outraged national parliaments. And this program lasted at least 40 years.
 
 Gladio is more than a working hypothesis. The Belgian Parliament [website](http://senate.be) notes, on its page, [Commissions of Inquiry set up by the Federal Parliament](http://www.senate.be/com/onderzoekscommissies_nl.html), "1990 -- Commission of inquiry tasked with the investigation of recent revelations over the existence in Belgium of a clandestine international intelligence network, known as "Gladio"".
 
-There is something deeply unsettling about hearing stories like Gladio. They are like hearing someone talking about your best friend plotting to harm you. It's disturbing to have your own judgment on matters of life and death questioned. If we are so wrong about someone or something, what else could we be wrong about? Who else is plotting to hurt us?
+There is something deeply unsettling about hearing stories like Gladio. It like hearing someone talking about your best friend plotting to harm you. It's disturbing to have your own judgment on matters of life and death questioned. If we are so wrong about someone or something, what else could we be wrong about? Who else is plotting to hurt us?
 
 Gladio was barely reported in the mainstream media. As far as the Narrative goes, these events did not happen, and Gladio did not happen. However the mainstream media no longer has the monopoly it had in 1990, and truths do emerge. When they do, the effect can be shocking.
 
@@ -3545,7 +3498,7 @@ The first man shakes his head violently, "That's crazy talk! You think the Gover
 
 It can be hard to discuss science when society is going through a period of insanity. The cries of "heretic!" and burnings at the stake may be history, yet the same patterns of thought run through modern societies just as they did through medieval society. Searching for truth, in a theocracy, can lead to harsh punishments. Galileo Galilei, for insisting that the Earth turned around the Sun, was tried for heresy, forced to recant, and put under house arrest until his death.
 
-When mysterious things happen -- like car bombs in the street, or lights in the sky, or goats with two heads -- we all immediately seek an explanation. It's part of the human thought process, the need to understand. Indeed, when we cannot understand and process some major event, we become numb and slow.
+When mysterious things happen -- like car bombs in the street, or lights in the sky, or newborn goats with two heads -- we all immediately seek an explanation. It's part of the human thought process, the need to understand. Indeed, when we cannot understand and process some major event, we become numb and slow.
 
 We have two major and opposing strategies to deal with unacceptable mystery. These are: magical thinking, and evidence-based thinking, which we also call "science." Magical thinking starts with an grand explanation that appeals to emotion and self-interest, and then it collects support for that explanation.
 
@@ -3587,17 +3540,17 @@ As a process it is delicate and fragile. Clearly when a crime has a political mo
 
 * The *rising bar attack*, where unattainably high standards of proof are demanded from investigators who propose alternate theories.
 
-* The *toxic chalice attack*, where investigators who cast doubt on the official story are fired or moved to other work, while those who promote the official story are promoted.
+* The *revolving door attack*, where investigators who cast doubt on the official story are fired or moved to other work, while those who promote the official story are promoted.
 
 * The *rubber hose attack*, where tenacious investigators are simply removed from the picture, by  bribery, blackmail, or force.
 
 * The *broken chair attack*, where official investigations are controlled by key individuals who ensure the outcome upholds the official theory.
 
-* The *reductio ad absurdum*, where exaggerated "crazy" theories based on clearly flawed evidence and reasoning are promoted, to discredit plausible theories.
+* The *reductio ad absurdum*, where exaggerated "crazy" theories based on clearly flawed evidence and reasoning are widely promoted, to discredit plausible theories.
 
 * The *crazy chaff attack*, where the public is overwhelmed by attractive and yet flawed theories, making it hard for valid investigators to gain any audience.
 
-* The *cold trail attack*, where an official investigation is delayed until it is too late for evidence and witnesses to have survived.
+* The *cold trail attack*, where an official investigation is delayed until it is too late for evidence and witnesses to have survived the inevitable accidents.
 
 * The *embrace and extinguish attack*, where an official investigation is started and then its findings are delayed for years, or indefinitely.
 
@@ -3607,7 +3560,7 @@ When an event is planned, rather than covered-up, other attacks on a proper inve
 
 Even a well conducted investigation, like the National Transportation Safety Board (NTSB) [investigation into TWA flight 800](http://en.wikipedia.org/wiki/TWA_Flight_800), runs afoul of many problems. And in this investigation, fully 95% of the exploded Boeing 747 was recovered and reassembled, and hundreds of witnesses were interviewed.
 
-When we see a major crime that is not investigated properly, when we see evidence disappearing, or made to appear, or when we see unreliable confessions, then we must conclude that we are seeing a cover-up. That in itself is evidence, if not of direct responsibility, then at least of complicity.
+When we see a major crime that is not investigated properly, when we see evidence disappearing, or made to appear, or when we see unreliable confessions, then we must conclude that we are seeing a cover-up. That in itself is evidence, if not of direct responsibility, then at least of complicity. Airplane flight recorders -- black boxes -- are designed to survive smashing into a mountain or sink to the depths of the sea. When the black boxes disappear from crash sites, that is a sure sign of an evidence chain attack.
 
 In 2013 the Belgian Federal Parliament re-opened the investigations into the Bende van Nijvel, this time investigating *the original investigators*, for failing to follow leads, losing vital evidence, and so on. This is how it should be.
 
@@ -3637,7 +3590,7 @@ And what happens when some upstart politician discovers a program of secret armi
 
 Since 2001, the mercenaries have their own formal businesses and are called "private military contractors," or PMCs. One of the most infamous in the second Iraq war was [Blackwater](http://en.wikipedia.org/wiki/Academi), which renamed itself "Academi" after much bad publicity. Andrew Marshall [reports that](http://www.informationclearinghouse.info/article36648.htm):
 
-> The CIA hired Blackwater to aid in a secret assassination program which was hidden from Congress for seven years. These operations would be overseen by the CIA or Special Forces personnel. Blackwater has also been contracted to arm drones at secret bases in Afghanistan and Pakistan for Obama's assassination program, overseen by the CIA. The lines dividing the military, the CIA and Blackwater had become "blurred," as one former CIA official commented, "It became a very brotherly relationship... There was a feeling that Blackwater eventually become an extension of the agency."
+> The CIA hired Blackwater to aid in a secret assassination program which was hidden from Congress for seven years. These operations would be overseen by the CIA or Special Forces personnel. Blackwater has also been contracted to arm drones at secret bases in Afghanistan and Pakistan for Obama's assassination program, overseen by the CIA. The lines dividing the military, the CIA and Blackwater had become "blurred," as one former CIA official commented, "It became a very brotherly relationship... There was a feeling that Blackwater eventually became an extension of the agency."
 
 > In March of 2012, a Special Forces commander, Admiral William H. McRaven, developed plans to expand special operations units, making them "the force of choice" against "emerging threats" over the following decade. McRaven's Special Operations Command oversees more than 60,000 military personnel and civilians, saying in a draft paper circulated at the Pentagon that: "We are in a generational struggle... For the foreseeable future, the United States will have to deal with various manifestations of inflamed violent extremism. In order to conduct sustained operations around the globe, our special operations must adapt." McRaven stated that Special Forces were operating in over 71 countries around the world.
 
@@ -3690,7 +3643,7 @@ Listen to Russel Brand [speaking to the BBC's Jeremy Paxman](http://www.youtube.
 
 It is easy to dismiss Russel Brand as a cheap celebrity seeking fame by saying dangerous things. He dresses up like a Hollywood Jesus and used to be famous for his sexual conquests and drug use. However he is articulate and precise in his accusations, and deals with his interviewers with such charming self-effacing brutality that he leaves them squirming in their seats.
 
-Brand is one of a new generation of activists who are leading the collective thought process away from the Narrative and towards a more accurate view of reality that I call the Awakening. I fully expect him to suffer a suicide-accident-car crash, or accusations of deviant sexual crimes. He claims to be a stand-up comedian, yet in naming the political class as the enemy of society, he preaches revolution.
+Brand is one of a new generation of activists who are leading the collective thought process away from the Narrative and towards a more accurate view of reality that I call the Awakening. I fully expect him to suffer a suicide-accident-car crash, or accusations of deviant sexual crimes. He claims to be a stand-up comedian, yet in naming the political class as the enemy of society, he preaches revolution. And as I've written, when one person says "revolution," another reaches for his gun.
 
 ## The Global Awakening
 
@@ -3704,13 +3657,13 @@ Perhaps, if you are a young white American, the reveal began when you saw the Ne
 
 Perhaps the reveal crept in slowly, when you noticed the lack of criminal investigation into the misconduct of the Bush-Cheney regime. We saw two wars of aggression, lies at the highest level, torture, rendition, destruction of official records, and illegal spying on US citizens, and these were just the visible crimes. Yet not one single investigation. As I said, when we see major crimes not properly investigated, that is evidence at least of complicity.
 
-Perhaps the reveal hit with a shock when you watched "Collateral Murder,"  [the video of US forces](http://en.wikipedia.org/wiki/July_12,_2007_Baghdad_airstrike) shooting civilians with 30mm ammunition from an Apache helicopter in Baghdad, leaked by Chelsea née Bradley Manning. Bullets over an inch thick will make a large hole in any Narrative.
+Perhaps the reveal hit with a shock when you watched "Collateral Murder,"  [the video of US forces](http://en.wikipedia.org/wiki/July_12,_2007_Baghdad_airstrike) shooting civilians with 30mm ammunition from an Apache helicopter in Baghdad, leaked by Chelsea née Bradley Manning. Bullets over an inch across will make a large hole in any Narrative.
 
 There are so many instances where the official story and the documented facts meet like strangers in the street, stare at each other in vague recognition, then shake their heads and go their separate ways. It's not just that there are a lot of lies. It's that there seems to be nothing *but* lies.
 
 If you come from a poorer country like Congo-Kinshasa where the extraction economy rules, or one of the many countries where Western-sponsored violence has been a fact of life for centuries, nothing I've said will be a surprise. You will have seen the real face of occupation since you were young, whether your parents were part of the elite, or not.
 
-Whenever the doubt started, it grew, and though you fought it, it kept growing until it filled all the space. We depend so much on the Narrative that its loss leaves us empty, despondent, weak, and hopeless. Observer columnist and academic John Naughton [describes the emotion:](http://www.bbc.co.uk/news/uk-politics-24650841) thus, "The minute you get into the JFK stuff, and the minute you sniff at the 9/11 stuff, you begin to lose the will to live."
+Whenever the doubt started, it grew, and though you fought it, it kept growing until it filled all the space. We depend so much on the Narrative that questioning it, or hearing others question it is a painful, consuming experience. Observer columnist and academic John Naughton [describes the emotion:](http://www.bbc.co.uk/news/uk-politics-24650841) thus, "The minute you get into the JFK stuff, and the minute you sniff at the 9/11 stuff, you begin to lose the will to live."
 
 Hopefully my tales of the Para-state and its Spider provides some backup, and a way to understand. The proper response to the loss of Narrative is not pessimism, it is optimism and exuberance. For only when we understand our past and our present, can we build our future. As long as we accept the Narrative, we are its thralls.
 
@@ -3732,7 +3685,9 @@ The anti-Narratives emerge most powerfully from the pioneers in this collective 
 
 * We see academics like Dr Daniele Ganser, who know their history and are immune to this particular Narrative because they have seen so many like it. They look at events over the last twenty years and they see continuation of old patterns.
 
-These are the ice breakers, whose message is ignored, mocked, and rejected until it swells to a point where it can't be brushed aside as hysterical, crazy nonsense. Any single event is irrelevant. There is more than enough material to write a compelling anti-Narrative that fits the facts and cannot be broken. And it's this anti-Narrative that the early adopters take, and spread to the wider world. I consider the early adopters to be:
+* We have anti-patent and anti-copyright "extremists", like the Pirate Parties, the FFII (in part), the Pirate Bay and the many, many who took risks to share music and movies with other people. They know the law is unjust and wrong, and they have been providing elements of an anti-Narrative for years.
+
+These are the ice breakers, whose message is ignored, mocked, and rejected until it swells to a point where it can't be brushed aside as hysterical, crazy nonsense. Any single thread or event is irrelevant. There is more than enough material to write a compelling anti-Narrative that fits the facts and cannot be broken. And it's this anti-Narrative that the early adopters take, and spread to the wider world. I consider the early adopters to be:
 
 * Other independent journalists, who find themselves flooded by intensely interesting stories that the mainstream press will not touch. It is irresistible, to print these stories.
 
@@ -3762,7 +3717,7 @@ In this book I've skimmed over many topics. I'm not a journalist, nor a historia
 
 I've tied to provide you with tools and models to help you understand the world, and find truth in it. Look for cults, small and large, and you will find lies and propaganda. Look for well-organized collective intelligences and you will find truths.
 
-My children will be astonished, when they grow up and read this, to learn that in 2013, some truths were still too difficult to say out loud. Here is one example: I think the evidence shows that the major terror attacks in New York, Madrid, and London were organized and executed by the military intelligences of one nation or another. That the Strategy of Tension has been hard at work. That the War on Drugs, and the War on Terror, rather than being miserable failures, achieved all their goals, and more: profit, power, and social control.
+My children will be astonished, when they grow up and read this, to learn that in 2013, some truths were still too difficult to say out loud. Here is one example: I think the evidence shows that the major terror attacks in New York, Madrid, and London were organized and executed by the military intelligences of one nation or another. That the Strategy of Tension has been hard at work, and spectacularly successful. That the War on Drugs, and the War on Terror, rather than being miserable failures, achieved all their goals, and more: profit, power, and social control.
 
 This is what I believe to be true, despite a decade of searching for other explanations, and it scares me to write it, and publish that, under my own name. I've seen the expressions of horror and pity on my friends' and family's faces when I explain this, which is not often. However, our best stab at the truth is all we have. It is our only shield and our only sword. When a truth is difficult to repeat, that makes it all the more important. Truths do not attack democracy, lies do.
 
@@ -3772,9 +3727,9 @@ All the steel from WTC 7 was removed and recycled before investigators could exa
 
 Consider by comparison, TWA flight 800, where investigators pulled thousands of pieces of the exploded 747 from the sea, and then reassembled those into a 95% complete plane. If an important person in perfect health dies suddenly, in extraordinary circumstances, and the authorities cremate the body rapidly, against the wishes of the family, and without allowing an autopsy, that would be a conspiracy.
 
-Big catastrophes demand big investigations. The destruction of the entire body of evidence, and the non-investigation of the WTC 7 collapse was a conspiracy. If we cannot investigate the events themselves, as the evidence was destroyed, then we must investigate the investigators.
+Big catastrophes demand big investigations. The destruction of the entire body of evidence, and the non-investigation of the WTC 7 collapse was a conspiracy. If we cannot investigate the events themselves, as the evidence was destroyed, then we must investigate the investigators for their crimes.
 
-And then, what? When we have done our research and accepted that the official conspiracy theory was untrue, that we were lied to, what then?
+And then, what? When we have done our research and accepted that the official conspiracy theory was wrong enough to need a cover-up, that we were lied to repeatedly, what then?
 
 David Chandler [frames it eloquently](http://911blogger.com/news/2013-10-30/911-so-what):
 
@@ -3796,7 +3751,7 @@ David Chandler [frames it eloquently](http://911blogger.com/news/2013-10-30/911-
 
 Reading this, I see two possible futures. One is indeed the restoration of democracy, by wide political activism and careful, incremental dismantling of the Spider and Para-state. Perhaps US society, divided and weak, cannot do this by itself, and yet with help from Europe and the rest of the world, it can.
 
-Realistically, it seems naive and over-optimistic to expect the Spider and Para-state to self-destruct simply because that is what everyone demands. Of course the creation of a police state is far easier when people are unaware. Yet once the police state is in place -- and it is in place -- does it actually matter what people know?
+Realistically, it seems naive and over-optimistic to expect the Spider and Para-state to self-destruct simply because that is what everyone demands. We are talking about a large, powerful, and utterly ruthless bandit gang. Of course the creation of a police state is far easier when people are unaware. Yet once the police state is in place -- and it is in place -- does it actually matter what people know or think? There are so many ways to put down a popular revolution.
 
 ## The Third Front
 
@@ -3810,7 +3765,7 @@ The War on Terror, conventionally, consists of dark-skinned extremists who want 
 
 In reality, the War on Terror has also been extremely convenient and profitable for the Spider and the Para-state. It allowed the PATRIOT Act to slide through Congress. It gave the Spider unlimited space to consolidate its diverse agencies, and power to do what it pleased, across the globe, in the name of "security." It ended the concepts of constitutionality, civil liberties, privacy, justice, due process. It legitimized the old practice of secret armies, and created havoc in the Middle East that drew all attention away from the ongoing eradication of Palestine.
 
-Finally, the War on the Internet, which for a change makes no implied appeal to racism. Conventionally, a generation of young 20-something anarchist pirates have been stealing our cultural treasures (movies like "Batman and Robin," one assumes), collecting kiddie porn, publishing plans for nuclear bombs, and leaking state secrets.
+Finally, the War on the Internet, which for a change makes no implied appeal to racism. Conventionally, a generation of young 20-something anarchist pirates have been stealing our cultural treasures, collecting kiddie porn, publishing plans for nuclear bombs, wreaking havoc on honest businesses, and leaking state secrets.
 
 To stop these dangerous pirates, hackers, drug dealers, and cyberfreaks we need firm action, international agreements [like ACTA](https://www.google.com/search?q=acta) and the Stop Online Piracy Act (SOPA), which regretfully must remain secret for national security reasons. Sadly, this war will probably last forever. We will of course persevere, etc. etc.
 
@@ -3949,7 +3904,7 @@ How actually to build resistance against an all-powerful occupation? I'm not sur
 
 * Accept that we will have to take whatever the Spider throws at us, as we have nowhere else to go. Accept that we will face a long struggle.
 
-* Focus European public opinion on the Spider, especially to isolated and embarrass the UK, which the US depends on as a proxy and experimental playground.
+* Focus European public opinion on the Spider, especially to isolated and embarrass the UK, which the US depends on as a proxy and experimental playground. Remind European politicians that the US and UK sent armed terrorists into their towns and cities for 40 years.
 
 * Build public opinion in Brazil and India, two nations who potentially hold the balance of power in coming decades.
 
