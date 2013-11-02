@@ -3922,11 +3922,26 @@ There is no 1% and 99%. There is only 100%. We are one planet, one species, and 
 
 Thank you for downloading or buying this book.
 
-Please say what you thought of the book, on your blog, on Amazon.com, or on hintjens.com.
+I hope it was as fun to read, and as disturbing, as it was to write.  As Richard Feynman said, "Our imagination is stretched to the utmost, not, as in fiction, to imagine things which are not really there, but just to comprehend those things which are there."
+
+Please do move beyond reading, to action. Here are some things you can do today:
+
+* Discuss "Culture & Empire: Digital Revolution" on your blog, on Amazon.com, or on hintjens.com.
+
+* Download the PDF -- it's free -- from cultureandempire.com, and share it with your friends and family. Of course I'm happy when people buy the paperback or e-book. We all have bills to pay. However, it's more important that we share knowledge than charge for it.
+
+* Join the Edge Net project. In the first 24 hours of starting the funding campaign on Indiegogo we raised $1,400. Money and effort makes things happen.
+
+* I covered a lot of ground. Take parts of my story and expand on them, in your thesis, your own writing, your film making, your software. Remix the words and ideas from this book, because they are not mine, they are ours.
+
+* Sloganize it! I packed the book with quotable one-liners. Find them, repeat them, in presentations, on t-shirts, on your blog. Knowledge spreads fastest when it travels light. See, that was another one. I can keep doing this all day.
+
+* Tell me what the next book is going to be about.
+
+And again, thank you. You, the reader, are most important to me.
 
 Pieter Hintjens,
-
-Brussels, 31 October, 2013.
+Brussels, 1 November, 2013
 
 # Appendix: The Edge Net
 
