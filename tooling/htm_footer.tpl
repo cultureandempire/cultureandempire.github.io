@@ -8,7 +8,7 @@
       <footer>
         <div class="actions1"><a href="%GITNAME%/issues"><img style="border:0" src="../image/chat.png"></a></div>
         <div class="actions2"><a href="%GITNAME%"><img style="border:0" src="../image/github.png"></a></div>
-        <div class="actions4"><a href="https://www.createspace.com/4484521"><img style="border:0" src="../image/shop.png"></a></div>
+        <div class="actions3"><a href="https://www.createspace.com/4484521"><img style="border:0" src="../image/shop.png"></a></div>
         <div class="actions4"><a href="http://www.indiegogo.com/projects/the-edge-net/x/1175238"><img style="border:0" src="../image/wifi.png"></a></div>
       </footer>
     </div>
