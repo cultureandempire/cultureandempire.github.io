@@ -83,6 +83,17 @@ body {
 .reveal .footer {
     visibility: hidden;
 }
+.advert {
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    width: 100%;
+    z-index: 100;
+}
+.advert a {
+    text-decoration: none;
+    color: #C00000;
+}
 .header {
     position: absolute;
     text-align: center;

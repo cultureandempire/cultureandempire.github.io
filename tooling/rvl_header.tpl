@@ -35,6 +35,7 @@
 </head>
 
 <body>
+<div class="advert"><a href="http://www.amazon.com/Culture-Empire-Digital-Revolution-Volume/dp/1492999776">Available for paperback and Kindle from Amazon.com</a></div>
 <div class="header">Loading... 90%</div>
 <div class="footer"></div>
 
