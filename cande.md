@@ -1918,7 +1918,7 @@ This is the story I'll tell in this chapter: the death of privacy. I'll try to e
 
 There is an alphabet soup of agencies that spy on us. Today the NSA makes the news, tomorrow the headlines may be about the British General Communications Headquarters (GCHQ), the US Federal Bureau of Investigation (FBI), Office of Naval Intelligence (ONI), or Department of Homeland Security (DHS), or Israel's Mossad. It would be naive to assume there is one single agency that has all the software taps and hard disks. Rather, it's a network of agencies and programs and databases that reaches around the globe, penetrating and corrupting business and politics.
 
-Furthermore, it seems implausible that this network operate independently, outside of any political structure. Where there is power and money, there are always political structures. The political structure behind the spy state is simply not the one we vote on, or exert any real control over, as governed.
+Furthermore, it seems implausible that this network operates independently, outside of any political structure. Where there is power and money, there are always political structures. The political structure behind the spy state is simply not the one we vote on, or exert any real control over, as governed.
 
 Silvia Swinden, a writer on human rights, nonviolence, and humanism, [coined the term Para-state](http://www.pressenza.com/2013/06/the-economic-para-state-in-its-yearly-show-of-strength-bilderberg-comes-to-watford-uk/) to describe the "rich bankers and industrialists, royalty, corporations and most powerful politicians of the world" who meet yearly as the Bilderberg group.
 
@@ -1975,7 +1975,7 @@ Now, the cost of storing this 20EB target data set. Over the last 30 years the c
 | 2054 | 1ZB |
 | 2066 | 1YB |
 
-For comparison, the total amount of data in the human body's DNA is about 150ZB (100 trillion cells at about 1.5GB per cell), and there are about 21 yolta atoms in a gram of silicon. I think the dollar yoltabyte will happen right on schedule fifty-some years from now. Side note: the yoltabyte was only invented in 1991.
+For comparison, the total amount of data in the human body's DNA is about 150ZB (100 trillion cells at about 1.5GB per cell), and there are about 21 yolta atoms in a gram of silicon. I think the dollar yoltabyte will happen right on schedule fifty-some years from now. Side note: the prefix "yolta" was only coined in 1991.
 
 Hard disks are only the raw cost. Let's assume we store all data in two different data centers, to guard against disasters. In each location we add backup disks to guard against disk failures. We need industrial-strength disk storage racks, power supplies, cooling, and maintenance. We need at least 15% for bribes and consultancy fees back to the congressmen who voted us the budgets. We get a volume discount. Let's assume all that makes a cost factor of four.
 
@@ -2027,7 +2027,7 @@ And the third column works for the state. We're not talking about one country, r
 
 It's the third column that is the most dangerous to digital society, because their prime goal is the control of political discourse. They don't want to make money from us, or use our PCs to send spam. They want to make sure we don't build a revolution.
 
-The third column's strength, at least in the US, comes from two things. First, unlimited secret budgets, enabled by the "War on Terror," and the signing of the PATRIOT Act in October 2000. Second, the highly centralized nature of today's web. A handful of phone companies control Internet access for most people, and a handful of websites account for most Internet traffic. The capturing of the airwaves is an old sport. What's shifted is the sheer volume and focus. It's the mass digitization of social activity, and its concentration, that has created fertile ground for the greatest spy regime of all time.
+The third column's strength, at least in the US, comes from two things. First, unlimited secret budgets, enabled by the "War on Terror," and the signing of the PATRIOT Act in October 2001. Second, the highly centralized nature of today's web. A handful of phone companies control Internet access for most people, and a handful of websites account for most Internet traffic. The capturing of the airwaves is an old sport. What's shifted is the sheer volume and focus. It's the mass digitization of social activity, and its concentration, that has created fertile ground for the greatest spy regime of all time.
 
 ## The Listeners
 
