@@ -3064,9 +3064,15 @@ A classic example of such a conflict on the Internet was the music and movie's l
 In “Wealth of Nations”, I explained how all property is based on some level of coercion. We tolerate the State because it's the only plausible way to get balanced, symmetric coercion. The music industry has turned asymmetric coercion into a core business strategy. It pushes young artists into signing deals, and uses "collecting societies" to suppress an independent music industry. These collecting societies take fees from radio stations, clubs and cafés, concert promoters, and so on, and pass these onto their members, who are the established music businesses.
 
 You are either in the system, and you play by the rules, or you are outside, in the cold. Some musician friends, invariably poor like every musician I ever met, explained that they had to pay collection society fees when they played a concert *of their own original music*. They could otherwise have stayed off the radar, signed no contracts, sold no CDs in the high street shops, played no concerts in the big venues.
+<<<<<<< HEAD
 
 The music industry made, and still largely makes, its profits by controlling the whole business process from raw artist to final user experience, allowing no real competition at any point along this chain. They gouge the artists so badly you would think by now no artist would even talk to them. Yet, there are always more young eager faces waiting in line. Artists seem to scramble over each other to be exploited. Just as the diamond industry keeps its prices high by stockpiling rough stones that it never sells, the music industry signs artists simply so they cannot play on the free market.
 
+=======
+
+The music industry made, and still largely makes, its profits by controlling the whole business process from raw artist to final user experience, allowing no real competition at any point along this chain. They gouge the artists so badly you would think by now no artist would even talk to them. Yet, there are always more young eager faces waiting in line. Artists seem to scramble over each other to be exploited. Just as the diamond industry keeps its prices high by stockpiling rough stones that it never sells, the music industry signs artists simply so they cannot play on the free market.
+
+>>>>>>> 2c62168b58af803819cd55b5e53c84278292d208
 When digital society realized they could bypass the music industry's antiquated and painful distribution process, there was a kind of ecstatic explosion of joy. I remember looking at my CD collection in 1995, wondering why I could not store and play all that digital music on my computer. Apart, that was, from the small detail that one hard drive could hold about two-and-a-half CDs.
 
 The old men of the music industry confronted the upstarts somewhat like the Titanic confronting the iceberg. You can see the innocent arrogance of power hitting the raw uncaring brutality of nature, and sinking, slowly yet surely, into the icy water. Unlike the Titanic, though, the sinking of the music industry is still ongoing after two decades.
@@ -3895,13 +3901,26 @@ There is no 1% and 99%. There is only 100%. We are one planet, one species, and 
 
 # Postface
 
+<<<<<<< HEAD
 Thank you for downloading or buying this book. I hope it was as fun to read, and as disturbing, as it was to write. As Richard Feynman said, "Our imagination is stretched to the utmost, not, as in fiction, to imagine things which are not really there, but just to comprehend those things which are there." Please do move beyond reading, to action. Here are some things you can do today:
 
+=======
+Thank you for downloading or buying this book.
+
+I hope it was as fun to read, and as disturbing, as it was to write. As Richard Feynman said, "Our imagination is stretched to the utmost, not, as in fiction, to imagine things which are not really there, but just to comprehend those things which are there."
+
+Please do move beyond reading, to action. Here are some things you can do today:
+
+>>>>>>> 2c62168b58af803819cd55b5e53c84278292d208
 * Discuss "Culture & Empire: Digital Revolution" on your blog, on Amazon.com, or on hintjens.com. Write a review of the book: that is the best way to encourage others to read it.
 
 * Download the PDF -- it's free -- from cultureandempire.com, and share it with your friends and family. Of course I'm happy when people buy the paperback or e-book. We all have bills to pay. However, it's more important that we share knowledge than charge for it.
 
+<<<<<<< HEAD
 * Join the edgenet project at theedg.es. In our first 3-week funding campaign on Indiegogo we asked for $1,000 and raised $4,000. Money and effort makes things happen.
+=======
+* Join the [edgenet project](http://theedg.es). In our first 3-week funding campaign on Indiegogo we asked for $1,000 and raised $4,000. Money and effort makes things happen.
+>>>>>>> 2c62168b58af803819cd55b5e53c84278292d208
 
 * I covered a lot of ground. Take parts of my story and expand on them, in your thesis, your own writing, your film making, your software. Remix the words and ideas from this book, because they are not mine, they are ours.
 
@@ -3909,7 +3928,12 @@ Thank you for downloading or buying this book. I hope it was as fun to read, and
 
 And again, thank you. You, the reader, are most important to me.
 
+<<<<<<< HEAD
 Pieter Hintjens, Brussels, 25 November, 2013
+=======
+Pieter Hintjens,
+Brussels, 22 November, 2013
+>>>>>>> 2c62168b58af803819cd55b5e53c84278292d208
 
 # Appendix: edgenet
 
