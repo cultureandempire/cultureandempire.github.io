@@ -4,7 +4,10 @@
 
 Free to share and remix under CC-BY-SA-3.0</p>
 
-[Culture & Empire: Digital Revolution](http://cultureandempire/cande.html) [-- single page](http://cultureandempire.com/html/cande.html) [-- PDF (draft)](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/pdf/cande-2013-11-01.pdf)
+[Culture & Empire: Digital Revolution](http://cultureandempire/cande.html) 
+[-- single page](http://cultureandempire.com/html/cande.html) 
+[-- PDF](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/download/cande.pdf)
+[-- EPUB](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/download/cande.epub)
 
 [The Edge Net](http://cultureandempire.com/edgenet.html)[-- single page](http://cultureandempire.com/html/edgenet.html)
 
