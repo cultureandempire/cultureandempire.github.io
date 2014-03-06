@@ -1609,7 +1609,7 @@ In the West, we escape the type of virulent moral legislation that infects count
 
 * Gambling is illegal or heavily regulated in almost all countries. This is usually defended because gambling can be so destructive to families, yet banning or regulating gambling does not stop gamblers, just as the ravages on families of drug addiction are not ended by making drugs illegal.
 
-The claims that such prohibition laws exist to help the people do not really hold water. When politicians pass moral legislation, they do it for because they think it will help to keep them in a position of privilege and power for a little while longer. These laws act as political tools with a common purpose to reduce and diminish our social freedoms whilst protecting those in power from responsibility for social problems. They turn us into a potential criminal majority, all possibly guilty, all the time, of various crimes, and all potentially targeted for arrest and sentencing on the grounds of our moral lack.
+The claims that such prohibition laws exist to help the people do not really hold water. When politicians pass moral legislation, they do it because they think it will help to keep them in a position of privilege and power for a little while longer. These laws act as political tools with a common purpose to reduce and diminish our social freedoms whilst protecting those in power from responsibility for social problems. They turn us into a potential criminal majority, all possibly guilty, all the time, of various crimes, and all potentially targeted for arrest and sentencing on the grounds of our moral lack.
 
 Once the State claims the right to suppress social freedoms for our own sake, the side effects can be dramatic. We don't have to look at the Persian Gulf states to see examples. In 2013, for instance, Florida abruptly shut down all Internet cafés under legislation to stop on-line gambling. Was the goal to stop people betting, or to experiment with how people would respond to a ban on anonymous Internet access? If it was the latter, we may soon see other states across the US enact similar bans.
 
@@ -2589,7 +2589,7 @@ None of these arguments stand up to real scrutiny, nor does empirical data back 
 
 The patent industry tells so many lies that it's hard to pull them apart. The core lie is that mythological inventor. As I argued in “Spheres of Light”, we don't invent solutions so much as discover them, and it takes a society to do this, not individuals. The basic tenet of a patent -- namely that a single person or company can create knowledge -- is false. Even in the temples of research, such as pharmaceutics or genetics, it's a clear fact: researchers work by sharing knowledge, not hoarding it. The [Human Genome Project](https://en.wikipedia.org/wiki/Human_Genome_Project) beat privately funded research in a race to publish sequences before the commercial teams could patent them.
 
-As with copyright and culture, the only way a society can improve its technology is to share and remix. It does not matter how much you bribe your researchers. If they are cannot share, they cannot innovate. Have you seen the latest smartphones from North Korea?
+As with copyright and culture, the only way a society can improve its technology is to share and remix. It does not matter how much you bribe your researchers. If they cannot share, they cannot innovate. Have you seen the latest smartphones from North Korea?
 
 Products and markets and other people are how we test that some knowledge is valid. We don't use some magical process of "invention." Patents claim that discovery by the market does not exist, and if it does, it is piracy.
 
@@ -3175,7 +3175,7 @@ So Anonymous -- an idea, not an organization -- now attacked the financial syste
 
 We've seen that Bank of America conspired with private companies to, in their own words, "Commit cyber attacks against the infrastructure" of wikileaks.org. This, we see, is perfectly acceptable. However, to conduct the equivalent of a non-violent street protest against PayPal's Internet headquarters is a federal crime leading to arrest and prosecution. There is not even the pretense of impartiality.
 
-Knowing in 2010 that the Spider was watching every click, those young men would have been rather more careful. Since it took over two years to pounce, we can assume there are more international "cyberterrorism" warrants in the pipeline. The result will be like pouring water on an kitchen grease fire. The coming arrests -- like that of Jeremy Hammond, taunted and guided by FBI assets into the hack on HBGary Federal -- will create martyrs and inflame the dangerous young men who think of themselves as Anonymous.
+Knowing in 2010 that the Spider was watching every click, those young men would have been rather more careful. Since it took over two years to pounce, we can assume there are more international "cyberterrorism" warrants in the pipeline. The result will be like pouring water on a kitchen grease fire. The coming arrests -- like that of Jeremy Hammond, taunted and guided by FBI assets into the hack on HBGary Federal -- will create martyrs and inflame the dangerous young men who think of themselves as Anonymous.
 
 ## The Golden Rule
 
@@ -3315,7 +3315,7 @@ It seems credulous to accept that we're losing the war on drugs by accident. We 
 
 The Afghan opium trade [reached $70 billion](http://www.khaama.com/annual-value-of-afghan-opium-trade-reach-70-billion-206) by 2013. The street value of that heroin is orders of magnitude higher. Afghanistan is only one of many zones of drug production. The volume of money that the drug trade represents is truly astounding.
 
-I'm sure we'll see action by the DEA, aided by NSA wiretaps, against drug dealers, just as we do see action by the FBI against money transmitters. However the simplest explanation for the situation with is that the Para-state sees illegal drugs as one of its main business lines, and a useful tool to keep social resistance low. And the Spider loves those billions of Dollars of untraceable money that it can use to fund its most secret operations.
+I'm sure we'll see action by the DEA, aided by NSA wiretaps, against drug dealers, just as we do see action by the FBI against money transmitters. However the simplest explanation for the situation is that the Para-state sees illegal drugs as one of its main business lines, and a useful tool to keep social resistance low. And the Spider loves those billions of Dollars of untraceable money that it can use to fund its most secret operations.
 
 ### The War on Health
 
@@ -3457,7 +3457,7 @@ NATO was created to protect us from the Soviet threat. Instead, it appears, it f
 
 Gladio is more than a working hypothesis. The Belgian Parliament [website](http://senate.be) notes, on its page, [Commissions of Inquiry set up by the Federal Parliament](http://www.senate.be/com/onderzoekscommissies_nl.html), "1990 -- Commission of inquiry tasked with the investigation of recent revelations over the existence in Belgium of a clandestine international intelligence network, known as "Gladio"".
 
-There is something deeply unsettling about hearing stories like Gladio. It like hearing someone talking about your best friend plotting to harm you. It's disturbing to have your own judgment on matters of life and death questioned. If we are so wrong about someone or something, what else could we be wrong about? Who else is plotting to hurt us?
+There is something deeply unsettling about hearing stories like Gladio. It's like hearing someone talking about your best friend plotting to harm you. It's disturbing to have your own judgment on matters of life and death questioned. If we are so wrong about someone or something, what else could we be wrong about? Who else is plotting to hurt us?
 
 Gladio was barely reported in the mainstream media. As far as the Narrative goes, these events did not happen, and Gladio did not happen. However the mainstream media no longer has the monopoly it had in 1990, and truths do emerge. When they do, the effect can be shocking.
 
@@ -3591,7 +3591,7 @@ It is, we start to realize, a grand and yet obvious lie. Not only does our gover
 
 Let me restate what should now be the working hypothesis for anyone studying this area: the Spider lets happen, or makes happen, terroristic events to maintain its ongoing Strategy of Tension. As backing evidence we have the Spider's decades-long investment in paramilitary networks abroad and at home, its involvement in the drug business, its easy breaking of constitutionality as it pleases.
 
-Officially, Gladio was quietly disbanded in 1990. This reminds me of the compulsive liar who, when caught, promises to stop lying. It beggars belief that the Gladio networks stopped when they were unmasked. The liar does not stop lying, instead he becomes smarter about not being caught.
+Officially, Gladio was quietly disbanded in 1990. This reminds me of the compulsive liar who, when caught, promises to stop lying. It's beggars belief that the Gladio networks stopped when they were unmasked. The liar does not stop lying, instead he becomes smarter about not being caught.
 
 I spoke about Anders Breivik in “Faceless Societies”. Norwegian lawyer Alexandra Bech Gjoerv headed an independent inquiry into the shootings. Here is how the BBC World Service [reported the inquiry's findings](http://www.bbc.co.uk/news/world-europe-19241327):
 
@@ -3652,9 +3652,9 @@ What we have is the development of an "anti-Narrative," a set of explanations an
 
 The anti-Narratives emerge most powerfully from the pioneers in this collective de-programming exercise, the ice-breakers who, for diverse reasons, are prepared to go into incredibly hostile environments with nothing more than their self-faith to keep them going:
 
-* It all begins with the whistle blowers, particularly those who can leak substantive documentation rather than personal stories and hearsay. Chelsea née Bradley Manning and Eric Snowden are the two main figures here, heroes in a real sense. Other whistle blowers of note are Annie Machon, Gareth Williams,  Russel Tice, Jeffrey Sterling, Stephen Jin-Woo Kim, Jesselyn Radack, Thomas Drake, Daniel Ellsberg, and William Binney.
+* It all begins with the whistle blowers, particularly those who can leak substantive documentation rather than personal stories and hearsay. Chelsea née Bradley Manning and Edward Snowden are the two main figures here, heroes in a real sense. Other whistle blowers of note are Annie Machon, Gareth Williams,  Russel Tice, Jeffrey Sterling, Stephen Jin-Woo Kim, Jesselyn Radack, Thomas Drake, Daniel Ellsberg, and William Binney.
 
-* We then have the independent media who are willing to report these documents, at personal risk. There is Julian Assange, building wikileaks.org around Manning's leaks, and Glenn Greenwald and Laura Poitras, reporting in the Guardian on Eric Snowden's leaks. Again, heroic figures who have changed the course of history.
+* We then have the independent media who are willing to report these documents, at personal risk. There is Julian Assange, building wikileaks.org around Manning's leaks, and Glenn Greenwald and Laura Poitras, reporting in the Guardian on Edward Snowden's leaks. Again, heroic figures who have changed the course of history.
 
 * We see academics like Dr Daniele Ganser, who know their history and are immune to this particular Narrative because they have seen so many like it. They look at events over the last twenty years and they see continuation of old patterns.
 
@@ -3688,7 +3688,7 @@ The late adopters are the monopolists like AT&T, Comcast, and Western Union, the
 
 In this book I've skimmed over many topics. I'm not a journalist, nor a historian, and I have no credentials except my words. Credentials -- that lazy inheritance of trust from other people -- are somewhat quaint in the on-line world. What we say can matter, who we are does not. Only one thing really matters, and that is the knowledge of truth, which we arrive at together.
 
-I've tied to provide you with tools and models to help you understand the world, and find truth in it. Look for cults, small and large, and you will find lies and propaganda. Look for well-organized collective intelligences and you will find truths.
+I've tried to provide you with tools and models to help you understand the world, and find truth in it. Look for cults, small and large, and you will find lies and propaganda. Look for well-organized collective intelligences and you will find truths.
 
 My children will be astonished, when they grow up and read this, to learn that in 2013, some truths were still too difficult to say out loud. Here is one example: I think the evidence shows that the major terror attacks in New York, Madrid, and London were organized and executed by the military intelligences of one nation or another. That the Strategy of Tension has been hard at work, and spectacularly successful. That the War on Drugs, and the War on Terror, rather than being miserable failures, achieved all their goals, and more: profit, power, and social control.
 
@@ -3742,7 +3742,7 @@ Finally, the War on the Internet, which for a change makes no implied appeal to 
 
 To stop these dangerous pirates, hackers, drug dealers, and cyberfreaks we need firm action, international agreements [like ACTA](https://www.google.com/search?q=acta) and the Stop Online Piracy Act (SOPA), which regretfully must remain secret for national security reasons. Sadly, this war will probably last forever. We will of course persevere, etc. etc.
 
-In reality, copyright is a stalking horse for a fight to control and reign in the largest communications network in human history. Control the Internet and you control the future. We'll same the same patterns in the third front that we saw in the other two:
+In reality, copyright is a stalking horse for a fight to control and reign in the largest communications network in human history. Control the Internet and you control the future. We'll see the same patterns in the third front that we saw in the other two:
 
 * A gradient of deniability that stretches from official operations, to private contractors, to secret armies, through to criminals.
 
@@ -3817,7 +3817,7 @@ It took four decades for the white elites to realize their mistake, and open the
 
 ## What Ended Apartheid?
 
-Four decades seems infinity, looking forwards, yet that is what we are in for, in my opinion. We might as well take a deep breath and develop real strategies for a positive outcome. Let's start with the question of why Apartheid fell at all. This is a is vital question, because it provides us with our own strategy for a successful outcome. Padraig O’Malley [writes on nelsonmandela.org](http://www.nelsonmandela.org/omalley/index.php/site/q/03lv02424/04lv03370/05lv03390.htm), in his article, "Exploring Reasons For The Collapse Of Apartheid,"
+Four decades seems infinity, looking forwards, yet that is what we are in for, in my opinion. We might as well take a deep breath and develop real strategies for a positive outcome. Let's start with the question of why Apartheid fell at all. This is a vital question, because it provides us with our own strategy for a successful outcome. Padraig O’Malley [writes on nelsonmandela.org](http://www.nelsonmandela.org/omalley/index.php/site/q/03lv02424/04lv03370/05lv03390.htm), in his article, "Exploring Reasons For The Collapse Of Apartheid,"
 
 > To get to the understanding that both parties could only accommodate their differences through negotiations and that they could not resolve them through a protracted and indefinitely drawn-out war of violence and counter violence took the better part of a decade.
 > Forsaking war rooms for negotiating tables was not an option particularly palatable to either side, but one dictated by the logic of inevitability. Perhaps a chess analogy is most appropriate. Neither side could achieve checkmate; permanent stalemate was the alternative to declaring a draw. Draws means deals.
@@ -3825,7 +3825,7 @@ Four decades seems infinity, looking forwards, yet that is what we are in for, i
 
 Here is the key. Even if you cannot win a fight -- and it is absurd to think the Spider would lose any fight it starts -- you can force the other side to a negotiated solution if you can make it too costly for them to govern. By the mid-1980's, the townships had become ungovernable as people stopped cooperating with the system. The youth stopped going to school, and focused instead on civil protest. You give us no future, they said, so we will not invest in yours.
 
-O'Malley argues that Apartheid was its own cure, in that by breaking South African society apart by color, Apartheid also made it ungovernable. This may be partly true, and it is a good appeal to the intrinsic morality of a sane society, though I'd counter this with the example of the US. That shows a massively segregated country, which exhibits all the signs of collective stupidity, yet is a society robustly under control (please, US, prove me wrong).
+O'Malley argues that Apartheid was its own cure, in that by breaking South African society apart by color, Apartheid also made it ungovernable. This may be partly true, and it is a good appeal to the intrinsic morality of a sane society, though I'd counter this with the example of the US. It shows a massively segregated country, which exhibits all the signs of collective stupidity, yet is a society robustly under control (please, US, prove me wrong).
 
 Rather, I believe two other factors that turned Apartheid from an obviously profitable strategy to a hopelessly costly one. One was the fall in the cost of communications. Pretoria, isolated and distant, could maintain its regime as long as resistance was disorganized and local. However, it became so easy to report on events, and to carry images of oppression around the world. By the late 1980's the global anti-apartheid movement used electronic bulletin boards and email to organize.
 
@@ -3839,7 +3839,7 @@ South West Africa was a key buffer zone from which Pretoria could keep the civil
 
 In other words, to keep its homeland secure, South Africa found itself dragged deeper and deeper into multiple civil wars and police actions thousands of miles away. And this became more and more costly, and as in the US civil war, in a war based on slaughter, the economics were unsustainable. Despite the Apartheid regime's mercenary armies, the odds are on the cheaper man, as Kipling wrote in his poem *Arithmetic on the Frontier*. "Two thousand pounds of education drops to a ten-rupee jezail," the jezail being a simple home-made gun.
 
-The Spider is emerging, like the Kaiju rising out of the sea, and is aiming to tear down our digital cities. Our global digital society is facing a Bad Guy of massive proportions. And what happens on line resonates through all society. The 2013 movie "Pacific Rim" from Guillermo del Toro is wonderfully trashy, yet deliberately or not, it frames perfectly the existential threat that we face as a civilized society trying to build a better future.
+The Spider is emerging, like the Kaiju rising out of the sea, and is aiming to tear down our digital cities. Our global digital society is facing a Bad Guy of massive proportions. And what happens online resonates through all society. The 2013 movie "Pacific Rim" from Guillermo del Toro is wonderfully trashy, yet deliberately or not, it frames perfectly the existential threat that we face as a civilized society trying to build a better future.
 
 So this lets us predict a road map for the coming global conflict between broad society and the Spider. There will be no apologies by those in power, no restoration of democracy, and there will be no revolution in the streets. There will be no significant armed resistance, nor sustained mass protests of the kind that might topple a fragile dictatorship. The Para-state is not fragile, it is extremely solid, and exerts control as the Apartheid regime did, with massive investment in military power, and full control of the economy.
 
@@ -3863,23 +3863,23 @@ Revolution must instead happen in our minds. We must break free of the Narrative
 
 With a new Narrative, we can resist occupation and make it so unbearably expensive, that we eventually come to a negotiated settlement with the Para-state, and a transfer of power.
 
-How actually to build resistance against an all-powerful occupation? I'm not sure, this would be my first experience of fighting a global criminal conspiracy with nothing more than my keyboard. Here's my best guess:
+How does one actually build resistance against an all-powerful occupation? I'm not sure; this would be my first experience of fighting a global criminal conspiracy with nothing more than my keyboard. Here's my best guess:
 
 * Identify, document, and boycott the businesses and business partners of the Para-state. Boycott the products of extraction economies. Develop a low carbon lifestyle.
 
-* Build a new decentralized Internet that is unbearable expensive to spy on -- see my proposal in the Appendix.
+* Build a new decentralized Internet that is unbearably expensive to spy on -- see my proposal in the Appendix.
 
 * Promote the Awakening and obviously, make sure everyone you know has read this book. It's free to download and share, though you can also buy it in paper.
 
 * Praise the whistle blower and the investigative reporter, for she or he is a true hero. Read the alternative media, staying critical of propaganda, and share with your friends and family.
 
-* Document the Spider's predations, from drones to mall massacres, and mourn them loudly. We are one world, and crimes against any of us are crimes against us.
+* Document the Spider's predations, from drones to mall massacres, and mourn them loudly. We are one world, and crimes against any of us are crimes against all of us.
 
 * Accept no official explanations, ever, without evidence and independent verification. Full cynicism is justified when facing compulsive liars. Assume every single notable incident is either allowed to happen or made to happen.
 
 * Accept that we will have to take whatever the Spider throws at us, as we have nowhere else to go. Accept that we will face a long struggle.
 
-* Focus European public opinion on the Spider, especially to isolated and embarrass the UK, which the US depends on as a proxy and experimental playground. Remind European politicians that the US and UK sent armed terrorists into their towns and cities for 40 years.
+* Focus European public opinion on the Spider, especially to isolate and embarrass the UK, which the US depends on as a proxy and experimental playground. Remind European politicians that the US and UK sent armed terrorists into their towns and cities for 40 years.
 
 * Build public opinion in Brazil and India, two nations who potentially hold the balance of power in coming decades.
 
