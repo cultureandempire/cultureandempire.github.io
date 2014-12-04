@@ -8,6 +8,7 @@ Free to share and remix under CC-BY-SA-3.0</p>
 [-- single page](http://cultureandempire.com/html/cande.html) 
 [-- PDF](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/download/cande.pdf)
 [-- EPUB](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/download/cande.epub)
+[-- MOBI](https://github.com/cultureandempire/cultureandempire.github.io/raw/master/download/cande.mobi)
 
 [The Edge Net](http://cultureandempire.com/edgenet.html)[-- single page](http://cultureandempire.com/html/edgenet.html)
 

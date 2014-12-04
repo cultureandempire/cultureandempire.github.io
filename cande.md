@@ -1153,11 +1153,11 @@ The [*Diagnostic and Statistical Manual of Mental Disorders*](https://en.wikiped
 
 For example, [in business executives](https://en.wikipedia.org/wiki/Personality_disorder#In_executives), histrionic personality disorder, narcissistic personality disorder, and obsessive-compulsive personality disorder scores were as high or higher than that of disturbed criminals.
 
-The dominant explanation for personality disorders is poor parenting and/or abuse. If your daughter has borderline personality disorder, the assumption is she had bad or abusive parents. It seems a double punishment for those with troubled children. It also raises disturbing questions about how to intervene if, for instance, tests show a young child starting to show symptoms of a personality disorder. Do we remove them from their (failing, according to mental health professionals) family and put them into foster care? Or do we leave them in place, and administer drugs?
+A widely-held explanation for personality disorders is poor parenting and/or abuse. If your daughter has borderline personality disorder, the assumption is often that she had bad or abusive parents. It seems a double punishment for those with troubled children. It also raises disturbing questions about how to intervene if, for instance, tests show a young child starting to show symptoms of a personality disorder. Do we remove them from their (failing, according to mental health professionals) family and put them into foster care? Or do we leave them in place, and administer drugs?
 
 The upbringing/abuse explanation concludes that people are fragile, easily broken, and only lifelong support from drugs and therapy can help them. It has two outcomes: to increase the number of people taking expensive drugs and therapy, and to fracture the families of those who are most vulnerable.
 
-The alternative explanation is biological basis. It is a controversial notion and is absent from DSM-5, which was authored by the pharmaceutical and mental health care industries. This explanation says that personality disorders have a strong hereditary disposition, which can be triggered or exacerbated by environmental factors.
+The alternative explanation, backed by a growing body of data, is biological basis. It is still a controversial notion, absent from DSM-5, which was authored by the pharmaceutical and mental health care industries. A biological basis means that personality disorders are strongly inherited, and triggered or exacerbated by environmental factors to a degree that we can actually measure, from twin studies.
 
 Yet within this exists a paradox: How can genes that make us so dysfunctional, self-destructive, and even suicidal be the result of natural selection? The same paradox applies to groups: How can collective violence and stupidity be based on inheritable instincts when they clearly seem counterproductive?
 
@@ -1457,7 +1457,7 @@ Here's a claim: the quality of any society correlates directly to the performanc
 
 There is still one unanswered question. What is the best form of government for a country that has warring communities, no middle class, and a history of violent politics? How does one solve a Haiti or a Congo-Kinshasa or an Angola? It seems painfully obvious that "elections" do not help, and have never helped. In these countries, the people are thinner and poorer than they were under previous dictatorships.
 
-Fake democracy and dictatorship is will have the same result: the looting of natural resources and the treasury, economic failure, suppression and flight of whatever remaining middle classes there are. There have been a few "gentle dictatorships" that actually promoted commerce and the middle classes. They are so rare we can consider them outliers. There was Tito's Yugoslavia, Venezuela under Chavez, perhaps China.
+Fake democracy and dictatorship will have the same result: the looting of natural resources and the treasury, economic failure, suppression and flight of whatever remaining middle classes there are. There have been a few "gentle dictatorships" that actually promoted commerce and the middle classes. They are so rare we can consider them outliers. There was Tito's Yugoslavia, Venezuela under Chavez, perhaps China.
 
 So what can the international community do when a country is unlucky? Would assassinating Hitler in 1929 have changed anything? The answer is no, it would have just created another martyr. Charismatic bandits are not that rare. How about foreign invasion and forced administration? It worked in Bosnia and failed in Haiti, Iraq, and Afghanistan. It's expensive, dangerous, and only makes sense as part of a smash-and-grab operation on the largest scale. It certainly doesn't fix broken countries.
 
@@ -1975,7 +1975,7 @@ Now, the cost of storing this 20EB target data set. Over the last 30 years the c
 | 2054 | 1ZB |
 | 2066 | 1YB |
 
-For comparison, the total amount of data in the human body's DNA is about 150ZB (100 trillion cells at about 1.5GB per cell), and there are about 21 yolta atoms in a gram of silicon. I think the dollar yoltabyte will happen right on schedule fifty-some years from now. Side note: the prefix "yolta" was only coined in 1991.
+For comparison, the total bytes of DNA in a human body (treating the human body like a hard disk, and ignoring that our cells have almost the same DNA) is about 150ZB (100 trillion cells at about 1.5GB per cell), and there are about 21 yolta atoms in a gram of silicon. I think the dollar yoltabyte will happen right on schedule fifty-some years from now. Side note: the prefix "yolta" was only coined in 1991.
 
 Hard disks are only the raw cost. Let's assume we store all data in two different data centers, to guard against disasters. In each location we add backup disks to guard against disk failures. We need industrial-strength disk storage racks, power supplies, cooling, and maintenance. We need at least 15% for bribes and consultancy fees back to the congressmen who voted us the budgets. We get a volume discount. Let's assume all that makes a cost factor of four.
 
@@ -2023,7 +2023,7 @@ The first column works for business, particularly the web industry, which tracks
 
 The second column work for themselves. They bug our PCs with viruses, trojan horses, worms, and spyware. They watch what we type, steal our credit card information and bank details, passwords, and emails. They control the best part of a billion PCs worldwide, largely thanks to Microsoft's inability to make Windows secure.
 
-And the third column works for the state. We're not talking about one country, rather, of coalitions of varying degrees of integration. Centrally, [the Anglophone axis](https://en.wikipedia.org/wiki/UKUSA_Agreement): Canada, US, UK, and Australia. Even New Zealand goes along for the show. Secondarily, NATO around that: Germany, Sweden, Italy, Turkey, France. Third, the silent partners: Israel, Egypt, Saudi Arabia, Pakistan, Japan, South Korea. And then the Independents: China, Russia, India, and Brazil, building their own networks and sharing very little, if anything, with the west.
+And the third column works for the state. We're not talking about one country, rather, of coalitions of varying degrees of integration. Centrally, [the Anglophone axis](https://en.wikipedia.org/wiki/UKUSA_Agreement): Canada, US, UK, and Australia. Even New Zealand goes along for the show. Secondarily, NATO around that: Germany, Italy, Turkey, France. Third, the silent partners: Israel, Egypt, Saudi Arabia, Pakistan, Sweden, Japan, South Korea. And then the Independents: China, Russia, India, and Brazil, building their own networks and sharing very little, if anything, with the west.
 
 It's the third column that is the most dangerous to digital society, because their prime goal is the control of political discourse. They don't want to make money from us, or use our PCs to send spam. They want to make sure we don't build a revolution.
 
@@ -2077,7 +2077,7 @@ The tragic irony is that it's the nicer business executives, the 96% or so who a
 
 In the hot summer of 2013, following the Snowden leaks, European governments angrily denounced the American surveillance state. Their flamboyant shock and horror reminds me of a careless driver, who after causing five accidents, explodes in rage because someone cuts in before him at the intersection.
 
-My first encounter with the global surveillance state was in 2005, when the European Union passed the [Data Retention Directive](http://en.wikinews.org/wiki/Data_Retention_Directive_passed_by_EU_Parliament), or DRD. At the time, we in the FFII and some allies lobbied against this law, and we were pretty much alone. Political parties left and right united to push the law through with little debate. National governments supported it, with a few exceptions. At the time, we reported:
+My first encounter with the global surveillance state was in December 2005, when the European Union passed the [Data Retention Directive](http://en.wikinews.org/wiki/Data_Retention_Directive_passed_by_EU_Parliament), or DRD. At the time, we in the FFII and some allies lobbied against this law, and we were pretty much alone. Political parties left and right united to push the law through with little debate. National governments supported it, with a few exceptions. At the time, we reported:
 
 > The so-called "Big Brother" directive, highly controversial at least among those even aware of its existence, requires all Internet and telecommunications service providers to log all traffic metadata (who called who, who visited what sites) in Europe for 6 to 24 months and turn the data over to police forces, secret services, and other organisations, as decided by national governments. The law was drafted and passed in three months, an extraordinarily rapid process, and was heavily influenced by earlier UK legislation that failed to pass in Britain.
 
