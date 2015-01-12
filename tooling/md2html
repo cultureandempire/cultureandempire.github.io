@@ -59,17 +59,24 @@ sub process_source {
         if (/^#\s+/) {
             close_list ();
             $anchor++;
+            $title = $';
             writeln ("<a name=\"toc-$anchor\"></a>");
-            writeln ("<h1>$'</h1>");
-            $toc .= "<p class=\"toc\"><a href=\"#toc-$anchor\">$'</a></p>\n";
+            writeln ("<h1>$title</h1>");
+            $toc .= "<p class=\"toc\"><a href=\"#toc-$anchor\">$title</a></p>\n";
         }
         elsif (/^##\s+/) {
             close_list ();
-            writeln ("<h2>$'</h2>");
+            $title = $';
+            $slug = lc ($title);
+            $slug =~ s/[^a-z0-9-]//g;
+            writeln ("<a name=\"$slug\"></a><h2><a href=\"#$slug\">$title</a></h2>");
         }
         elsif (/^###\s+/) {
             close_list ();
-            writeln ("<h3>$'</h3>");
+            $title = $';
+            $slug = lc ($title);
+            $slug =~ s/[^a-z0-9-]//g;
+            writeln ("<a name=\"$slug\"></a><h3><a href=\"#$slug\">$title</a></h3>");
         }
         elsif (/^>\s+/) {
             require_list ("blockquote");
